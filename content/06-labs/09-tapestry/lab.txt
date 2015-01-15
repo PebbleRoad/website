@@ -1,0 +1,39 @@
+Title: Tapestry app
+
+----
+
+Summary: A free app that gives you an interface to store and manage your front-end patterns.
+
+----
+
+Body: 
+
+## What it is
+Tapestry is a free app to manage front-end design patterns. You can use the prebuilt patterns or create your own. The interface allows you to:
+
+* Browse patterns
+* Search patterns
+* Update patterns
+
+## Why use it
+When you give pattern libraries as a deliverable to the CMS team you need to create an interface to help them easily find and use patterns. With Tapestry you don't have to create this interface anymore. Just describe patterns in a particular way and add them to the Tapestry folder. The interface will be automatically generated for you. 
+
+## How to use it
+
+* [Download and install Tapestry](https://github.com/PebbleRoad/tapestry)
+* Create folders to organise patterns
+* Describe patterns in Markdown or YAML
+* The app generates an interface to browse and search all patterns
+* Spend the saved time with your loved ones!
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Category: 

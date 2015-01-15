@@ -1,0 +1,19 @@
+/*------------------------------------*\
+    TABLE
+\*------------------------------------*/
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    @include font-size($base-font-size, false);
+
+    td, th{
+        vertical-align: top;
+        padding: 0.8em 1em;
+        border: 1px $base-ui-color solid;
+    }
+
+    thead th, thead td{
+        background: #eee;
+    }
+}

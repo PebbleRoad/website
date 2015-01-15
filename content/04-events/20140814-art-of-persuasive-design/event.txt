@@ -1,0 +1,46 @@
+Title: Art of persuasive design
+
+----
+
+Summary: Free talk for the IxDA community in Singapore on how to use psychology to design for action (and conversion).
+
+----
+
+Body: 
+
+<table>
+<tr>
+	<td width="140">When</td>
+	<td>14 August 2014 (Thu)</td>
+</tr>
+<tr>
+	<td>Where</td>
+	<td>migme, Singapore</td>
+</tr>
+<tr>
+	<td>Tickets</td>
+	<td><p>Free</p>
+
+	</td>
+</tr>
+</table>
+
+<p>Is your landing page conversion rate low? Do users keep missing your big “Subscribe” button? Do users miss your cross-sell pop-up? Chances are this lack of action has got to do with low motivation. People may not be motivated even if you make the font size bigger. Motivation is driven by internal, emotional triggers rather than external ones.</p>
+
+<p>The good news is that we can use the science of influence and persuasion to motivate people. We call this the art of persuasive design.</p>
+
+<p>In this session, Prakriti from PebbleRoad will share examples of persuasive design strategies such as reciprocity and social proof to drive action.</p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/38159653" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/maish/art-of-persuasive-design" title="Art of persuasive design" target="_blank">Art of persuasive design</a> </strong> from <strong><a href="//www.slideshare.net/maish" target="_blank">PebbleRoad</a></strong> </div>
+
+----
+
+Author: 
+
+----
+
+Date: 2014-08-14
+
+----
+
+Category: 

@@ -1,0 +1,39 @@
+Title: Cardinator app
+
+----
+
+Summary: A free app that allows anyone to create double-sided cards and embed them on websites and blogs.
+
+----
+
+Body: 
+
+## What it is
+A simple app that allows anyone to create double sided cards (aka flash cards) and embed them on websites and blogs.  The embed code contains the content, the interface and the interactions all bundled together. You don't have to a thing - just create the content. 
+
+
+## Why use it
+
+Some repeating content is better viewed as cards. For example:
+
+* Question - Answer
+* Task - Instructions
+* Guidelines - Examples
+
+Instead of writing long paragraphs of text, the Cardinator app allows you to create an interface that allows users to navigate the cards easily and quickly.
+
+## How to use it
+
+Visit [http://cardinatorapp.com](http://cardinatorapp.com)
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Category: 

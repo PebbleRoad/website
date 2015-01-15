@@ -1,0 +1,87 @@
+Title: Intranet governance cycle
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2009-09-21
+
+----
+
+Category: Intranet Design
+
+----
+
+Summary: In this article we offer a system view of intranet governance. It is based on a simple strategy that can be applied across different areas. The areas that I've covered are: information organisation, publishing, collaboration and applications.
+
+----
+
+Body: 
+
+## Introduction
+It is surprising how many conversations on intranet governance take place in isolation, getting treated like an independent piece that just needs to be plugged in.
+
+“We have an intranet and we like to talk about governance.” “Sure, let’s start with your objectives, your strategy.” “Huh? What’s that all about now?”
+
+To deal with this problem we need to use a systems approach. We need to make it simple for people to see and visualise that there are other pieces of the puzzle involved and they all need to be in sync for the whole to be useful.
+
+I’ve been thinking about these lines for sometime now. The KM Singapore conference gave me an opportunity to put these thoughts together. The entire presentation can be found lower in this page.
+
+This article is a continuation of the ideas from the first article on [Intranet Governance Guide](http://www.pebbleroad.com/articles/view/intranet-governance-guide/).
+
+## Intranet governance—a definition
+Intranet governance is a framework for managing, supporting and improving the intranet. It aligns people and technology to realise business value.
+
+The big question here is: what constitutes business value? The mission and vision statements are lofty goals. They give a start but they need to be presented in people terms and they need to be viewed from a systems perspective.
+
+Thinking about business value is about asking the right questions and making the right decisions. For example: “So you want to go the records management way? Why? Who benefits? Who looses? What does six months down the road look like?”
+
+The point here is to appreciate that the intranet is one of the key elements that contributes to business value and then to position, design and govern it like other value adding elements.
+
+## The governance cycle
+The governance cycle looks at governance from a systems perspective. It has 3 parts:
+
+1. **Strategy**: having the right people, processes and technology in place, but before all this, it is about having the right idea in place
+1. **Engagement**: reaching out to stakeholders and staff using marketing, training and professional services
+1. **Feedback**: monitoring and measuring the intranet performance
+
+There are 4 areas that I think this cycle and be applied to:
+
+1. Information organisation
+1. Publishing
+1. Collaboration
+1. Applications
+
+Applying the cycle to publishing can result in the following:
+
+### Primary purpose
+To ensure that common content on the intranet is of high quality and to make it easy for all staff to find, interpret and use the content in a productive and cost-effective way.
+
+### What needs to be in place
+* Easy publishing technology
+* Publishing processes
+* Content style guide
+* Page templates
+* Examples, non-examples
+* Publishing checklists
+* Training guides
+* …
+
+### Engage
+* Build awareness
+* Give training
+* Expose best practices
+* …
+
+#### Get feedback
+* Anecdotal evidence
+* Direct feedback from staff
+* Usability testing
+* Analytics
+* …
+
+The same approach can be applied to the other 3 areas but the methods will be different. More examples are given in the presentation below.
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/1994692" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/maish/intranet-governance" title="Intranet Governance" target="_blank">Intranet Governance</a> </strong> from <strong><a href="http://www.slideshare.net/maish" target="_blank">Maish Nichani</a></strong> </div>

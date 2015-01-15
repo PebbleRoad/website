@@ -1,0 +1,31 @@
+Title: DOM scripting and Ajax workshop with Christian Heilmann
+
+----
+
+Body: 
+
+This event was held 29-30 March 2007.
+
+Christian Heilmann's workshop was a blast. We were treated to robust real-word scripts, designed for accessibility and easy maintenance, for use on heavily accessed websites like Yahoo!. All of this mixed with his quirky humour ("Java is to JavaScript is like car is to carpet!") which kept things lively.
+
+While the hands-on coding exercises were tough for the less-experienced, the experienced ones were all peering with full concentration deep into their laptop screens, adding a JavaScript event handler here or creating a text node there.
+
+The 2 days blew by in a flash, leaving us with a solid foundation to go further into solid DOM scripting and Ajax.
+
+Thanks to Chris who came all the way over from the UK and has to rush over to Scotland to do a presentation (in kilts), and thanks to all who attended. Now, let's see better websites backed up with better scripts!
+
+----
+
+Summary: 
+
+----
+
+Author: 
+
+----
+
+Date: 2007-03-29
+
+----
+
+Category: 

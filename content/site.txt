@@ -1,17 +1,46 @@
-Title: Kirby Starterkit
+﻿Title: PebbleRoad
 
 ----
 
-Author: Bastian Allgeier GmbH
+Masthead: We help large companies turn complex, challenging problems into elegant, innovative solutions.
 
 ----
 
-Description: This is Kirby's Starterkit.
+Tagline: 
+
+## Find out more (link:about-us text: about us), check out the (link:services text: services) we offer, read our (link:perspectives text: perspectives) or just (link:contact text: drop by) for a chat.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Description: UX design consultancy
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Keywords: UX, service design, information-architecture, IA, user, experience, designing, consulting, publishing, accessibility, usability, training, knowledge, management, intranets, websites
+
+----
+
+Address: PebbleRoad Pte Ltd, 314 Tanglin Road, Phoenix Park, #01-14, Singapore 247977
+
+----
+Telephone: +65 6736 2180
+----
+
+Email: info@pebbleroad.com
+
+----
+
+Copyright: &copy; (date: Year) PebbleRoad Pte Ltd
+
+----
+
+Gplus: https://plus.google.com/116500201979181780899
+
+----
+
+Linkedin: http://www.linkedin.com/company/pebbleroad
+
+----
+Twitter: http://twitter.com/maish
+----
+Github: http://github.com/PebbleRoad

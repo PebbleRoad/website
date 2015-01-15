@@ -1,0 +1,206 @@
+Title: Masterclass in building search-based apps with SharePoint 2013
+
+----
+
+Summary: Join us for a 2-day masterclass on 10-11 July 2014 with Agnes Molnar and learn to tame the messy, siloed information that exists in organisations!
+
+----
+
+Body: 
+
+<table>
+<tr>
+	<td width="140">When</td>
+	<td>10-11 July 2014 (Thu-Fri)</td>
+</tr>
+<tr>
+	<td>Where</td>
+	<td>Swissotel Merchant Court, </br>
+		20 Merchant Road</br>
+		Singapore 058281</td>
+</tr>
+<tr>
+	<td>Tickets</td>
+	<td><p>S$800 price per person.</p>
+
+	</td>
+</tr>
+</table>
+
+Do you often get asked to put together content that **resides in different content repositories like document management systems and shared folders**? 
+
+Does your boss ask you for a **visual business dashboard** to build every month?
+
+Do you put together this **business dashboard using MS-Excel**?
+
+If you answered yes, then you’re missing out on the **hottest, productivity boosting approach** that could save you and your business a lot of time and money!
+
+Here’s the approach…are you ready?
+
+It’s called **SEARCH-BASED APPS**!
+
+Search-based apps are apps that are built using the power of **enterprise search**. The search results acts like a database to power the app.
+
+Because search-based apps (SBAs) use such a different approach to building enterprise apps it takes a while to get your head around all the new concepts. But fear not, you are in luck. We’re getting **Agnes Molnar, the star of the search-based apps world**, for a high-octane **2-day masterclass on building search-based apps** for SharePoint.
+
+This masterclass is foucsed on concepts and strategies so don't worry of it being too techncial. It is **designed for managers and executives** to learn how to harness the power of SharePoint (2013, 2010) and enterprise search.
+
+## About Agnes Molnar
+
+(figure: agnes.jpeg align: right)
+
+Agnes Molnar is a highly accomplished and super-talented star of the search-based apps world. She is a Microsoft Most Valued Professional (MVP) from Hungary and has done extensive work on search and information management. She has co-authored books and given presentations all over the world including the recently concluded SharePoint  2014 Conference in Las Vegas.
+
+## What are search-based apps?
+
+Search-based apps, or SBAs, are apps that are built using the power of enterprise-class search engines like the fully integrated FAST in SharePoint 2013. You don't need a database to power these apps; the power of search feeds the app!
+
+Search is not just about retrieving links to information. It can also retrieve data. The enhanced Search in SharePoint 2013 has the capabilities of crawling both structured and unstructured data sources. It can extract entities like names of vendors and geographic locations. It can build semantic clusters of information. All this meaning can be presented using dashboards and faceted navigation interfaces.
+
+Want to learn more? Check out some of Agnes’s presentations:
+
+* [Making Great Search Based Applications with Query Rules in SharePoint 2013](http://vimeo.com/73982161)
+* [Best practices for Information Architecture and Enterprise Search](http://channel9.msdn.com/Events/SharePoint-Conference/2014/SPC207)
+* Or, visit Agnes’s blog at [www.aghy.hu](http://www.aghy.hu) for recent updates
+
+## What are the benefits of SBAs?
+
+* SBAs use the already existing functionality and power of enterprise search. You don't need to custom program to get this power.
+* SBAs use the messy, siloed information the way it is. You don't need to create and migrate information into databases.
+* SBAs are quick to adapt to changing requirements. You don't need to spend months to make small changes.
+* Most importantly, SBAs leverage your investment in SharePoint.
+
+## What you can expect to learn
+
+* A solid understanding of SBAs and how they work
+* How to make a case for using SBAs
+* A roadmap for building and planning SBAs
+* Resources and infrastructure needed to implement SBAs
+
+## Agenda
+
+### Day 1, July 10 2014 (Thursday)
+<table>
+      <tbody>
+        <tr>
+          <td width="140">9:00a - 10.30a
+          </td>
+          <td>Introduction - Search Based Applications<br />
+            Planning for SBAs
+          </td>
+        </tr>
+        <tr>
+          <td>10.30a - 10.45a
+          </td>
+          <td>Coffee break
+          </td>
+        </tr>
+        <tr>
+          <td>10.45a - 12.30p
+          </td>
+          <td>Content Processing - Content Sources, Crawling<br />
+            Search metadata Part I
+          </td>
+        </tr>
+        <tr>
+          <td>12.30p - 1.30p
+          </td>
+          <td>Lunch break
+          </td>
+        </tr>
+        <tr>
+          <td>1.30p - 3.30p
+          </td>
+          <td>Search metadata Part II<br />
+            Entity Extraction, Auto-tagging
+          </td>
+        </tr>
+        <tr>
+          <td>3.30p - 3.45p
+          </td>
+          <td>Coffee break
+          </td>
+        </tr>
+        <tr>
+          <td>3.45p - 5.30p
+          </td>
+          <td>Working with Queries - Building Powerful Queries, Query Rules,
+            Result Blocks
+          </td>
+        </tr>
+        <tr>
+          <td>5.30p
+          </td>
+          <td>End of day 1
+          </td>
+        </tr>
+      </tbody>
+    </table>
+### Day 2, July 11 2014 (Friday)
+<table>
+  <tbody>
+    <tr>
+      <td width="140">9:00a - 10.30a
+      </td>
+      <td>User Experience in SBAs Part I
+      </td>
+    </tr>
+    <tr>
+      <td>10.30a - 10.45a
+      </td>
+      <td>Coffee break
+      </td>
+    </tr>
+    <tr>
+      <td>10.45a - 12.30p
+      </td>
+      <td>User Experience in SBAs Part II
+      </td>
+    </tr>
+    <tr>
+      <td>12.30p - 1.30p
+      </td>
+      <td>Lunch break
+      </td>
+    </tr>
+    <tr>
+      <td>1.30p - 3.30p
+      </td>
+      <td>Search Governance
+      </td>
+    </tr>
+    <tr>
+      <td>3.30p - 3.45p
+      </td>
+      <td>Coffee break
+      </td>
+    </tr>
+    <tr>
+      <td>3.45p - 5.30p
+      </td>
+      <td>Implementing SBAs
+      </td>
+    </tr>
+    <tr>
+      <td>5.30p
+      </td>
+      <td>End of day 2
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Contact
+Email Simon Goh at simon@pebbleroad.com or call him at +65 9270 9562 if you have any questions about this event.
+
+----
+
+Author: 
+
+----
+
+Date: 2014-07-10
+
+----
+
+Category: 

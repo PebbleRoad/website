@@ -1,0 +1,79 @@
+/*------------------------------------*\
+    LINKS
+\*------------------------------------*/
+
+a{
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+/**
+ * Social links
+ */
+
+.link-twitter,
+.link-linkedin,
+.link-gplus,
+.link-github,
+.link-facebook{
+
+    color: $link-color;
+    
+
+    &:hover{
+        background-color: $brand-grey;
+        color: #fff;
+
+        &:before{
+            color: #fff;
+        }
+    }
+
+
+    &:before{
+        @extend %icon;
+        content: "\e79b";
+        color: $link-color;
+    }
+}
+
+    .link-linkedin:before{
+        content: "\e79a";
+    }
+
+    .link-gplus:before{
+        content: "\e799";
+    }
+
+    .link-github:before{
+        content: "\e79d";
+    }
+
+    .link-facebook:before{
+        content: "\e79c";
+    }
+
+
+    /**
+     * Link rounded
+     */
+    
+    .link-round{
+        background: #eee;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;    
+        display: inline-block;
+        text-align: center;
+        margin-right: 0.5em;
+
+        &:before{
+            @include font-size(24px, false);
+            margin: 0;
+            line-height: 40px;
+        }
+    }

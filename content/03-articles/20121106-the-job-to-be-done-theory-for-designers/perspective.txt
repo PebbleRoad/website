@@ -1,0 +1,148 @@
+Title: The Job-To-Be-Done Theory for designers
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2012-11-06
+
+----
+
+Category: Digital Marketing,Design Strategy
+
+----
+
+Summary: In this article we describe an approach—The Job-To-Be-Done-Theory—that has attracted a lot of attention from the likes of Clayton Christensen and outline what designers can learn from it.
+
+----
+
+Body: 
+
+## Introduction
+In the 1960s, [Theodore Levitt](http://en.wikipedia.org/wiki/Theodore_Levitt), a professor at Harvard Business School, used to tell his students, "People don't want a quarter-inch drill—they want a quarter-inch hole". This profound insight is the basis of the job-to-be-done (JTBD) theory—a theory that has fascinated the likes of Clayton Christensen, the Kim B. Clark Professor of Business Administration at Harvard Business School and one of the world’s foremost experts on innovation. Christensen writes about the theory at length in [*The Innovator's Solution*](http://amzn.com/1578518520) and thinks the theory will be one of his [most enduring legacies](http://www.forbes.com/sites/stephenwunker/2012/02/07/six-steps-to-put-christensens-jobs-to-be-done-theory-into-practice/).
+
+As designers, why should we care about this theory? We think it brings into focus and offers an approach on two things we designers hold sacred: people and innovation.
+
+Let's explore this theory.
+
+## What is the JTBD theory?
+There are three aspects to the JTBD theory:
+
+1. People 'hire' products and services to get a job done
+1. People encounter situations that drive the need for a job
+1. People have criteria to evaluate the success of a job
+
+Let's get into the details.
+
+### 1. People 'hire' products and services to get a job done
+People want to get things done (their jobs) and they 'hire' products & services to do them.
+
+So, people hire:
+
+* a clinic (a service) to get well again (the job)
+* a beard trimmer (a product) to look well-groomed (the job)
+* a restaurant to have lunch
+* a scuba centre to learn diving
+
+The implication of this foundational tenet of the theory is that the job, and not the solution, becomes the unit of analysis.
+
+Think about the time we spend debating the next set of features and functions that should go into a new release. Think about how our decisions are influenced based on what the competitors have or don't have. Think about how we use research findings on choices people make, and infer them to be solutions people prefer.
+
+The problem is that the activities above just tell half the story. The full story is revealed when the conversations and the findings are aligned to focus on people and the jobs they’re trying to get done.
+
+Jobs have certain characteristics:
+
+#### They remain valid over time
+You may have noticed that the jobs listed above look like old-time jobs, and that is because they are—these jobs have remained valid over time. What has changed are the solutions to get the jobs done. For example, before people used to hire a comb and scissors to trim the beard; now they hire an electric trimmer. Look around and you’ll find many such old-time jobs!
+
+#### They may be hired for emotional and social reasons
+At times people look to hire solutions to fulfil more than just the functional dimension of the job; they may desire an emotional or social dimension as well. For instance, an electric trimmer may be hired on a busy workday, but a salon may be hired on a lazy Sunday. The job is the same, just that the functional dimension (look well-groomed) may be desired more on workdays and the emotional and social dimensions (look well-groomed in the company of familiar faces and conversations) may be desired more on weekends. The key, therefore, is knowing which dimensions are desired under what situations.
+
+#### They don't reveal themselves easily
+Jobs are not said; they’re done. People don't carry job statements in their heads. We therefore need a different approach to look for 'real' jobs. As [Clayton Christensen says](http://sloanreview.mit.edu/the-magazine/2007-spring/48301/finding-the-right-job-for-your-product/), "The jobs that customers are trying to get done cannot be deciphered from purchased databases in the comfort of marketers' offices. It requires watching, participating, writing and thinking. It entails knowing where to look, what to look for, how to look for it and how to interpret what you find."
+
+#### They are usually larger than the solution
+If the JTBD is to look well-groomed, then the beard trimmer is just one solution that addresses the job. There are many other solutions to looking well-groomed that target everything from appearance and attire to personal hygiene and demeanor. For a company in the trimmer business, this insight opens up the opportunity space to grow into the looking-well-groomed market.
+
+[In his book on service innovation](http://amzn.com/007171300X), Lance Bettencourt writes about PetSmart, which started offering pet food in 1989. It was doing a small part of the care-for-my-pet job. But then started offering other services such as grooming, training, vaccinations and more. PetSmart’s revenues have since grown more than 20 percent a year on average. Understanding that there is more to the job than just good pet food gave PetSmart the competitive edge.
+
+### 2. People encounter situations that drive the need for a job
+Management guru Peter Drucker has said that "The customer rarely buys what the business thinks it sells him". Let’s see what this means by using the JTBD lens.
+
+Consider this story:
+
+* A scuba centre advertised its dive-certification course in direct mailing lists purchased from diving magazines.
+* The **assumed JTBD**: an aspiring diver wanting to learn diving and having a certificate to prove it at the end.
+* But after gathering purchase stories from customers, the owner found that many were recently engaged couples planning wedding trips to the Caribbean.
+* **The real JTBD**: newlyweds wanting to spend quality time with each other by learning a new skill.
+* With this knowledge the owner advertised in bridal magazines and saw his classrooms filled during traditionally lull periods.
+
+*(Rephrased from Asking All the Right Questions, by Gerald Berstell and Denise Nitterhouse, Marketing Research, Vol. 13 Issue 3, p14.)*
+
+The reason people "rarely buy what the business thinks it sells them" is because it is the situation and not the solution that drives the need for a job. The newlyweds found themselves in a situation where the scuba centre was the best-fit solution for their job.
+
+Note that there could have been substitute solutions—other solutions that could have been hired to do the same job, such as a skydiving centre—but scuba diving centre won, perhaps based on a set of success criteria the newlyweds had for the job (see next section).
+
+Want another example? Now is a good time to watch the popular [milkshake story](http://www.youtube.com/watch?v=s9nbTB33hbg) narrated by the venerable Clayton Christensen himself. The story clearly highlights how situations affect the selection of a job.
+
+### 3. People have criteria to evaluate the success of a job
+People have criteria, either implicit or explicit, when looking to hire products or services to get a job done.
+
+In the case of the newlyweds, the JTBD was to spend quality time together and learn a new skill. Their criteria for success may have been:
+
+* maximise immersive experience
+* maximise intimacy
+* maximise couple accomplishments
+* minimise travelling time from the hotel
+* minimise cost
+
+There could have been substitute solutions such as skydiving or deep sea fishing, but scuba diving won as the best-fit solution.
+
+Notice that we used only 'maximise' and 'minimise' to define each criterion. Anthony Ulwick in [*What Customers Want: Using Outcome-Driven Innovation to Create Breakthrough Products and Services*](http://amzn.com/0071408673) and more recently Lance Bettencourt in [*Service Innovation: How to Go from Customer Needs to Breakthrough Services*](http://amzn.com/007171300X) have found that criteria statements can always be reduced to either wanting to minimise or maximise something. We’ve found this to be useful as well, as it gives a sense of direction and not a destination.
+
+Understanding the JTBD and the criteria that people have in evaluating the success of the job can help identify gaps in current products and services and also help spot opportunities for new products and services, and even new customer segments.
+
+## What does this mean for designers?
+The JTBD theory affects all phases of the design process. Let’s see how.
+
+Given below is a typical four phase design process.
+
+### Research
+This phase is about finding things out—customers, competitors, markets, technology and society. If we use the JTBD approach then the job becomes the focus of the research.
+
+* Customers are identified and segmented based on the jobs they do or don't do, and not on traditional segments like demographics or lifestyle. The same goes for market research and competitor research.
+* Research is planned to understand the jobs—what they are hired to do, the situations in which the jobs are desired, the challenges faced in getting them done and the criteria used to evaluate their success.
+* Research methods are chosen to uncover rich insights in real settings.
+
+### Synthesise
+This phase is about making sense of gathered research. The JTBD becomes the organising principle along which insights on jobs, contexts, challenges and success criteria are uncovered.
+
+Yes, we can use the same methods for synthesis such as affinity maps, concept maps and flow maps, just that the JTBD becomes the unit of analysis.
+
+### Conceptualise
+This phase is about creating concepts using the clarity and direction of the synthesis phase. The conceptualisation is more broad-based because the focus is on the job.
+
+For designers working on fixed scope projects, this scenario is all too familiar. We are scoped to a project but sense that there are other pieces that must be in place for the project to succeed. The JTBD approach gives us the rationale to show the stakeholders the importance of including the other pieces as well.
+
+In the milkshake example, after the synthesis identified the real JTBD—make-the-boring-commute-more-interesting—not all concepts were focused on the milkshake (the product). One of the concepts explored was based on the criteria—customer in a hurry—was a dispensing machine in front of the counter that the customer could use with a pre-paid swipe card to get the drink faster without having to get stuck in the drive-through lane. This concept was not about the product; it was about the **entire experience**.
+
+To put this in equation form:
+**Ideation x (JTBD + situations + success criteria) = concepts for breakthrough experiences.**
+
+### Realise
+This phase is about implementing the breakthrough concepts identified in the Conceptualise phase. To a very large extent, this phase is dependent on the organisation’s capabilities in executing the concepts. However, the JTBD findings can help in the following:
+
+* **Tradeoffs**: sometimes the organisation cannot do everything; tradeoffs have to be made. The JTBD findings can help in making such tradeoffs by highlighting important jobs that are underserved or unserved. These jobs are the ones that will bring in value to customer and organisation.
+* **Communication**: the JTBD story can become the glue that helps improve communication and understanding between teams. Think about personas with the JTBD slant!
+* **Evaluation**: the realised product or service can be evaluated based on how well it is addressing the JTBD. Think experience maps with an evaluation slant!
+
+## Conclusion
+The JTBD theory at its heart is about focusing on the right things. Instead of making random or arbitrary decisions, the theory invites us to make decisions based on the thing that matters most to people—the job they want to get done.
+
+For designers, the focus can align the steps in the design process and encourage us to do more within the focus. This may mean that we learn new tools and frameworks, but it will still be based on our vast repository of design methods and frameworks we already know. The big difference, however, will be in kinds of questions we ask.
+
+At PebbleRoad, we've started using the theory and the biggest difference we are seeing is alignment and clarity. The theory exudes common sense (in retrospect) and this excites our clients. We like that our clients are excited and also because we now can align our creative energies to solving the right kind of problems.
+
+*Special thanks to the team at PebbleRoad for helping out with this article!*

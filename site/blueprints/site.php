@@ -5,16 +5,34 @@ pages: default
 fields:
   title:
     label: Title
-    type:  text
-  author:
-    label: Author
-    type:  text
+    type:  text  
   description:
-    label: Description
-    type:  textarea
+    label: Meta Description
+    type:  text
   keywords:
-    label: Keywords
-    type:  tags
+    label: Meta Keywords
+    type:  tags  
+  address:
+    label: Address
+    type: text
+  telephone:
+    label: Telephone
+    type: text
+  email:
+    label: Email
+    type: email
+  gplus:
+    label: Google Plus
+    type: text
+  linkedin:
+    label: LinkedIn
+    type: text
+  twitter:
+    label: Twitter
+    type: text
+  github:
+    label: Github
+    type: text
   copyright:
     label: Copyright
-    type:  textarea
+    type:  text

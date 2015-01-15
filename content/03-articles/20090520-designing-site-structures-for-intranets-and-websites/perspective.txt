@@ -1,0 +1,340 @@
+Title: Designing site structures for intranets and websites
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2009-05-20
+
+----
+
+Category: Intranet Design,Information Architecture
+
+----
+
+Summary: In this article we define site structures, show why they are important and offer seven principles for designing them effectively.
+
+----
+
+Body: 
+
+## Introduction
+A good site structure makes users happy. They can easily find, understand and use the information on your site. For the business, this makes all the difference. In this article I’ll go through principles behind good site structures and describe a methodology for creating site structures.
+
+## What is a site structure?
+A site structure is the hierarchical organization of information in intranets and websites. It shows how information is structured, from the home page right down to the content pages.
+
+For large intranets and websites, the site structure can be a very long document. It’s easier to explain with substructures. Given below is a typical substructure for HR information in intranets
+
+**HR**
+
+* First days at work
+* Leave & time off
+** Pay & benefits
+** Medical benefits
+** Dental benefits
+** …
+* Conduct & discipline
+* Exit procedures
+* …
+
+There are a couple of things to note here:
+
+* The substructure is a hierarchical organisation of related information, in this case, HR information.
+* The hierarchy can have many levels, although it’s not advised to go too deep.
+* The levels are denoted by labels, and coming up with the right labels is difficult.
+* There is an observable relationship and a sequence in the listing. Yes, it is all HR information but more than that it is about what is presented and how this is going to help users. More about this later.
+* It looks like a good content inventory, and that’s what it is—a designed content inventory.
+
+### Site structure Vs. Navigation and layout
+The site structure influences navigation and layout but there is no strict one-to-one relation. For example, the top-level sections in the site structure may and most likely will be used to drive the global navigation, but the subsections of the site structure may be represented by different types of layout.
+
+* First-level section
+** Second-level section
+*** Third-level section (Is this 3 clicks away? Not necessarily.)
+
+When it comes to layout, the arrangement could be different, for example, in the layout below, it’s only 2-clicks to the Third-level sections.
+
+(image: 01.jpg)
+
+### Site structure vs. Taxonomy
+Is the site structure the same as the taxonomy powering the website? The short answer: no.
+
+The reason is that a taxonomy is the formal organisation of business assets. It serves many applications such as records, knowledge management, search and access to specialist content. The intranet or website is only one such application. Therefore an item that lives in the taxonomy might do so under a [facetted organisation scheme](http://en.wikipedia.org/wiki/Faceted_classification), but on the website it might appear under a hierarchy.
+
+For these reasons, the site structure is usually referred to as the navigational taxonomy.
+
+Follow these links for more on the discussion:
+
+Earley & associates: [Isn't taxonomy the same as navigation?](http://media.skybuilders.com/taxonomy/regliearley/5.mov)
+User Pathways: [Creating user-centred taxonomies](http://userpathways.com/2008/10/18/creating-user-centred-taxonomies/)
+
+### Site structure Vs. Site map
+A site map is a visual representation of the main sections of the site structure. Its purpose is to give users a good overall picture of the content available in the site including additional layers of meaning such as relationships between different content areas, linking, etc.
+
+A site structure is a detailed design document. This means that it is a working document that is used by designers (usually information architects) to tinker with and test with users.
+
+## What can go wrong with a poorly designed site structure?
+A lot! For example, take a look at the HR substructure below. What do you think this structure tells users? Nothing. It is random. There is no direction, no approach, no sequence. A random design will result in a random use.
+
+**Employee info**
+
+* Circulars
+* Declaration of assets
+* Uniform
+* Delegation of duties
+* READ THIS BEFORE TAKING LEAVE -- leave application
+* Service conditions
+* Hire2-updated
+
+Here are some outcomes you can expect with poorly designed site structures:
+
+* **Low use**: a poorly designed site structure is an efficient user-repellent. It will drive users away instantly. They will not be able to find information and they’ll feel lost.
+* **Lost opportunities**: every repelled user is a lost opportunity for the business to impress, sell or provide support.
+* **Loss of trust**: users will lose trust in what you offer. The image and brand losses are immeasurable both for intranets and websites.
+* **Information hoarding**: users will hoard information and will create local copies of the information they need. This is more applicable to intranets.
+
+## A bit about organising information
+Before we move ahead, let’s revisit some fundamentals in organising information.
+
+Information on the web is usually structured in 2 ways: hierarchical or database. A typical website uses both structures.
+
+**HR**
+
+* Pay & benefits
+** Medical benefits
+** Dental benefits
+
+Hierarchical structures group pages together that belong together. But there can be many types of ‘belonging’.
+
+In the above example, Dental benefits is on the same level as Medical benefits and they both belong to the topic ‘benefits’. Thus the belonging is by topic. In contrast, given below is a substructure for HR Live, a HR publication:
+
+**HR Live**
+
+* Latest
+* Archives
+** 2009
+*** Jan
+*** Feb
+*** ...
+** 2008
+
+Here Jan and Feb are not topical, but chronological.
+
+Topical and chronological are but two types of arranging information. The full range is given below:
+
+**Group 1**
+
+* Alphabetical
+* Chronological
+* Location (geography)
+
+**Group 2**
+
+* Topics that belong together
+* Tasks that are frequently done together
+* Audiences that access the same content
+
+The list is split into two groups because one group is known as **exact** (alphabetical, chronological and location) and the other is **ambiguous** (topic, task and audience).
+
+Exact scheme is easy because it is easy to locate items; they’re completely predictable. For example, if you’re looking for a street name on a map you’ll find it quickly because there’s no ambiguity (even if there are many streets with the same name).
+
+However, locating items in ambiguous schemes depends on who is doing the searching. Some users have deep knowledge (e.g., Income tax auditor) so they’ll prefer more detailed labels. Newbies on the other hand will prefer more basic labels (e.g., Taxpayers). So it does matter to find out these behaviours beforehand. For example, an income tax auditor can easily find legislation on assessable income, but a regular tax payer will find it difficult to interpret the technical labels.
+
+### Database structures
+Database structures on the other hand are flat. Examples are list of books or a list of recipes. Since database structure results in a list, the main objective is to narrow down the list to locate the desired items. The way to narrow down depends on metadata using facets.
+
+Facets are just different ways of looking at the same information (e.g. facets of a cut diamond).
+
+For example, recipes can be narrowed down by: cook, cuisine, main ingredient, time to cook, ratings, comments, etc.
+
+It is useful to note that metadata is designed based on use or need. There is no point having a metadata item indicating ‘electricity used for cooking’ if nobody is interested in that dimension.
+
+Database structures are ideal for self-contained items like books, CDs, papers, publications, etc. Hierarchical structures are ideal for groups of related items. For example, information relating to immigrating to Canada has to be organised hierarchically. It will be highly unusable for such information to be presented using a database structure.
+
+If you want a deliberate (or intentional) sequence of items then it’s best to think in terms of a hierarchical structure.
+
+The following section describes 7 site structure design principles.
+
+## 7 site structure design principles
+
+There are 2 types of labels used in a site structure: section labels and content labels. Section labels group other section or content labels under them. Content labels don’t group other labels; they’re the last item on the branch of the tree and point [directly to the content](http://www.pebbleroad.com/articles/view/taming-your-target-content/).
+
+The design of a site structure is really about the naming of section and content labels and their arrangement for ease of understanding and navigation.
+
+Patrick Lambe’s book, [*Organising Knowledge*](http://www.organisingknowledge.com/) gives a good list of principles to design knowledge taxonomies which I’ve adapted to site structures below.
+
+Good site structures are:
+
+1. Meaningful
+1. Predictable
+1. Navigable
+1. Consistent
+1. Balanced
+1. Parsimonious
+1. Complete
+
+### Meaningful
+The structure should be meaningful and should fulfill user needs and objectives. For example, intranet structures should be designed for getting things done, but we still see structures that are based on theoretical perspectives (see below).
+
+**Quality & innovation**
+
+* Our great framework
+* How great we are
+* All about how we work
+* Our plans for the future
+
+The above is not actionable, it just provides dry information. If providing such information is deemed appropriate for whatever reason, that so be it, but hopefully common sense prevails.
+
+A better structure will be one that is more actionable, for example:
+
+**Quality & innovation**
+
+* The big picture and guiding principles
+* What you can do now
+* Tools and templates
+* The Big Idea blog
+
+Notice that this structure really defines the behaviour of the business. It assumes that the business has actionable outcomes to present in the first place. If it doesn’t then it’s a good time to start thinking in this direction.
+
+What this boils down to is that a change in the structure may require deep changes in the way the company currently gets things done.
+
+### Predictable
+Labels should be predictable. This means that users should not be confused to what the labels are or what they mean.
+
+For example, in one of our projects, we found that the label ‘KM’ had meant different things for different staff. Some staff thought of it as a “formal document library” but others thought of it as a “place for technical documents only”.
+
+Predictable labels are easily understood and intuitively acted upon. How do we get predictable labels? User research studies will present many opportunities to unearth labels used naturally in the user community.
+
+### Navigable
+When it comes to browsing hierarchies it’s easier to browse broad and shallow hierarchies than to browse narrow and deep hierarchies.
+
+There are 3 reasons for choosing broad and shallow hierarchies:
+
+1. It quickly establishes a broad perspective and builds context
+1. It eliminates interpretation of extra labels (more deep, more groupings, more labels)
+1. It sets the right expectations (users know they don’t have to dig deep)
+
+### Consistent
+Good structures have consistency in the way labels are named. Consistency in labelling increases predictability and usage.
+
+There are two types of consistency:
+
+1. Consistency of style
+1. Consistency of form
+
+Consistency of style dictates editorial styles (use of ampersand, colons, case, etc.).
+
+Consistency of form dictates ease of understanding. For example, given below is an informal-question format used to for the time-off substructure. Notice how the consistency tends to tell a story.
+
+* Am I eligible for time off?
+* How can I take time off?
+* What if I have to extend time off?
+
+Consistency is not always possible across-the-board, so don’t be stubborn about it. Local consistency (small neighbourhoods) is more realistic.
+
+### Balanced
+Getting a balanced structure needs some thinking and tinkering. Balance refers to the specificity and scope at a hierarchy level. It is better not to mix up labels with broad scope and narrow scope if you can avoid it. In the example below, the minutes of meeting label is not of the same specificity and scope as the others.
+
+* Our great plan
+* What we’ve achieved
+* What we’ve planned
+* Minutes of meeting 24-08-09
+
+Another criteria of balance has to do with the number of items in sections. It is best to have a balance in the number of items in the sections. An unbalanced structure has too few items in some sections and too many in others.
+
+### Parsimonious
+Parsimony is about being economical. Take a look at this top-level structure for a university and ask yourself where you would go for admission?
+
+* Students
+* Academics
+* Education
+* Alumni
+
+The labels may be predictable by themselves, but when present in the sequence, they become ambiguous. Some of the labels are now redundant (the opposite of parsimony): admission information can be at the Student’s level or at the Academic level or even at the Education level.
+
+Here’s a parsimonious structure:
+
+* Schools & courses
+* Admission & aid
+* Alumni
+
+A related attribute to parsimony is scale. A parsimonious structure can be scaled in a controlled manner when new information or sections are introduced. Scaling a redundant structure becomes more haphazard.
+
+### Complete
+Good structures do not have obvious gaps in them. For example, given below is something that frustrates me. Notice that the price information is missing.
+
+* Our great product
+* The list of superfluous features
+* What customers are saying
+* Out future plans
+
+Now that we’ve covered the foundations, let’s move on to the steps involved in designing a site structure.
+
+## Site structure design methodology
+I go through the following steps when designing site structures:
+
+* Create a content inventory
+* Research users and their contexts
+* Create a draft site structure
+* Discuss with content owners
+* Test difficult parts with users
+* Keep improving
+
+Each step in described in detail below.
+
+### Create a content inventory
+A content inventory is a listing of all content in the intranet or website. It is usually captured in an MS-Excel spreadsheet along with details such as Title, URL, Type, Owner, etc. I’ll not go into the details of creating a content inventory. There are many articles on the web that have done a wonderful job at explaining it.
+
+A content inventory gives a good picture of what’s out there. There will be some good structures and some real bad ones, but most likely there’ll be no consistency, unless it’s been managed well by full-time information architects.
+
+A content inventory is the starting point for designing the new site structure. It will usually reveal common cracks and kinks in the existing structure.
+
+### Research users and their context
+There will already be some research activity going on in the project, for example, user interviews, usability sessions, survey, etc. The idea is to gather the findings that may influence the design of the site structure. For example, in one project a staff said that finding technical information was like “shooting in the dark”. In a usability session another staff checked 4 locations to find HR circulars. These are direct indications that the site structure is not working.
+
+A collection of these findings will reveal a lot on the existing structure.
+
+You can also conduct a card sort. This is a research activity specifically designed for site structures. A card sort at this stage is done to get more clarity on a difficult, new or unfamiliar substructure.
+
+For example, I recently did a card sort for a non-profit voluntary organization that wanted a new intranet. In this case the existing information was in shared folders and it was a domain that I have no experience in. The card sort provided a means to understand and build the new structure.
+
+Donna Spencer’s new book on [Card](http://www.rosenfeldmedia.com/books/cardsorting/) Sorting is a must-read if you are interested in this subject.
+
+### Create a draft site structure
+The findings from the research activities provides a direction. This can be used to create a draft site structure.
+
+I usually use Omni Group’s [Omni Outliner](http://www.omnigroup.com/applications/omnioutliner/) for this as it is easy to move items around. I add a few columns to provide details such as ‘Rationale’ and ‘Comments’.
+
+The draft site structure should use the principles of good site structure design described earlier.
+
+### Discuss with content owners
+With the draft site structure in hand, meet the content owners and go through the new design with them. This discussion will definitely uncover gaps in the structure but more importantly it will highlight the real need for the structure and how to add value to it.
+
+In some meetings, clients have thrown out entire substructures after realising that it was no longer needed or it was meant only for the management team and not for staff.
+
+You can expect lot of content movement in your structure during these meetings and that is why it is important to have a tool that can help make these changes quickly. I’ve found Omni Outliner to be perfect for this job. MS-Excel is just too clunky for my needs.
+
+### Test the difficult parts with users
+During the site structure meetings there could be some contradicting views or some genuinely difficult parts in which case it should be tested out with actual users.
+
+The card sorting technique mentioned earlier is a simple way to get clarity on these issues.
+
+### Keep improving
+Once a site structure is finished, the game’s not over. Unless you’ve an intranet or website where content does not change, you’re very likely to face situations where you’ll need to review and mange the site structure. Adding a new section, removing an old section, adding more items, etc., all require a review of the site structure.
+
+A good way to do this is to have a site structure governance guide that lists down the strategy behind the site structure, the principles used to create it and when and how to make changes to it. Without this guide it will feel like “shooting in the dark”. The site structure can gradually loose its shape and clarity as ad-hoc changes are made.
+
+## Conclusion
+Creating site structures, especially for large intranets and websites, cannot be hurried. It needs to be designed with user needs and future change and scalability in mind. For this to happen there needs to be a plan and this plan needs to be created from sound principles. This article provides introductory material on how this can take shape. More related information can be found in the following books:
+
+* [Information architecture for the world wide web: designing large-scale websites](http://www.amazon.com/Information-Architecture-World-Wide-Web/dp/0596000359)
+* [Everything is miscellaneous](http://www.amazon.com/Everything-Miscellaneous-Power-Digital-Disorder/dp/0805088113/ref=sr_1_1?ie=UTF8&s=books&qid=1242828892&sr=1-1)
+* [Glut: Mastering information through the ages](http://www.amazon.com/Glut-Mastering-Information-Through-Ages/dp/0801475090/ref=sr_1_1?ie=UTF8&s=books&qid=1242828918&sr=1-1)
+* [Organising knowledge](http://www.amazon.com/Organising-Knowledge-Taxonomies-Organisational-Effectiveness/dp/1843342278/ref=sr_1_1?ie=UTF8&s=books&qid=1242828945&sr=1-1)
+* [Women, fire and dangerous things](http://www.amazon.com/Women-Dangerous-Things-George-Lakoff/dp/0226468046/ref=sr_1_1?ie=UTF8&s=books&qid=1242828976&sr=1-1)
+* [Card sorting: designing useful categories](http://www.rosenfeldmedia.com/books/cardsorting/)
+
+Thanks to [Patrick Lambe](http://www.greenchameleon.com) for going through the earlier versions of this article and suggesting changes.

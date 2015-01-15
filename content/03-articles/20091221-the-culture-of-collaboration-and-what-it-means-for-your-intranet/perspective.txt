@@ -1,0 +1,59 @@
+Title: The culture of collaboration and what it means for your intranet
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2009-12-21
+
+----
+
+Category: Intranet Design,Collaboration
+
+----
+
+Summary: In this article we discuss collaboration on the intranet. We find that different types of collaboration exist depending on the culture of the organisation. Knowing what works under which situations becomes an important design consideration.
+
+----
+
+Body: 
+
+## Introduction
+Many organisations are waking up to the fact that collaboration is a key piece of the intranet puzzle. I have spoken to many such people in charge of collaboration in their organisations and what puzzles me in turn is their lack of understanding of the culture of collaboration. Let me explain.
+
+Wikipedia defines culture as:
+
+"[t]he set of shared attitudes, values, goals, and practices that characterises an institution, organisation or group".
+This basically means that the organisation has a preferred way of working, and this acts like a magnet, and this pulls all other parts towards it. For example, a bureaucratic organisation will attract bureaucratic technology and an open-thinking organisation will attract open-thinking technology.
+
+Here comes the problem. Collaboration requires a different way of working. It requires attitudes, values, goals, and practices that are based on interdependent work. Not silo-based work, not workflow-based work but all-together-in-one-melting-pot-based work.
+
+If the culture of the organisation is hospitable to the culture of collaboration then you're going to have a fun time and you'll be wondering what the fuss is all about. If the culture is pointing the other way around, well, you better start praying.
+
+OK. Stop praying. All is not lost; there is still hope. There could be subcultures in the organisation that are more collaboration-oriented than others. Seek these out and embrace them. Ask them to show the light.
+
+If no such subcultures exist (you poor thing) then you'll have to start at the very beginning: by acknowledging that a collaboration-problem exists and being aware of the type of situation you're in.
+
+Situation awareness takes shape when the organisation embraces a specific collaboration technology—this is when the rubber hits the road. I think there are 3 types of such situations.
+
+## 3 Types of collaboration
+Type 1: the organisation is aware of its culture of collaboration and embraces the right technology to amplify it (e.g. IDEO's intranet). This is the mature organisation.
+
+Type 1a: this is the idiot type. In this case, the organisation is aware of its culture of collaboration and moves ahead to embrace the wrong technology (e.g. web savvy, enterprise 2.0 ready staff but get an archaic document management tool because the IT department has restrictions on anything but Java and Security Level 3 software).
+
+Type 2: the organisation is unaware of its culture of collaboration, moves ahead and embraces a collaboration technology and then something magical happens. The technology inspires the organisation, which then wakes up to its culture of collaboration, and everything goes great after that (e.g. Serena intranet). In this case the technology turned out to be one that matched their hidden culture of collaboration.
+
+Type 3: the organisation is unaware of its culture of collaboration, moves ahead to embrace a collaboration technology and then something horrible happens. They declare that collaboration technology is not working and that they should go back to the 'usual' way of work!
+
+Type 3 organisations are tricky. Collaboration clearly failed, but they cannot figure why. There could be 3 causes for failure: lack of a culture of collaboration, wrong technology or both. I'm betting here that in most cases it is because the culture of collaboration does not exist or it is fractured.
+
+## Conclusion
+Here's my punch line: the adoption or participation you're going to get on your intranet is directly related to the culture of collaboration that exists in the organisation. Having the right collaboration technology does play a part, but only as a sidekick to the culture of collaboration.
+
+So the next time you're in office, take a look around, what do you see? Which type of situation are you in?
+
+This article was supposed to be longer. I had planned to include some tenets of the culture of collaboration. Then I stumbled upon Evan Rosen's book called, take a guess, [*The Culture of Collaboration*](http://amzn.com/097746170X). I'm reading it now, and it does a wonderful job of explaining the culture of collaboration, way beyond what I would ever be able to do. Highly recommended read if you want to act on your culture of collaboration.
+
+Thanks also to [Patrick Lambe](http://www.greenchameleon.com) for his feedback on this article.

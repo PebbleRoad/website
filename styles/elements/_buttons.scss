@@ -1,0 +1,23 @@
+/*------------------------------------*\
+    BUTTONS
+\*------------------------------------*/
+
+.btn{
+    line-height: normal;
+    padding: 0.6em 1em;
+    background: $brand-grey;
+    border:none;                /* [6] */
+    border: 1px $base-ui-color solid;
+    white-space: normal;
+    display: inline-block;
+    display:inline-block;       /* [1] */
+    vertical-align:middle;      /* [2] */
+    white-space:nowrap;         /* [3] */
+    font-family:inherit;        /* [4] */
+    font-size:100%;             /* [4] */
+    cursor:pointer;             /* [5] */
+    margin:0;                   /* [6] */
+    border-radius: 2px; /* [8] */   
+    @include rem(margin-bottom);
+    appearance: none;    
+}

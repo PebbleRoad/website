@@ -1,0 +1,167 @@
+/*------------------------------------*\
+    NAVIGATION
+\*------------------------------------*/
+
+
+
+.nav-main{
+    
+    position: relative;
+    clear: both;    
+    background: $brand-grey;
+    margin: 0 -1em -1em -1em;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    padding: 1em 0;
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    letter-spacing: 1px;
+
+    
+    @include media(desktop){
+        display: block;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+        background: transparent;
+        position: relative;
+        width: auto;
+        top: auto;        
+    }
+
+    a{        
+        text-transform: uppercase;
+        padding: 0.5em 1em;
+        display: block;
+        
+        @include media(desktop){
+            padding: 0 0.4em;
+            display: inline;
+
+            &:before{
+                content: " / ";
+                display: inline-block;
+                vertical-align: top;
+                margin-right: 0.8em; 
+                line-height: 1.3;               
+            }
+
+            &:first-child:before{
+                content: "";
+            }
+        }
+    }
+
+    /* Active */
+
+    .active{
+        font-weight: 400;
+        &, &:visited, &:hover{
+            @include media(desktop){
+                color: $base-color;
+            }
+        }        
+
+        &:before{
+            color: white;
+            font-weight: 100;
+        }
+    }
+}
+
+    /**
+     * Open menu
+     */
+    
+    .menu-open{
+
+        .nav-main{
+            display: block;
+            z-index: 1;
+        }
+    }
+
+
+/**
+ * nav footer
+ */
+
+.nav-footer{
+
+    > a{
+        display: block;
+        padding-bottom: 0em;
+    }
+}
+
+
+/**
+ * Services nav
+ */
+
+.nav-services{
+
+    padding-top: 1em;
+    padding-bottom: 1.5em;
+
+    @include media(medium){
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        margin-bottom: 1em;    
+    }
+
+    > a{
+        
+        vertical-align: top;
+        //padding-bottom: 0.5em;
+        display: block;
+        color: #fff;
+
+        @include media(medium){
+            display: table-cell;
+            padding-bottom: 0;
+        }
+
+        &:hover{
+            text-decoration: none;
+            .icon{
+                background-color: $brand-color;
+                color: #fff;
+            }
+        }
+    }
+
+    .icon{
+        font-size: 44px;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        background-color: #979797;
+        // background-color: rgba(0,0,0,0.5);
+        background-color: rgba(#4A4A4A, 0.9);
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        color: #9B9B9B;
+        border-radius: 100%;
+        margin: 0;
+
+        display: none;
+
+        @include media(medium){
+            display: inline-block;
+        }
+    }
+
+    a{
+        //@include link-colors(#fff, #fff, #fff);
+    }
+
+    h2{
+        margin: 1em 0 0 0;
+        @include font-size(18px, false);
+        font-weight: normal;
+    }
+}

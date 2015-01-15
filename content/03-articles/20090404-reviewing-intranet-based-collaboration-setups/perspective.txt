@@ -1,0 +1,102 @@
+Title: Reviewing intranet-based collaboration setups
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2009-04-04
+
+----
+
+Category: Intranet Design,Collaboration
+
+----
+
+Summary: 
+
+The ability to form groups and collaborate on the intranet is key to making the intranet a place for ‘doing work’. A well-planned collaboration setup allows staff to use the setup easily and effectively.
+
+In this article we outline 7 heuristics that can help review existing collaboration setups in organisations.
+
+----
+
+Body: 
+
+## Introduction
+The idea for this piece comes from the very useful [Intranet Review Toolkit](http://www.intranetreviewtoolkit.org/) by [StepTwo Designs](http://www.steptwo.com.au/).
+
+Of late we've been involved in intranet redesigns that have a clear need and mandate for small team or inter-departmental collaboration. The Intranet Review Toolkit does not provide heuristics to address this area, but it does provide a good framework to develop one. And that is what we've done.
+
+The 7 heuristics that we've come up with are focused on the management-side of collaboration rather than on specific collaboration functions. We took this stance because we've seen many ad-hoc and headless collaboration efforts that have led to frustration and misery rather than to sharing and efficiency. The thinking here is that the collaboration effort should be managed with the same rigour and commitment as other business functions and not left to chance.
+
+In addition to our project experiences, we've also kept an eye on developing trends in this area from people like [James Robertson](http://www.steptwo.com.au/columntwo/), [Matt Moore](http://engineerswithoutfears.blogspot.com/), [Patrick Lambe](http://www.greenchameleon.com/), [Michael Sampson](http://currents.michaelsampson.net/), [Jane McConnell](http://netjmc.typepad.com/), [Nancy White](http://www.fullcirc.com/), [Shawn Callahan](http://www.anecdote.com/blog/), [Andrew McAfee](http://andrewmcafee.org/) and many more.
+
+## The review framework
+The ability to form groups and collaborate on the intranet is key to making the intranet a place for ‘doing work’. A well-planned collaboration setup allows staff to use the setup easily and effectively.
+
+Here are 7 heuristics that can help review existing collaboration setups in organisations.
+
+Scores: 0 = extremely poor, not implemented 1 = very poor, 2 = poor, 3 = good, 4 = very good, 5 = excellent.
+
+<table>
+  <tr>
+    <th scope="col">Heuristic</th>
+    <th scope="col">Rationale</th>
+  </tr>
+  <tr>
+    <td>There is a clear business goal for the collaboration setup</td>
+    <td><p>The collaboration setup should serve business goals and objectives. The business link should be clear and supported by top-management. All decisions on use and usage including policy and infrastructure decisions should stem from this link.</p>
+    <p>0: The business link does not exist. </p>
+    <p>...</p>
+    <p>5: The business link is well-defined and communicated. There is visible commitment from top management on collaboration and this is communicated across the organization.</p></td>
+  </tr>
+  <tr>
+    <td>There is a clear process for using the collaboration setup</td>
+    <td><p>A clearly defined process gives staff the ‘big picture’ of the collaboration setup available to them. It should clearly show the different stages of the setup and the people involved in each stage. It should also list the benefits and responsibilities of using the setup. The process should be published on the intranet itself, and aligned with overall organisational strategies and directions. </p>
+    <p>0: There is no clearly defined process. </p>
+    <p>… </p>
+    <p>5: There is well-defined process and staff are familiar with it. It is regularly evaluated and tweaked to align it with working needs. The process owners are known and can be easily contacted for clearing doubts and seeking clarifications. </p></td>
+  </tr>
+  <tr>
+    <td>There is a team with necessary skills managing the collaboration setup</td>
+    <td><p>There will be many collaboration spaces created and managing it will require dedicated support. The intranet team can double as the collaboration team if they have the necessary skills to successfully manage the setup. This includes managing the process, providing support, offering training and even marketing the setup across the organisation. </p>
+    <p>0: There is no visible support for the collaboration setup. </p>
+    <p>… </p>
+    <p>5: Staff are aware of the collaboration team and the support they offer. Team members are easily contactable.</p></td>
+  </tr>
+  <tr>
+    <td>There is support and resources available BEFORE using the collaboration setup</td>
+    <td><p>Staff should be briefed (and trained) before using the collaboration setup. They should be aware of what they are getting into and what their roles and responsibilities are going to be. Armed with this knowledge they can better plan and mange their collaboration spaces.  </p>
+    <p>0: No support or training provided. It’s free for all. </p>
+    <p>… </p>
+    <p>5:  There is clear stage of briefing and training if necessary on using the setup, especially for first-time users. They are given checklists, guidelines and other tools to evaluate their requirements.</p></td>
+  </tr>
+  <tr>
+    <td>There is support and resources available DURING collaboration </td>
+    <td><p>During their collaboration journey staff may face difficulties. When they do so they should find help easily. It could be technical help (need to migrate or integrate spaces or subscribe to work tools) or simple use-help (don’t know how to add attachments).  </p>
+    <p>0: There is no clear indication of help or support available.</p>
+    <p> … </p>
+    <p>5: The is a dedicated team helping and supporting staff who are using the collaboration setup.</p></td>
+  </tr>
+  <tr>
+    <td>There is support and resources available AFTER collaboration</td>
+    <td><p>Some collaboration activities are time bound, e.g. a small project. After the project ends the collaboration space may not be required. There should be a clear process to close such collaboration spaces and not left lying around dead and unattended. </p>
+    <p>0: There is no clear process of closing collaboration spaces when they are no longer required.</p>
+    <p> … </p>
+    <p>5: There is a clear process of closing collaboration spaces when they are not required. This includes options of having to export or archive the space or to index the space for search. It also includes options for documenting or summarizing the space for future reference.</p></td>
+  </tr>
+  <tr>
+    <td>The collaboration setup is monitored and evaluated regularly</td>
+    <td><p>Regular monitoring and evaluation of the collaboration setup ensures that there are no 'dead weeds' lying around. An image of a wasteland spreads quickly and can easily undo all efforts in making collaboration effective.   </p>
+    <p>0: There is no clear process and schedule for monitoring and evaluating the spaces and the setup. </p>
+    <p>… </p>
+    <p>5: The collaboration setup and the spaces are regularly monitored and evaluated. The state of collaboration is always known and actions are taken based on it.</p></td>
+  </tr>
+</table>
+
+## Conclusion
+These 7 heuristics focus on a very broad structure that we think is needed for successful collaboration setups. The 7 points are in no way complete and will in time morph and refine into detailed specs. But for now it can be used to start a discussion with stakeholders and steer it in the right direction.
+
+Do you think this review fits well with your experience on collaboration setups in organisations? Do you have suggestions on how we can improve this review? Use the comments section below to share your thoughts.

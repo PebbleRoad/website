@@ -1,0 +1,405 @@
+Title: Improving the reading experience with content patterns
+
+----
+
+Author: Maish Nichani, Christine Oon
+
+----
+
+Date: 2014-04-09
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: People read on the web to get informed, educated, entertained or just to get stuff done. The reading experience plays an important part in how readers meet their objectives. Many design factors affect the reading experience on the web. We’re calling these content patterns. In this article we describe 29 content patterns that we’ve used in our projects.
+
+----
+
+Body: 
+
+## What are content patterns?
+A content pattern is a documented content-related good practice. It describes what the pattern is, what it is not and when best to use it. 
+
+Examples of content patterns include tabs, accordions, slideshows and modals.
+
+## How to use content patterns
+As a general principle content patterns should be used as a way to add meaning and not as a way to declutter a page or add cosmetic appeal. Hiding trash in a beautiful cupboard does not make it any more desirable.
+
+We go through the following steps when introducing content patterns to authors:
+
+* Describe each content pattern in detail—what it is, what it is not, when to use it, and how to use it in the authoring tool
+* Describe how to use **shortcodes** to describe the presentation patterns (see below for an example)
+* Review the first draft from each author and give feedback on improving the content
+
+## Shortcodes
+Marking up Headline and Subheads can be done easily in any authoring tool. The challenge is marking up presentation patterns. How does the author markup an Accordion? Here’s where shortcodes can help.
+
+Shortcodes is an idea taken from WordPress. A shortcode is semantic markup specified in text. 
+
+For example, the following shortcode defines an Accordion:
+
+    [accordion]
+        [panel title="Title 1"] 
+          Content goes here 
+        [/panel]
+        
+        [panel title="Title 2"] 
+          Content goes here 
+        [/panel]
+    [/accordion]
+
+When a page with shortcodes is saved, the shortcode is automatically converted to HTML using a parser.
+
+We’ve found that inserting shortcodes may be easy for web writers but not for traditional writers. In such cases the editor takes the responsibility to insert the shortcodes.
+
+## Content patterns vs. content types
+A content type represents a structure based on the genre of the content. For example, an event content type may have a _venue_ field that the author must fill out. The design template then takes care of how the _venue_ field is presented. In such content types, authors have no or limited control over presentation, which is the right thing to do in many cases.
+
+However, as Jeff Eaton has pointed out in his excelled article, [The battle of the body field](http://alistapart.com/article/battle-for-the-body-field), many times you will want to give authors control over content presentation. This is where the presentation content patterns really shine. Authors can use shortcodes to assign presentation criteria to their content to improve the reading experience. 
+
+For example, an author might want to highlight a section of text to ensure that readers don't miss the instructions. In this case, the author can use the highlight shortcode to insert the pattern exactly where it is needed.
+
+## List of content patterns
+We’ve picked <del>28</del> 29 patterns and organised them into 2 buckets: 
+
+1. **Writing patterns**: the building blocks of good writing. 
+2. **Presentation patterns**: optimised to take advantage of the interactive properties of the web. 
+
+<table>
+  <tr>
+    <th>Writing patterns</th>
+    <th>Presentation patterns</th>
+  </tr>
+  <tr>
+<td>
+<ol>
+<li><a href="#boldface">Boldface</a></li>
+<li><a href="#headline">Headline</a></li>
+<li><a href="#link">Link</a></li>
+<li><a href="#list">List</a></li>
+<li><a href="#paragraph">Paragraph</a></li>
+<li><a href="#subhead">Subhead</a></li>
+<li><a href="#summary">Summary</a></li>
+<li><a href="#table">Table</a></li>
+<li><a href="#writingstyle">Writing style</a></li>
+</ol>
+</td>
+<td>
+<ol>
+<li><a href="#accordion">Accordion</a></li>
+<li><a href="#calculator">Calculator</a></li>
+<li><a href="#columns">Columns</a></li>
+<li><a href="#filter">Filter</a></li>
+<li><a href="#floatingblock">Floating block</a></li>
+<li><a href="#highlight">Highlight</a></li>
+<li><a href="#infinitescroll">Infinite scroll</a></li>
+<li><a href="#media">Media</a></li>
+<li><a href="#modal">Modal</a></li>
+<li><a href="#pagination">Pagination</a></li>
+<li><a href="#processflow">Process flow</a></li>
+<li><a href="#sidebar">Sidebar</a></li>
+<li><a href="#search">Search</a></li>
+<li><a href="#slideshow">Slideshow</a></li>
+<li><a href="#tabs">Tabs</a></li>
+<li><a href="#timeline">Timeline</a></li>
+<li><a href="#toggle">Toggle</a></li>
+<li><a href="#tooltip">Tooltip</a></li>
+<li><a href="#typography">Typography</a></li>
+<li><a href="#whitespace">Whitespace</a></li>
+</ol>
+</td>
+</tr>
+</table>
+
+
+## Writing patterns
+
+<div class="card" markdown="1">
+### Boldface {#boldface}
+
+(figure: 01.png align: left)
+
+#### What it is
+Important text emphasised by showing it in bold font style.
+#### When best to use it
+When there is a need to direct the reader to salient words or phrases. E.g., You will need to **activate your account** before you initiate a fund transfer.
+</div>
+
+<div class="card" markdown="1">
+### Headline {#headline}
+(figure: 02.png align: left)
+#### What it is
+The title of the page.
+#### When best to use it
+Always. Every page should have a title. Good headlines accurately describe the information on the page.
+</div>
+
+<div class="card" markdown="1">
+### Link {#link}
+(figure: 03.png align: left)
+#### What it is
+Links to other web pages.
+#### When best to use it
+When you want readers to know of supporting or related material. Linking works best when it allows readers to explore the context of your subject matter. Be mindful not to break the reader’s focus with unnecessary links.
+</div>
+
+<div class="card" markdown="1">
+### List {#list}
+(figure: 04.png align: left)
+#### What it is
+A series of terms, phrases or statements in a linear or hierarchical order.
+#### When best to use it
+When you want to present a series of items, or when you want to be specific about few items that you want the reader to pay attention to.
+
+E.g. Before you start, you will need
+
+* An oven 
+* The recipe 
+* The ingredients
+</div>
+
+<div class="card" markdown="1">
+### Paragraph {#paragraph}
+(figure: 041.png align: left)
+#### What it is
+A sentence or a group of sentences that are coherent and related to one main idea. A paragraph typically consists of a topic sentence and supporting sentences.
+#### When best to use it
+When you want to organise and communicate your main points. A good rule of thumb is to communicate one idea per paragraph.
+</div>
+
+<div class="card" markdown="1">
+### Subhead {#subhead}
+(figure: 05.png align: left)
+#### What it is
+Headings of subsections of text. 
+#### When best to use it
+Always for long texts. Subheads create an outline that help the reader scan and understand the text. 
+</div>
+
+<div class="card" markdown="1">
+### Summary {#summary}
+(figure: 06.png align: left)
+#### What it is
+A concluding section that reinforces the main points covered in the text.
+#### When best to use it
+Always for long texts. Summaries should reinforce the main points and also refer to possible next steps.
+</div>
+
+<div class="card" markdown="1">
+### Table {#table}
+(figure: 07.png align: left)
+#### What it is
+Presentation of text in rows and columns.
+#### When best to use it
+When you want to present spreadsheet type data. Also when you want to draw the reader to compare, contrast or see cause-and-effect relationships.
+</div>
+
+<div class="card" markdown="1">
+### Writing style {#writingstyle}
+(figure: 08.png align: left)
+#### What it is
+The voice and tone of writing.
+#### When best to use it
+Always. Although not readily apparent, writing style is a wonderful organiser of text. Not only does writing style lead to different word choices but it also affects how the reader interprets the text.
+</div>
+
+## Presentation patterns
+<div class="card" markdown="1">
+### Accordion {#accordion}
+(figure: 09.png align: left)
+#### What it is
+Grouped set of collapsible sections of text. When the section title is clicked it expands to show text in that section. Only one section can be opened at a time.
+#### When best to use it
+When presenting mutually exclusive options or when you know that not all readers would want to see all the information all the time.
+E.g., "For businesses" or "For consumers". This way the reader chooses to see only what is applicable to her.
+</div>
+
+<div class="card" markdown="1">
+### Calculator {#calculator}
+(figure: 10.png align: left)
+#### What it is
+A form that performs calculations or gives answers based on certain inputs.
+#### When best to use it
+When you know that readers have some information and are looking to process the information to get answers. E.g., finding out monthly installments based on interest rate and down payment.
+</div>
+
+<div class="card" markdown="1">
+### Columns {#columns}
+(figure: 11.png align: left)
+#### What it is
+Flow of text into multiple vertical sections or columns. 
+#### When best to use it
+Columns work best when they present text that is consumed in a single view, i.e., no scrolling. It might work for a page or two, but definitely will be a challenge for all types of pages. 
+
+Use [Tables](#table) if you want to make comparisons between texts.
+</div>
+
+<div class="card" markdown="1">
+### Filter {#filter}
+(figure: 12.png align: left)
+#### What it is
+A set of options that presents different text based on the selection.
+#### When best to use it
+When content changes substantially based on some options or criteria. 
+E.g. an application procedure that is very different for citizens and non-citizens.
+
+Filters are like [Accordions](#accordion) applied at the page level and not at a text block level.
+</div>
+
+<div class="card" markdown="1">
+### Floating block {#floatingblock}
+(figure: 13.png align: left)
+#### What it is
+A block of text that stands outside the main flow of text. Commonly used for pull quotes.
+#### When best to use it
+When you want to display quotes or supporting information alongside relevant information in the main text. E.g. survey data table that supports the inference stated in the main text.
+</div>
+
+<div class="card" markdown="1">
+### Highlight {#highlight}
+(figure: 14.png align: left)
+#### What it is
+A highlighted block of text.
+#### When best to use it
+When you want to make a block of text stand out. E.g. a Tip that you want to give the reader.
+</div>
+
+<div class="card" markdown="1">
+### Infinite scroll {#infinitescroll}
+(figure: 15.png align: left)
+#### What it is
+Automatic loading of additional items when the reader reaches the end of the page.
+#### When best to use it
+When you have a long list of items to display, such as a list of restaurants in a neighbourhood. Used as an alternative to [Pagination](#pagination). 
+
+Test infinite scroll with the target audience. Less tech-savvy users tend to get confused.
+</div>
+
+<div class="card" markdown="1">
+### Media {#media}
+(figure: 16.png align: left)
+#### What it is
+The use of media to add value to or complement the subject matter.
+#### When best to use it
+To improve understanding and comprehension of subject matter. Don’t use media to add cosmetic appeal. E.g. a diagram to explain a complex process.
+</div>
+
+<div class="card" markdown="1">
+### Modal {#modal}
+(figure: 17.png align: left)
+#### What it is
+A pop-up window or frame that forces the reader to do a task or close it before returning to the parent window.
+#### When best to use it
+When you want the reader to focus on related information or interaction on the same page without having to go to another page. E.g., a quick sign-up form.
+</div>
+
+<div class="card" markdown="1">
+### Pagination {#pagination}
+(figure: 18.png align: left)
+#### What it is
+Division of a long page into multiple pages.
+#### When best to use it
+When you have a long list of items to display, such as a list of restaurants in a neighbourhood. Do not paginate main text because it is too long. See also [Infinite Scroll](#infinitescroll).
+</div>
+
+<div class="card" markdown="1">
+### Process flow {#processflow}
+(figure: 19.png align: left)
+#### What it is
+Step-by-step sequence of activities.
+#### When best to use it
+When you want to describe a process in a step-by-step manner. E.g. 5 steps to apply for a driving license.
+</div>
+
+<div class="card" markdown="1">
+### Sidebar {#sidebar}
+(figure: 20.png align: left)
+#### What it is
+Supporting text that is placed on the side of the main text.
+#### When best to use it
+When you want to draw attention to related or supporting information. E.g. a statistic or a reference paper. 
+
+A sidebar shows up outside the main text while a Floating Block floats within the main text.
+</div>
+
+<div class="card" markdown="1">
+### Search {#search}
+(figure: 21.png align: left)
+#### What it is
+A search option to quickly find a specific item in a long list.
+When best to use it
+When you have a long list of items (not a narrative). E.g. a long list of driving centres.
+</div>
+
+<div class="card" markdown="1">
+### Slideshow {#slideshow}
+(figure: 22.png align: left)
+#### What it is
+Reader-controlled presentation of slides of text prearranged in a sequence. Also known as a slider or carousel.
+#### When best to use it
+When you want to present an unfolding story or scenario that has a strong sequential structure. The pull of the sequence draws the reader to view the next slide. If the pull is not strong, then only the first slide gets viewed.
+</div>
+
+<div class="card" markdown="1">
+### Tabs {#tabs}
+(figure: 23.png align: left)
+#### What it is
+A presentation format that mimics tabs on a physical folder that help the reader flip between different sections of text. It is similar to [Accordion](#accordion).
+#### When best to use it
+When you know that not all readers would want to see all the information all the time. E.g. product information as tabs: Specs, Add-ons, Reviews, FAQs, Contact.
+</div>
+
+<div class="card" markdown="1">
+### Timeline {#timeline}
+(figure: 24.png align: left)
+#### What it is
+A presentation format that displays important events in sequence.
+#### When best to use it
+When you want to present events that took place over a period of time. E.g., changes made to a policy document or performance of the tennis team in the last two years. 
+</div>
+
+<div class="card" markdown="1">
+### Tooltip {#tooltip}
+(figure: 25.png align: left)
+#### What it is
+A message that is shown when the reader places the cursor over a target element, such as a hyperlink or image.
+#### When best to use it
+As helper text giving pointers. E.g. a tooltip over an icon explaining what it does.
+</div>
+
+<div class="card" markdown="1">
+### Toggle {#toggle}
+(figure: 26.png align: left)
+#### What it is
+A way to open and close (show and hide) sections of text.
+#### When best to use it
+When giving the reader control over options to explore. 
+
+It is similar to [Accordion](#accordion). The difference is that with an Accordion only one section can be open at a time but with a Toggle many sections can be open at a time.
+</div>
+
+<div class="card" markdown="1">
+### Typography {#typography}
+(figure: 27.png align: left)
+#### What it is
+The meaningful and purposeful use of type.
+#### When best to use it
+Always. Type affects the comprehension of text both on a presentation and emotional level.
+</div>
+
+<div class="card" markdown="1">
+### Whitespace {#whitespace}
+(figure: 28.png align: left)
+#### What it is
+The unused parts of the page. Also known as negative space.
+#### When best to use it
+Always. To establish a rhythm to the page that affects the reader on a subconscious level.
+</div>
+
+## Conclusion
+The content patterns came about when designers and writers worked together on the same large project. The writers wrote the content and the designers suggested ways to better present it. These exchanges seemed valuable to capture and document to use in other projects. We hope you find them useful too!
+
+Do you use patterns that are not on this list we’ve identified? Please share them in the comments section.

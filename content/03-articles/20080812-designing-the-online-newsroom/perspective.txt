@@ -1,0 +1,114 @@
+Title: Designing the online newsroom
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2008-08-12
+
+----
+
+Category: Content Strategy,Information Architecture
+
+----
+
+Summary: In this article, we argue that the newsroom should be more than just a place for press releases. It can be an important hub of information for a range of audiences.
+
+----
+
+Body: 
+
+## Introduction
+The newsroom section in corporate and government websites is not just about press releases anymore and nor is it just for the press. The demand by a broad spectrum of customers to be updated on what’s happening at every front of the organisation combined with the organisation's need to promote and educate customers about new directions has expanded the role of the newsroom. In this article, we take a look at what goes into this enhanced newsroom and how to design for it.
+
+## The new newsroom
+The new newsroom has 2 characteristics: increased scope and tighter integration.
+
+When organisations think about newsrooms (or news centres) they think about stuff like announcements, press releases and the media kit. It’s not that this kind of information has no value; it’s just that there’s much more that can be done to engage a broad spectrum of customers and not just the press.
+
+Here are what some forward thinking organisations are offering in addition:
+
+* In-depth features
+* Latest news stories
+* Interviews or customer stories
+* Speeches
+* Podcasts
+* Blogs
+* Videos
+
+Next is the issue of integration. Many organisations provide in-depth articles and other information in the form of newsletters and brochures, but these are usually hidden away behind deep links or made available only to insiders. Furthermore, departments in large organisations manage their own news sections, resulting in silos and a lot duplication, not to mention confusion.
+
+Integrating all relevant information under one roof has many advantages like:
+
+* One place to go to for all news stories and media
+* It is easier to see what the organisation is doing as a whole
+* It is simpler to manage in the long term
+* It provides more opportunities to track and improve the information
+* It provides more opportunities to engage customers
+* No duplication of information
+
+Here are some examples of the enhanced newsrooms:
+
+* [News@Cisco](http://newsroom.cisco.com/dlls/index.html)
+* [Sun News Center](http://www.sun.com/aboutsun/media/index.jsp)
+* [HP Newsroom](http://www.hp.com/hpinfo/newsroom/)
+* [United Nations News Service](http://www.un.org/news/)
+* [Johns Hopkins News & Information Services](http://www.hopkinsmedicine.org/mediaII/Publications/index.html)
+* [Nokia - Press](http://www.nokia.com/press)
+* Merck Newsroom
+
+## Design considerations
+Given below are points to consider when designing the online newsroom.
+
+### Be serious about it
+Building the new newsroom could be a big change for some organisations. Like any other big change it too has to be managed. The last thing anyone would want is an unused, fragmented newsroom where departments argue on who is responsible for what. Being serious is about recognising that resources, effort and leadership are required to get this going.
+
+Here are some factors to consider:
+
+* Building & training a team to manage the website
+* Specifying the publishing guidelines
+* Communicating the change to the different departments
+* Keeping track and improving the offerings
+
+### Work out requirements
+Should we allow comments? How do we handle sticky news items or emergency news items? How do we handle media elements? What goes into the media kit? How do we archive the contents? Where do we place the newsroom link on the corporate homepage? Such requirements need to be ironed out and communicated to the various stakeholders.
+
+A good way to do this is to create wireframes that shows the corporate homepage, the newsroom homepage, a section page and a detail page. Present these to the various groups and seek their feedback. Work their inputs into the requirements spec and take it from there.
+
+### Simplify the homepage
+The newsroom homepage typically would contain the following:
+
+* Featured story (may or may not be the most current)
+* Highlights or other top stories (may or may not be the most current)
+* Latest stories from news, press, video, blogs, etc.
+* Archives and other related links
+* Search (don’t forget this)
+* Contact information
+
+The focus and arrangement will depend on the requirements but making it simple has many benefits. Putting what is most required upfront and relegating the rest is usually a good practice. Avoid the tendency to make it like a blog. See HP or Cisco for examples of good arrangements on the newsroom homepage.
+
+### Give the hub-and-spoke model a shot
+The hub-and-spoke navigation model is one way to ensure exclusivity for the different sections of the newsroom. This is necessary for the following reasons:
+
+* Users looking for specific information need not be burdened with information from other sections. E.g. the press looking for latest press releases need not be burdened with the latest blog entries.
+* It is easier to manage and grow that section.
+* It is easier to publicize that section.
+
+#### Info on hub-and-spoke
+
+* UI Patterns & Techniques: [Hub-and-spoke](http://time-tripper.com/uipatterns/Hub_and_Spoke)
+* Gerry McGovern’s [Don’t Design What-if Navigation](http://giraffeforum.com/wordpress/2008/06/01/dont-design-what-if-navigation/)
+
+### Feed relevant sections of the website
+With the widespread use of RSS, widgets and embeds, cross-linking and sharing information has never been easier. Information from the newsroom can be fed to relevant sections of the corporate website. E.g. feeding interview or speeches on the product or service page. Furthermore, users wanting more information can go directly to the exclusive page on the newsroom dedicated to their content. E.g. video stories that link to the video section of the newsroom (using the hub-and-spoke style). In this way the users flow is maintained as they move forward to access more detailed information.
+
+## Conclusion
+The new newsroom with its increased scope a tighter integration is not difficult to accomplish. Simple blogging tools like Wordpress is all that is required in many cases. However, what is absolutely necessary is to first pin down the goals of the newsroom and have a plan to make it happen.
+
+### Resources
+* [Intranets as a news channel](http://www.steptwo.com.au/papers/kmc_intranetnews/index.html)
+* [Social Media Newsrooms: The Ultimate Web 2.0 Tool for Your Business](http://www.sitepronews.com/archives/2008/jun/13.html)
+* [Tips for an effective online newsroom](http://www.tekgroup.com/marketing/tekmedia_tips2005/)
+* [What your online newsroom says about your company](http://www.motiontemps.com/article_0104.html)

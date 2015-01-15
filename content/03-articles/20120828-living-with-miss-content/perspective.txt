@@ -1,0 +1,66 @@
+Title: Living with Miss Content
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2012-08-28
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: In this short and light article we describe how to think about content is all its complicated glory by comparing it with living with a new partner!
+
+----
+
+Body: 
+
+## Introduction
+How many Request for Proposals or RFQs have you got on designing websites or apps that don't even mention content? It shows the level of respect content has in these organisations. So, what can we do to change this mindset? Here's an idea we've started using—living with **Miss Content**.
+
+The first thing that hits hard when living with another person is that there is a lot of give-and-take. You cannot choose to be indifferent. Similarly, if you are in the business of creating and publishing content then you got to learn to live with Miss Content.
+
+Here are some tips that we've learnt over the years.
+
+## Remember why you got together
+Two people get together because being together brings out the best in both. Living with Miss Content gives you a higher chance of succeeding at something. Don't forget this something. It is essential in the relationship. Why Miss Content?
+
+* Business objectives: What objectives will the content serve? Sell more widgets? Support your customers?
+* Customer objectives (personas): Why are users coming to your website? Buy widgets? Get support? Compare prices?
+
+## Acknowledge her presence
+Nothing is worse than ignoring the other person in the room. I have sat in numerous discussions about websites where Miss Content is taken for granted, as if she'll automagically sort things out. Big mistake. If you don't get her involved early, don't expect her to help out later on.
+
+* Content team: Who is responsible for content?
+
+## Agree on ground rules
+"I thought you're doing the cleaning." We know how this can end. Agree on what's going to happen and who's going to do what. Simple ground rules set expectations and behaviours.
+
+* Content governance: a shared understanding of how content will be created, approved, maintained and evaluated.
+
+## Grow the friend circles
+When the right friends get together, magic happens. Introduce Miss Content to the anxious Mr. Sponsor, the polished Mr. IA, the colourful Miss Visual Design, the loud Mr. Marketing, and the friendly Mr. and Mrs. User early on. Yes, it takes time to get to know each other, but when they do, the outcome is magical.
+
+* **Team mapping**: Who are the different members of the team and what part do they play in the user experience process?
+* **User personas**: A research-based description of the user and the jobs she is trying to get done by "hiring" the content on the website.
+
+## Ask how the day went
+"Would you like to talk about it?" always gets some brownie points. Miss Content goes to work everyday. Ask her for her highs and lows of the day, about what worked and what did not. Discuss on what can be done differently. Explore the options. Such discussions only strengthen the relationship.
+
+* Content evaluation: a systematic approach to evaluating the performance of content and taking action on under-performing ones.
+
+## Fix problems quickly
+"I made you breakfast" always fixes the problems of the night before. There will be many problems that will surface. Don't avoid them. Think of them as opportunities to strengthen the relationship.
+
+* After action review: a simple method of understanding what went wrong and how to improve in the next round.
+
+## Stay hungry, stay foolish
+"I've booked us on a snorkelling trip" always opens the mind to new experiences, new expectations. Don't settle with what works now. The content game is changing fast. Keep learning. Attend conferences, read blogs, meet people and try some experiments.
+
+## Conclusion
+How long have you been living with Miss Content? What have you learned over the years?

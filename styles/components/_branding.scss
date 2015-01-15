@@ -1,0 +1,134 @@
+/*------------------------------------*\
+    BRANDING
+\*------------------------------------*/
+
+/**
+ * Site header
+ */
+
+.site-header{
+    background: $brand-color;    
+    color: #fff;
+    padding: 0.9em 1em;
+    text-align: center;
+    font-weight: 100;
+    @include font-size(14px, false);
+    font-family: $base-heading-font;
+    position: relative;
+    @include clearfix;
+
+    a{
+        @include link-colors(#fff, #fff, #fff);
+    }
+}
+
+
+/* Branding */
+
+.branding{
+    // background: darken($brand-grey, 0%);
+    // color: #fff;
+    padding: 2em 1em;
+    text-align: center;
+    display: none;
+
+    @include media(desktop){
+        display: block;
+    }
+
+    /* Show in homepage */
+
+    .home &{
+        display: block;        
+        //border-bottom: 1px rgba(0,0,0, 0.1) solid;
+        @include media(desktop){
+            border-bottom: none;
+        }
+    }
+}
+
+/* Logo */
+
+.logo{
+    background: url(../images/pebbleroad-logo.svg) top left no-repeat;
+    width: 230px;
+    height: 80px;
+    text-indent: -2000em;
+    display: inline-block;
+    vertical-align: top;
+
+    /* No SVG */
+
+    .no-svg &{
+        background-image: url("../images/pebbleroad-logo.png");
+    }
+
+    .home &{
+        background-image: url("../images/pebbleroad-logo-white.svg");
+
+        .no-svg &{
+            background-image: url("../images/pebbleroad-logo-white.png");
+        }
+    }
+}
+
+
+    /**
+     * Mobile logo
+     */
+    
+    .logo-small{
+        background: url(../images/pebbles-white.svg) top left no-repeat;
+        background-size: auto 30px;
+        height: 30px;
+        width: 38px;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 1em;
+
+        .no-svg &{
+            background-image: url("../images/pebbles-white.png");
+        }
+                
+
+        .site-header &{
+            float: left;
+            margin: 0;
+
+            @include media(desktop){
+                display: none;
+            }
+        }
+    }
+
+
+/**
+ * Hamburger
+ */
+
+.hamburger{
+
+    font-size: 2em;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 100%;
+    width: 60px;
+    text-align: center;
+    line-height: 58px;
+
+    &:before{
+        @extend %icon;
+        content: "\e757";
+        margin: 0;
+    }
+
+    &:hover, &:active, &:focus, .menu-open &{
+        background-color: darken($brand-color, 15%);
+        //border-left: 1px darken($brand-grey, 5%) solid;
+    }
+
+    @include media(desktop){
+        display: none;
+    }
+}

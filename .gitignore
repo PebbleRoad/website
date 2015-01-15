@@ -2,3 +2,9 @@
 /site/accounts
 /assets/avatars
 /thumbs/*
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components

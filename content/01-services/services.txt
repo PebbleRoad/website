@@ -1,0 +1,102 @@
+Title: Services
+
+----
+
+Summary: We aim to humanise digital in the enterprise. We do this by designing meaningful, innovative and scalable solutions, and through education and training.
+
+----
+
+Services: 
+
+- 
+  name: Explore service innovations
+  blurb: Service design
+  description: >
+    Kick-start innovation in your
+    organisation. We offer leading-edge
+    service design thinking to help you
+    explore new ideas and design better
+    services for your customers. Our
+    projects have ranged from 1-day
+    innovation workshops to helping
+    multinationals build a service design
+    practice in their organisation.
+  clients: >
+    Telenor Norway, IE Singapore, Ministry
+    of Manpower and more
+  case: |
+    ### How might we improve the onboarding process for new officers?
+    We held a 1-day service innovation workshop with the process owners and new staff to co-design the onboarding journey. By the end of the workshop, we had identified more than 10 improvement concepts that could be developed into solutions.
+  body:
+- 
+  name: Design large websites
+  blurb: Enterprise websites
+  description: >
+    Enterprise websites are big and
+    messy—exactly the kind of problem we
+    love to tackle. With our deep experience
+    in user research, information
+    architecture, content strategy,
+    interaction design, visual design and
+    front-end development, we can help you
+    tame the complexity and arrive at a
+    scalable and sustainable solution.
+  clients: >
+    PayPal, SingTel, Singapore Management
+    University, Ministry of Manpower and
+    more
+  case: |
+    ### How might we motivate people to use the website instead of calling the helplines for general matters?
+    We helped design and create over 2,000 pages of content and interactions that were easily findable and gave quick, direct answers.
+  body:
+- 
+  name: Design enterprise apps
+  blurb: Enterprise apps
+  description: >
+    Enterprise apps solve a specific problem
+    for users. We can take you all the way
+    from identifying the right problem to
+    designing and creating the app for
+    desktop, tablet or phone.
+  clients: >
+    Great Eastern Life, Ministry of
+    Manpower, WDA Singapore, DSTA Singapore
+    and more
+  case: |
+    ### How might we design a seamless, consistent experience across 80 apps?
+    A client wanted to design 80 apps across different work scenarios. We identified key user stories and designed a system of interaction patterns and a guidebook used build the apps in a consistent manner for desktop and tablet.
+  body:
+- 
+  name: Design digital workplace solutions
+  blurb: Digital workplaces
+  description: >
+    Digital workplaces don’t just happen;
+    they need to be designed and planned. We
+    have expertise in designing digital
+    workplace solutions around search,
+    project management, collaboration,
+    knowledge bases and enterprise apps.
+  clients: >
+    Huawei China, WDA Singapore, MTI
+    Singapore and more
+  case: |
+    ### How might we use metadata and taxonomy to make information findable and and actionable?
+    An enterprise client wanted to restructure their knowledge base to take advantage of metadata and taxonomy. We helped create a system for defining and designing content types for the knowledge base and created interfaces to help staff explore, find and understand the information.
+  body:
+- 
+  name: Train in-house teams
+  blurb: In-house training
+  description: 'Finding time to catch up on digital trends can be daunting. We have a sweet answer to this problem: informal sharing sessions. Just call us and one of our experts can meet your team for a 1-hour sharing session on any of the following topics:'
+  clients: >
+    SingHealth, WDA Singapore, CapitaLand
+    and more
+  case:
+  body: |
+    * Understanding a people-centred approach to design
+    * Understanding user research
+    * Using taxonomy and metadata
+    * Designing content for large websites
+    * Introduction to intranets and digital workplaces
+    * Improving the search experience
+    * Designing for conversion
+    * Measuring and testing the performance of a website or application

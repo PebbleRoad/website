@@ -1,0 +1,32 @@
+Title: Web calculator framework
+----
+Summary: A framework to easily build and maintain web calculators.
+----
+Github: https://github.com/PebbleRoad/web-calculator-app
+----
+Tags: content patterns, shortcodes, gather content, HTML, CSS, JavaScript
+----
+Demo: http://pebbleroad.github.io/web-calculator-app/
+----
+License: MIT
+----
+Features: 
+
+* Easy to define and refine - all in plain text
+* Easy to deploy - all JavaScript
+* Standards compliant - works on all modern browsers
+* Testable - automatically test use cases
+* Themeable - can adapt to any visual design
+
+----
+Body: 
+
+## What it is
+A free framework to build and maintain web calculators that offer instant answers based on user input.
+
+## Why use it
+With web calculators you give users answers, instead of lengthy instructions. They are simple, elegant solutions in a self-service context. But, web calculators, especially complex ones, are difficult to maintain. Organisations don't want to create something that they cannot maintain. This is a reason why we don't see many calculators on the web. Our framework hopes to close this gap. The framework allows a front-end developer (with JavaScript knowledge) to easily build and maintain web calculators.
+
+## How to use it
+
+[View instructions on Github](https://github.com/PebbleRoad/shortcode-parser-for-gather-content)

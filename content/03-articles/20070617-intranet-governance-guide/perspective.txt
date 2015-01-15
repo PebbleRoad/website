@@ -1,0 +1,176 @@
+Title: Intranet governance guide
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2007-06-17
+
+----
+
+Category: Intranet Design
+
+----
+
+Summary: Getting an intranet is just a start, keeping it going is what matters most. Long term benefits and efficiencies can only be realised when the intranet is responsive to the needs and requirements of business and staff. This guide gives pointers to creating a governance structure that can help sustain and manage the intranet for the long term.
+
+----
+
+Body: 
+
+## Introduction
+This guide describes a set of processes that need to be in place and a set of actions that need to be taken to sustain and grow the intranet. Without these guides and checks, we risk diluting the very efficiencies and productivity gains that the intranet is designed to provide. This guide is divided into 3 sections:
+
+1. Being prepared
+1. Getting feedback
+1. Making changes
+
+Each section is described in detail below.
+
+## Being prepared
+Being prepared is about having the pre-requisite management mandate, the right people and the right processes in place to take on the responsibility of sustaining the intranet for the long term. Here are the factors to consider in being prepared.
+
+### Getting senior management support
+Having senior management support is essential to the long-term sustainability of the intranet. This support is not only about pulling in the required resources and budgets to make the necessary changes. It is also about directing the cultural and mindset changes that are required to make the intranet an integral part of work.
+
+Here are some checkpoints to keep in view:
+
+* Keep the senior management involved in all intranet activities by providing regular bulletins on progress and changes.
+* Use their reach to market the intranet at every opportunity.
+* Use their influence to make strong policy changes (e.g. all news first goes to the intranet)
+
+### Having a clear intranet charter
+Before you start, have an intranet charter. The charter should put everyone on the same page by stating the intent and the expectations upfront. A charter spells out the objective and purpose of the intranet. It also describes behaviours that conform to the objectives and those that do not conform to the objectives.
+
+Do not get too longwinded with the charter. Keep it to a single page.
+
+## Having an intranet team
+The intranet requires dedicated time and effort to keep it in good shape. This requires a dedicated team. Do not scrimp on the time and resources given to this team. Get the top management to support this stance. Here are roles and job descriptions of a typical team:
+
+**Intranet manager (Full-time preferred)**
+
+* Manage day-to-day intranet related activities.
+* Be responsible for starting mini-redesign projects and finishing these projects on budget and on time.
+* Make sure that the intranet is running well, both in terms of system performance and in terms of usability.
+Keep senior management in the loop.
+* Mentor and coach content authors on creating the right content.
+* Market the intranet.
+
+**Usability/IA specialist**
+
+* Be in touch with intranet users.
+* Analyse search and access logs.
+* Recommend improvement projects.
+* Conduct usability tests, surveys, etc., to gather data on user needs and preferences.
+
+**Web designer/web developer**
+
+* Create new templates when necessary.
+* Make code changes.
+* Recommend improvement projects.
+* Create new sections and sub-sites when necessary.
+
+### Educating & training content authors
+Content authors are responsible for much content on the intranet. The way content is written and communicated affects the way content is consumed and acted upon. The content style has a direct impact on the usability of the content and hence on the usability of the entire intranet.
+
+Education and training should be provided to content authors to enable them to learn and practice the art of writing for the intranet. This training should be held on a regular basis. Here are some additional items that can help in this regard:
+
+* Provide examples of good and bad writing
+* Showcase examples of good writing on the intranet
+* Reward those who author well-written content
+* Provide external links to websites where one can pick up tips and tricks on good writing
+* Hold regular crash courses on online writing
+
+### Marketing the intranet
+Every available opportunity should be used to market the intranet. Active marketing not only makes people aware of the intranet but also maintains the excitement and opens a wider channel for discussion and feedback. Here some activities that can help:
+
+* Have a intranet naming competition
+* Give prizes to best written copy, first fully completed staff directory entry and most valuable feedback
+* Print and pinup posters around the facilities that showcase what’s available on the intranet
+* Nurture intranet champions who can talk to common users and provide support as and when necessary
+* As mentioned earlier, get senior management to actively back and talk about the intranet when and where appropriate
+
+## Getting feedback
+Getting feedback is about seeking out or creating opportunities to get feedback on how the intranet is performing. Think of it as a medical check-up. There are several ways to conduct this check-up. These are given below.
+
+### Conducting an intranet review
+An intranet review is a review of the intranet around aspects such as content, navigation, homepage, site structure and so on. An intranet review should be done on a regular basis. A review can give a good indication of the current state of affairs and will provide directions on what needs to be done next.
+
+The [Intranet Review Toolkit](http://www.intranetreviewtoolkit.org/) Project done by StepTwo Designs and funded by the IA Institute is a good place to start. The website contains a toolkit that can be downloaded and used for free.
+
+### Analysing search logs
+Search logs collect search terms that users put into the search box to find information. Analysing search logs gives clues to the popular searches, what is being searched, whether that is available on the intranet, whether the patterns are seasonal, what vocabulary is being used and so on.
+
+Search logs should be analysed on a regular basis, preferable on a weekly basis. The findings should be acted upon and these activities should be part of the regular intranet maintenance to-dos. For more information, check out Rosenfeld Media’s upcoming book on [Search Analytics](http://www.rosenfeldmedia.com/books/searchanalytics/).
+
+### Analysing access logs
+Access logs collect information on how the intranet is accessed. This includes attributes such as which pages are accessed, how often, what the user access paths are, which pages are giving the 404 errors, and so on.
+
+Analysing access logs provides insights into how the intranet is accessed, which parts of the intranet are useful and which are not so useful, what are the access patterns and so on.
+
+Access logs should be analysed on a regular basis, preferably weekly (along with the search logs). The findings should be acted upon and these activities should be part of the regular intranet maintenance to-dos.
+
+### Analysing user feedback
+Intranet users have several opportunities to provide feedback to the intranet team. For example, a feedback form at the bottom of all intranet pages can be used to rate and send feedback to the intranet team. See a rating example from IBM.
+
+The intranet team should pay attention to feedback that comes directly from the users. The team should not only acknowledge the feedback but also initiate a conversation and see how the feedback can be put to use. The conversations provide an opportunity to market the intranet through word-of-mouth.
+
+### Analysing usability feedback
+Usability feedback is feedback gathered from usability sessions. The intranet team should conduct regular usability tests, especially on new content, new pages, new interactions or new systems.
+
+The usability tests should be quick and simple otherwise you’ll end up frustrating staff instead of helping them.
+
+Apart from keeping the intranet usable, the usability tests also tell staff that the team and the management are serious about the intranet. This increases the level of trust around the intranet.
+
+### Gathering IT system feedback
+System feedback is feedback gathered from IT checks. These tests include load checks, performance tests, database query tests, etc., that are part-and-parcel of IT system maintenance.
+
+Any non-conformance to accepted standards should be acted upon as soon as possible.
+
+## Making changes
+This stage is about making changes to the intranet based on the feedback gathered from the previous stage. There are several types of changes that can be made. These are described below.
+
+### Changing existing content
+Existing content may require a change initiated by either a request or by feedback. In any case, the new content must pass the accepted writing and usability benchmarks. A review and a signoff must be recorded before the new content is published.
+
+### Adding new content
+The checks for adding new content are different from the checks for modifying existing content.
+
+Firstly, new content must pass the usefulness test. This means that only that content that adds value is to be included. Avoid using the intranet as a web dumping ground for all and sundry.
+
+Secondly new content must pass the accepted writing and usability benchmarks.
+
+Thirdly, new content should be used with the right template and be placed in the right position in the intranet structure.
+
+A review and a signoff must be recorded before the new content is finally published.
+
+### Removing ROT
+ROT is an acronym that stands for Redundant, Outdated and Trivial content. If feedback points to the existence of such content, then it should be marked for removal. An action should be set in motion that places the marked content in a standby mode and lets users know about the impending removal. If there is no objection to this content in a specific period of time, then it should be deleted.
+
+Removing ROT is a crucial activity and leads to a healthier intranet, much like pruning leads to a healthier tree.
+
+### Changing the IA
+IA refers to the information architecture of the intranet. Changes to the IA should be done only after much consideration as these changes affect well-established user expectations from the intranet.
+
+The need to change IA may come from the need to have a new and different sub-site or section. Or in circumstances where is it hard to fit the new content into the current IA.
+
+If the structural changes are small, then it should be done in-house. But, if the structural changes are large then a professional information architect should be involved (unless you already have a full fledged team of IAs working for you).
+
+### Changing the look & feel
+Look and feel refers to the visual and layout elements of the intranet. Such changes may be required in several situations, for example, when the intranet branding takes a new direction, or when there is a significant corporate (50 year celebrations) or cultural event (Christmas, Chinese New Year, etc.).
+
+Look and feel of the intranet is controlled by what is known as Cascading Style Sheets or CSS. Changes to the look and feel is done by changing the CSS codes and thus this activity must be done by the web designers who is familiar with professional level CSS.
+
+Hard coding visual changes into the content or into the template should be avoided in all circumstances. This not only jeopardises the future scalability of the intranet but also makes it hard to maintain and control the visual part of the intranet.
+
+### Changing business processes
+Most intranet improvements can be made by tweaking the current content or structure or by adding new content into the structure. At times, however, there will be issues that transcend the intranet and point towards a change in the underlying business process itself. Just because these are more organisational or management issues the opportunity to analyse them and possibly re-engineer them should not be wasted.
+
+For example, if the team finds, either through feedback or through observations, that there are multiple requests forms that point to redundancy or multiple channels of approval that lead to a time-consuming activity, then they should mark this process for improvement and bring it to the attention of senior management.
+
+Opportunities for changing underlying businesses processes present an opportunity to align business needs to staff needs, and as such, should not be missed.
+
+## Conclusion
+Governing an intranet needs time, dedication and effort. This guide gives you a framework to start thinking about putting processes in place to sustain and respond to the needs and requirements of the staff. It’s not too far-fetched to think about roles that have the intranet management as key performance indicators or KPIs. But before the metrics, a belief that the intranet matters, must first be in place.

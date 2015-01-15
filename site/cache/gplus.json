@@ -1,0 +1,1259 @@
+{
+ "kind": "plus#activityFeed",
+ "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/MqX1jQ_8Is7nXx_mnA6wiikBOy0\"",
+ "nextPageToken": "Cg0Qj_2ysr-VwwIgACgBEhQIABCg5qOU0JTDAhiw6bmLrt7BAhgC",
+ "title": "Google+ List of Activities for Collection PUBLIC",
+ "updated": "2015-01-14T23:22:15.220Z",
+ "items": [
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/A4J-Y1PG1BbxHakTqDr9q-j7hfA\"",
+   "title": "Follow up on the recent chatter about the death of the design agency. John Rousseau from the Artefact...",
+   "published": "2015-01-14T23:22:15.220Z",
+   "updated": "2015-01-14T23:22:15.220Z",
+   "id": "z13ihxkp2qikev45404cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/UTFCoJ4W2J7",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Follow up on the recent chatter about the death of the design agency. John Rousseau from the Artefact group says that design consulting is changing, taking on different roles and tackling complex problems.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/UTFCoJ4W2J7",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ihxkp2qikev45404cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ihxkp2qikev45404cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ihxkp2qikev45404cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "The Case for Design Consulting - Artefact",
+      "content": "The Case for Design Consulting: Artefact's Executive Director, John Rousseau's take on why design firms are positioned to thrive in the 2015 and beyond.",
+      "url": "http://www.artefactgroup.com/content/the-case-for-design-consulting/",
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/EcWmyl68frRdxMoHD8xY-k08jC4GO_lC3foilyUDP8rKB5JC7gPSNC-Crd2pbS31TKCx4kUYwtJZbK_O4szAFm9BJl0h3i0Vp2OaBr-YJeZWQfc-kFc=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://www.artefactgroup.com/wp-content/uploads/2014/12/crusaders1.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/9hos3H-5riawwefPkAAAk9qfADo\"",
+   "title": "Why information architecture matters to your business.",
+   "published": "2015-01-14T13:56:42.586Z",
+   "updated": "2015-01-14T13:56:42.586Z",
+   "id": "z13zi5hwdmjrgbbsl23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/3tK3CZSa57T",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Why information architecture matters to your business.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/3tK3CZSa57T",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13zi5hwdmjrgbbsl23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13zi5hwdmjrgbbsl23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13zi5hwdmjrgbbsl23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "video",
+      "displayName": "Why Information Architecture Matters to Your Business",
+      "content": "A short explainer video from Earley & Associates. To learn more about how information architecture matters to your business visit www.earley.com.",
+      "url": "http://t.co/6JbrSVNmAp",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/gN-M_Wp6h6Gc04tDp2P3rlq4plvFvgxZR9TnZPCknMp6wVAcXfQnaCA5jBnL-CCU0THFSVq3KzsKZoaJno_jZxFkE8w=w506-h284-n",
+       "type": "image/jpeg",
+       "height": 284,
+       "width": 506
+      },
+      "embed": {
+       "url": "https://www.youtube.com/embed/vc4g3eMhpc0",
+       "type": "application/x-shockwave-flash"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/XRHEt3_rTLaUaWo6huvFhKG9OIY\"",
+   "title": "Designing the Organization from Service Design Perspective\nOne of the few articles that beautifully ...",
+   "published": "2015-01-14T13:54:38.949Z",
+   "updated": "2015-01-14T13:54:38.949Z",
+   "id": "z13mi3pwypyywzirb04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/fiS5GdLCmj9",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Designing the Organization from Service Design Perspective\u003cbr /\u003eOne of the few articles that beautifully explain service design and how it can help organisations.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/fiS5GdLCmj9",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13mi3pwypyywzirb04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13mi3pwypyywzirb04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13mi3pwypyywzirb04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Designing the Organization from Service Design Perspective",
+      "content": "An inside look at 2 User Experiences that constitute the basis of Service",
+      "url": "https://medium.com/@mariosakata/designing-the-organization-from-service-design-perspective-9f2bda1dcbbc",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/E1JzW-mlhd68tUu9lw8VHY1YThWaHgbhOp4A7gza2WKgvkp7CU4Ur5Ak3iJSa2BsKRfkZ1kSB8j2d_lgZxXxWBxRuzZLH-iXukvBvJkiNuBQoEjk7UVXyGjN=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://d262ilb51hltx0.cloudfront.net/max/800/1*8T6R96LlXuvQASVFZGjHNA.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/PaCfjg-3-xtZPjl2yR-EnXGrfyg\"",
+   "title": "The Core Model: Designing Inside Out for Better Results\nA simple method for thinking deeply about important...",
+   "published": "2015-01-14T13:51:55.792Z",
+   "updated": "2015-01-14T13:51:55.792Z",
+   "id": "z13ti1p43wuaxdwii04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/bc5Bztkp7ww",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "The Core Model: Designing Inside Out for Better Results\u003cbr /\u003eA simple method for thinking deeply about important pages. It can be very useful in highlighting research findings.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/bc5Bztkp7ww",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ti1p43wuaxdwii04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ti1p43wuaxdwii04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ti1p43wuaxdwii04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "The Core Model: Designing Inside Out for Better Results",
+      "content": "We’ve all fallen into territorial arguments about what content belongs on a site’s homepage. It’s the most important part of your website, after all—or is it? Ida Aalen shows us how to circumvent these turf wars with the Core Model approach, starting with a workshop to get everyone on the same page about what really counts as important—to your users. By identifying the core elements of your website as a team, you’ll make those smaller decisions a...",
+      "url": "http://alistapart.com/article/the-core-model-designing-inside-out-for-better-results",
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/_hI_7RQWjYv3ervt1wcApKnZ-jPEkPuRJRhs41LbJOTa_gohyWfGHbvTSTsihZEunlgjrLuyQ3k7_Snjr4I=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://alistapart.com/d/ALA_411_Core-Model.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/bamrY0P7BD6q1fV5i-7Bym07F6E\"",
+   "title": "Our new website is up!\nWe streamlined our offerings and improved the design.\nCheck it out at www.peb...",
+   "published": "2015-01-14T13:00:33.272Z",
+   "updated": "2015-01-14T13:00:33.272Z",
+   "id": "z13hwphgzwijij0ek23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/EPEkic7mRYN",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Our new website is up!\u003cbr /\u003eWe streamlined our offerings and improved the design. \u003cbr /\u003eCheck it out at \u003ca href=\"http://www.pebbleroad.com\"\u003ewww.pebbleroad.com\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/EPEkic7mRYN",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hwphgzwijij0ek23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hwphgzwijij0ek23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hwphgzwijij0ek23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "PebbleRoad Pte Ltd",
+      "url": "http://www.pebbleroad.com"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/hdpxLPpXh4nsvKocsaJzvSVVzQE\"",
+   "title": "I find it annoying to open PDF files to look for specific information. Especially when the information...",
+   "published": "2014-11-28T09:44:23.013Z",
+   "updated": "2014-11-28T09:44:23.013Z",
+   "id": "z130hbsiet2wclh3u23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/MUVwVHbTR1q",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "I find it annoying to open PDF files to look for specific information. Especially when the information ought to be on the web in the first place. Imagine opening a PDF file to look for a specific branch location. Not only I have to open the file but also have to scroll the long document to find the branch address. Messy! Here&#39;s a solution to this mess.\u003cbr /\u003e\u003ca href=\"http://www.pebbleroad.com/perspectives/move-data-tables-from-pdf-to-web\"\u003ehttp://www.pebbleroad.com/perspectives/move-data-tables-from-pdf-to-web\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/MUVwVHbTR1q",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130hbsiet2wclh3u23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130hbsiet2wclh3u23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130hbsiet2wclh3u23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Move data tables from PDF to the web",
+      "content": "A simple way to move data tables stuck in PDF files to the web so that users can easily browse and search for specific information.",
+      "url": "http://www.pebbleroad.com/perspectives/move-data-tables-from-pdf-to-web",
+      "image": {
+       "url": "https://lh4.googleusercontent.com/proxy/T2k-l4Mjzk3l_-wyn4U2oyIz_ZE8s8vvAImi4DFpGXOUKqh6vZj6X1YankGFIZaBgtD3GB5fywqWb5Ahdrrz5BsN8w=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://www.pebbleroad.com/assets/images/pebbles.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/0fMxWVL9iUrGVdGYfcya2poGWQ8\"",
+   "title": "Recording now available of the Intranet Innovation Awards webinar featuring Louis Zulli Jr\nhttp://ww...",
+   "published": "2014-11-28T02:18:12.564Z",
+   "updated": "2014-11-28T02:18:12.564Z",
+   "id": "z13hcrkonxqsxtqmy23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/Gqo2qE27g8h",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Recording now available of the Intranet Innovation Awards webinar featuring Louis Zulli Jr\u003cbr /\u003e\u003ca href=\"http://www.steptwo.com.au/columntwo/recording-now-available-intranet-innovation-awards-webinar-featuring-louis-zulli-jr/\"\u003ehttp://www.steptwo.com.au/columntwo/recording-now-available-intranet-innovation-awards-webinar-featuring-louis-zulli-jr/\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/Gqo2qE27g8h",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hcrkonxqsxtqmy23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hcrkonxqsxtqmy23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hcrkonxqsxtqmy23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Recording now available of the Intranet Innovation Awards webinar featuring Louis Zulli Jr - Column Two",
+      "content": "The global webinar we ran yesterday was a huge hit. Featuring Louis Zulli Jr, our Platinum award winner from Lakewood High School, there were just under 500 registrations for the event. In addition to a live tour given by Lou, the webinar focused on two key themes: the power of design thinking, and innovation in …",
+      "url": "http://www.steptwo.com.au/columntwo/recording-now-available-intranet-innovation-awards-webinar-featuring-louis-zulli-jr",
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/7P7YX9GPjb01Et0GtPB23DHPmJS9i3NLdYnGyb2hb_NbxKTwvycKzt0IfjzGEcmQmZ0J4FJJpEIyGVsPa5jWAlpN4WxeKzMVRn5_egiR=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://www.steptwo.com.au/files/2012/08/Homepage-Resources.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/uGzLkL15GFObelf8zELE21plfUg\"",
+   "title": "UX for the enterprise is finally getting attention. This A List Apart article talks about the opportunities...",
+   "published": "2014-11-28T02:17:50.602Z",
+   "updated": "2014-11-28T02:17:50.602Z",
+   "id": "z12jvhywztayxz1pp04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/XHSQUQFZ8WJ",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "UX for the enterprise is finally getting attention. This A List Apart article talks about the opportunities and the challenges of working with large organisations.\u003cbr /\u003e\u003ca href=\"http://alistapart.com/article/ux-for-the-enterprise\"\u003ehttp://alistapart.com/article/ux-for-the-enterprise\u003c/a\u003e\u003cbr /\u003eNow, there is even a conference dedicated to it in 2015.\u003cbr /\u003e\u003ca href=\"http://enterpriseux.net/\"\u003ehttp://enterpriseux.net/\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/XHSQUQFZ8WJ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12jvhywztayxz1pp04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12jvhywztayxz1pp04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12jvhywztayxz1pp04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "UX for the Enterprise",
+      "content": "Enterprise UX often involves navigating cumbersome processes, ancient technology, and clients skeptical of design’s value. Yet Fortune 500 companies are often the ones most in need of well-designed internal tools. Jordan Koschei takes us through common problems lurking in global organizations—and how we can improve people’s lives by giving internal tools the same attention as consumer interfaces.",
+      "url": "http://alistapart.com/article/ux-for-the-enterprise",
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/AW5awMiXAA3q31LXy9BHhQRv2EBmCDBakHGdVBs2ll5Peo7PGVXr-fWmmrTDaSLBQmLcyMXWXcE3BW_REeS9r-oQAMMg=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://alistapart.com/d/ALA_408_UX-for-enterprise.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/k4IoVxRXRgDLnAW0ucKewctb0l0\"",
+   "title": "Maish presented “Designing the search experience” for the IxDA community in Singapore. Get the deck ...",
+   "published": "2014-11-28T02:17:35.387Z",
+   "updated": "2014-11-28T02:17:35.387Z",
+   "id": "z12vwx1y5smmellqw04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/dtc5aaiTdtS",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Maish presented “Designing the search experience” for the IxDA community in Singapore. Get the deck on Slideshare. \u003cbr /\u003e\u003ca href=\"http://www.slideshare.net/maish/designing-the-search-experience-42026607\"\u003ehttp://www.slideshare.net/maish/designing-the-search-experience-42026607\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/dtc5aaiTdtS",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vwx1y5smmellqw04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vwx1y5smmellqw04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vwx1y5smmellqw04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Designing the search experience",
+      "content": "Search is not just the place your users go to when they are lost or have something specific to find. It is also a place where your users go to to have a conversation about their needs. Avinash Kaushik remind us that search is the only place that gets used more than 10% of the time. So, how are we designing this conversation? In this presenation for the IXDA Singapore community, I share a framework to design the search experience.",
+      "url": "http://www.slideshare.net/maish/designing-the-search-experience-42026607",
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/EmJa5hpVydwaZmXIZBAz7yvdtsac8R9GRqqH79701DsKoMvSYSEisyz8QgtVYch_bzvqZJ4oIFauGiYXdbCsifbR0fXZnrRgy8ArzaI1m7ECnE__DXVIBS2_XCxR7uQJSOik09BSbXfc9pkSvPZp8FG4E0hW2zhLfmba1SN4RqWFJSJotAwD9oxMTpxTtz1zAxzr0g=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://cdn.slidesharecdn.com/ss_thumbnails/designing-search-experience-141125201014-conversion-gate01-thumbnail-4.jpg?cb=1416968381",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/2zH3ii7b1PjRz_UYlKj59YV6DXY\"",
+   "title": "We know that having structured content in PDF is not usable. What can one do? Here’s what we did: we...",
+   "published": "2014-11-28T02:17:20.167Z",
+   "updated": "2014-11-28T02:17:20.167Z",
+   "id": "z130it0bxryozh0mh23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/DtDegYTm3g3",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "We know that having structured content in PDF is not usable. What can one do? Here’s what we did: we scraped the data from the PDF, cleaned it up and moved it to Google Fusion Tables. We used the API to display the content on a web page in table form, along with search functionality! Take a look at the outcome: \u003ca href=\"http://www.mom.gov.sg/beta/wsh-training/find-training-provider.html\"\u003ehttp://www.mom.gov.sg/beta/wsh-training/find-training-provider.html\u003c/a\u003e\u003cbr /\u003eInterested? We will release the code soon.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/DtDegYTm3g3",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130it0bxryozh0mh23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130it0bxryozh0mh23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130it0bxryozh0mh23rg1iwdtrujp20a/people/resharers"
+    }
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/-U0gmpXsAjygqw3vNV3fiphTNyc\"",
+   "title": "In-depth explanation of 'empathy'. A must read.",
+   "published": "2014-11-18T01:10:33.786Z",
+   "updated": "2014-11-18T01:10:33.786Z",
+   "id": "z12kunhreofwwzpst23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/5JB1CtMKjgt",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "In-depth explanation of &#39;empathy&#39;. A must read.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/5JB1CtMKjgt",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kunhreofwwzpst23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kunhreofwwzpst23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kunhreofwwzpst23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "What is Empathy?",
+      "url": "http://uxmag.com/articles/what-is-empathy",
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/I7W_Co1S1vNAoqMgkfa5hGALGfogAlXSiOSF5k8n2rLZX2yeWDgYbhkCD75RQtr1Uxv8YVVo15e2qVRGdHsYvaVna0-cwP9-X0NgR7LdJLvjqzWLE-2jrwcdiPOiaNB93VJHRe7kLWImCtNQ6AiXy96p2f65JCzRi1yoIZrK0_MUYDN3qC5pwWxpig66Bt51sCc=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://uxmag.com/sites/default/files/styles/629x307/adaptive-image/public/article-images/what-is-empathy-banner.jpg?itok=LCiH47go",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/rkraaenXS-C_n_3HO4rStbPXjJo\"",
+   "title": "A World Made of Information \u003e wonderful article by Abby The IA on new challenges for the information...",
+   "published": "2014-11-11T12:28:06.046Z",
+   "updated": "2014-11-11T12:28:06.046Z",
+   "id": "z13qw3i4mzahvvtav04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/dmC16Meb17r",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "A World Made of Information &gt; wonderful article by Abby The IA on new challenges for the information architect.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/dmC16Meb17r",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qw3i4mzahvvtav04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qw3i4mzahvvtav04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qw3i4mzahvvtav04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "A World Made of Information",
+      "content": "The following speech was delivered at the Future of UX Summit on November 5th 2014. --- Not too far into the distant future, everything from our current existence that can be digitized will have be...",
+      "url": "http://abbytheia.com/2014/11/05/a-world-made-of-information/",
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/Fo_9En6-Bis8U88Ml4nyPq_oPiUAeZOyRLm_FzA7_lz13Y_NnQcIkfe4MbkfGe9rzgyE-DUGljvb28ZrhMaZtmXR9sqm1WY8czVP3m9cSvlMvSJokVSpzPEEfyFT7-5P=w506-h303-p",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://abbytheia.com/wordpress/wp-content/uploads/2014/11/WorldofInformation.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/Goc3Rv_EdqhAH6NCdOaqG5NI7yI\"",
+   "title": "IxD session: Designing the Search Experience \u003e My sharing session for IXDA Singapore. Thu, 20 Nov 2014...",
+   "published": "2014-11-11T12:25:28.215Z",
+   "updated": "2014-11-11T12:25:28.215Z",
+   "id": "z12ds5vzbtijcfuyh04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/events/cjf3fj2l401hmue6sl4uc7pn2cs",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "IxD session: Designing the Search Experience &gt; My sharing session for IXDA Singapore. Thu, 20 Nov 2014.\ufeff",
+    "url": "https://plus.google.com/events/cjf3fj2l401hmue6sl4uc7pn2cs",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ds5vzbtijcfuyh04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ds5vzbtijcfuyh04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ds5vzbtijcfuyh04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "event",
+      "displayName": "Designing the search experience",
+      "content": "IxD session: Designing the Search Experience \u003e My sharing session for IXDA Singapore. Thu, 20 Nov 2014.",
+      "url": "https://plus.google.com/events/cjf3fj2l401hmue6sl4uc7pn2cs"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Events"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/-YX8Mr31aVk4aKfyI6n_04nYxfU\"",
+   "title": "Responsive Images in Practice",
+   "published": "2014-11-11T12:21:40.252Z",
+   "updated": "2014-11-11T12:21:40.252Z",
+   "id": "z122gbfyklbxulhdc23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/7m6J5oJ81hD",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Responsive Images in Practice\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/7m6J5oJ81hD",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gbfyklbxulhdc23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gbfyklbxulhdc23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gbfyklbxulhdc23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Responsive Images in Practice",
+      "content": "When we design responsively, our content elegantly and efficiently flows into any device. All of our content, that is, except images. For years, we’ve catered to users with the highest-resolution screens by sending giant images to everyone. No longer. Eric Portis takes us through the new picture element and other attributes to let us mark up multiple, alternate sources. Find out how to use responsive images now: send the best image for each conte...",
+      "url": "http://alistapart.com/article/responsive-images-in-practice",
+      "image": {
+       "url": "https://lh4.googleusercontent.com/proxy/LzYrwfMn0pru7xwkSBU2UhiDsoHPq8lGzxiKV-Fp7OVtIjVXgfGf57ovZ2rzbIP_tPoL6BK22muuHDvQxue-AXQuVxtBAm8G_tpWUTk4nhNRAwsZ=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://alistapart.com/d/ALA_407_responsive-images-in-practice-v1.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/mR7biYQTYF8IHU1J1sUo2pitDLg\"",
+   "title": "Writing content? Start with a question, not an inventory.",
+   "published": "2014-11-11T12:17:48.027Z",
+   "updated": "2014-11-11T12:18:03.000Z",
+   "id": "z13jfx3ycmuby3ybr04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/iUMzDJHAR33",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Writing content? Start with a question, not an inventory.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/iUMzDJHAR33",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jfx3ycmuby3ybr04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jfx3ycmuby3ybr04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13jfx3ycmuby3ybr04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Start with a question, not a message",
+      "content": "When it comes to writing the copy for your website, start with a users question rather than the message you wish to communicate.",
+      "url": "http://boagworld.com/content-strategy/start-with-a-question-not-a-message/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/NmAKpiw9B2OdudAVRKVufxCIdKVeObI7oK-pyElIkTBoaysdyVAX1Jf0vHRwurLwWWbs-ItfA5zyxUGCjziIlWxk359SyqG-p1vfIYyMasYOpa0b=w506-h303-p",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://boagworld.com/wp-content/uploads/2014/11/questions-square.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/RbDOF074Z2jVgefPpm0ubaHTFrE\"",
+   "title": "How to test icons, buttons and more such stuff.",
+   "published": "2014-11-11T12:13:14.353Z",
+   "updated": "2014-11-11T12:13:14.353Z",
+   "id": "z13syviixljnwndry04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/jY3S4rwvxtY",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "How to test icons, buttons and more such stuff.\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/jY3S4rwvxtY",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13syviixljnwndry04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13syviixljnwndry04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13syviixljnwndry04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Making Better Design Decisions with Data: 5 Examples: MeasuringU",
+      "content": "For some, the idea of involving users in design decisions conjures up images of interfaces being designed by focus groups. Steve Jobs is famous for saying that users don't know what they want. And Henry Ford famously said, \"If I had asked people what they wanted, they would have said faster ...",
+      "url": "http://www.measuringu.com/blog/design-data.php",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/uhJTW2KLL56_xaJimsHwNM7axJ8W3uBZ9gsxZqiv7k_QQHpHfRRJyUvn9YCiDdwSTX9VuoNzCCZ_llM=w506-h303-p",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://www.measuringu.com/images/modelt.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/h3bi2JjR2CkLvOv6OI7w16zmjmU\"",
+   "title": "Microsoft live translate in public beta\nhttp://techcrunch.com/2014/11/03/skype-translator-preview/",
+   "published": "2014-11-03T23:13:25.171Z",
+   "updated": "2014-11-03T23:13:25.171Z",
+   "id": "z12zwdw4hyabth0er23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/FZ6gEwzBR6W",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Microsoft live translate in public beta\u003cbr /\u003e\u003ca href=\"http://techcrunch.com/2014/11/03/skype-translator-preview/\"\u003ehttp://techcrunch.com/2014/11/03/skype-translator-preview/\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/FZ6gEwzBR6W",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zwdw4hyabth0er23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zwdw4hyabth0er23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zwdw4hyabth0er23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Skype Opens Registration For Early Live Translator Preview | TechCrunch",
+      "content": "Microsoft's research department has been building some incredible things of late, and one of them comes from the Skype team and was demoed on stage at..",
+      "url": "http://techcrunch.com/2014/11/03/skype-translator-preview",
+      "image": {
+       "url": "https://lh6.googleusercontent.com/proxy/TB7pxdxmLYSiNSru_qSDw0lv2ryxpN5TKOVM0q5YExRKSmxek3L5PajuijBR-ZsTGRMiWjq01CSoLhXZz7oqNx52bQNmaufutvvIk6yY2Jf-JqrHth_5EtvKThgWRfiss53zsNrqh_QwbPwnYoFtYZBQCg=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://tctechcrunch2011.files.wordpress.com/2014/11/screen-shot-2014-11-03-at-12-19-20-pm.png?w=680",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/2MynhkU5uMLMlf6vuPvYPNMKLeE\"",
+   "title": "The PebbleRoad library…350+ books and counting. The intertwingledness helps us solve complex problems...",
+   "published": "2014-11-03T11:45:47.151Z",
+   "updated": "2014-11-03T11:45:47.151Z",
+   "id": "z13uyjlimzmwfbiyq04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/csa59rpe8jW",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "The PebbleRoad library…350+ books and counting. The intertwingledness helps us solve complex problems :)\u003cbr /\u003e\u003ca href=\"https://www.librarything.com/catalog/pebbleroad\"\u003ehttps://www.librarything.com/catalog/pebbleroad\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/csa59rpe8jW",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13uyjlimzmwfbiyq04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13uyjlimzmwfbiyq04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13uyjlimzmwfbiyq04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "pebbleroad's books | LibraryThing",
+      "content": "LibraryThing catalogs your books online, easily, quickly and for free.",
+      "url": "https://www.librarything.com/catalog/pebbleroad"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/T4uRfi9zCpCBzsGfni8vCyDbpSY\"",
+   "title": "60 ways to understand user needs\nhttp://www.userfocus.co.uk/articles/60-ways-to-understand-user-needs.html...",
+   "published": "2014-11-03T11:45:26.938Z",
+   "updated": "2014-11-03T11:45:26.938Z",
+   "id": "z125e1bq2zq1yx4eb23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/116500201979181780899/posts/Cu9GViHJqxD",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "60 ways to understand user needs\u003cbr /\u003e\u003ca href=\"http://www.userfocus.co.uk/articles/60-ways-to-understand-user-needs.html\"\u003ehttp://www.userfocus.co.uk/articles/60-ways-to-understand-user-needs.html\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/Cu9GViHJqxD",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125e1bq2zq1yx4eb23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125e1bq2zq1yx4eb23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125e1bq2zq1yx4eb23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "60 ways to understand user needs",
+      "content": "People new to user research often think of surveys and focus groups as the main ways to get insights into customer needs. Here are 60 alternative ideas you might want to try.",
+      "url": "http://www.userfocus.co.uk/articles/60-ways-to-understand-user-needs.html",
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/jP5mlGQ1_MlcsPXkdGyA01HLIt1EQIe2vnre_uRi0CLQGZnMwPMl38iraUJLWQjHzIMUgKY_6pg3STyG6lo50LU=w506-h303",
+       "type": "image/jpeg",
+       "height": 303,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://www.userfocus.co.uk/images/60userneeds.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"RqKWnRU4WW46-6W3rWhLR9iFZQM/GhiPIUJRHvS92HXhJgYc_D6orV0\"",
+   "title": "Experience design is shaping our future\nhttp://radar.oreilly.com/2014/10/experience-design-iot-design...",
+   "published": "2014-11-03T11:45:17.518Z",
+   "updated": "2014-11-03T11:45:17.518Z",
+   "id": "z13iwn2j1q2civewg04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/116500201979181780899/posts/QUVweLBVXxG",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uH2lbRcYVFA/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Experience design is shaping our future\u003cbr /\u003e\u003ca href=\"http://radar.oreilly.com/2014/10/experience-design-iot-design-business-design.html\"\u003ehttp://radar.oreilly.com/2014/10/experience-design-iot-design-business-design.html\u003c/a\u003e\ufeff",
+    "url": "https://plus.google.com/116500201979181780899/posts/QUVweLBVXxG",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13iwn2j1q2civewg04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13iwn2j1q2civewg04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13iwn2j1q2civewg04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Experience design is shaping our future - O'Reilly Radar",
+      "content": "Design aligns humans and technology, it aligns business and engineering, it aligns digital and physical, and it aligns business needs and user needs. Here at O’Reilly, we’re fascinated by...",
+      "url": "http://radar.oreilly.com/2014/10/experience-design-iot-design-business-design.html",
+      "image": {
+       "url": "https://lh5.googleusercontent.com/proxy/KdgBfyc8AFgsLmAmanNHlR-44lf1xoQqpYZHRIR93ewWfpNfxiWK0oLWUd0G-cC2cCv4zE0HCj2aZYTKuyBkcAM2rmGbV5xgDozcdi2GUi3t3A=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://cdn.oreillystatic.com/radar/images/people/photo_maryt_m.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  }
+ ]
+}

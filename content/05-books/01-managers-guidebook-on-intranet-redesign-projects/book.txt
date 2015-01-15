@@ -1,0 +1,41 @@
+Title: Manager's Guidebook on Intranet Redesign Projects
+----
+Summary: 
+This 64-page guidebook takes you through eight stages of a typical intranet design project. Each stage has many activities that go under it. We’ve described the activities and included the insights we’ve gathered over the years.
+----
+Body:
+## Introduction
+The intranet manager is one of the most important people in an intranet design project. Usually the effort that goes into such a project is on the same level as that of a major organizational change initiative. It is therefore important that the manager is thoroughly prepared for the journey. If you are managing your first redesign project or are new to intranets or just love intranets then we have the resource to get you started: Manager’s guidebook to intranet design projects.
+
+This 64-page guidebook takes you through eight stages of a typical intranet design project. Each stage has many activities that go under it. We’ve described the activities and included the insights we’ve gathered over the years.
+
+(image: 01.png alt: 8 Stage Project title: 8 Stage Project)
+
+The guidebook is structured so that it is easy to refer to any activity. For example, activities are structured as follows:
+
+* What it is
+* Why you need it
+* How to do it
+* Resources
+
+## Download it for FREE
+Did we say it’s free to download? Yes, it is.
+
+We're releasing this work under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+We’re doing it in the spirit of the many intranet pioneers who did not hesitate to share their experiences and experiments with the rest of us. Here’s looking at you [James Robertson](http://www.steptwo.com.au/), [Martin White](http://www.intranetfocus.com/), [Jane McConnell](http://www.netjmc.com/) and [Michael Sampson](http://www.michaelsampson.net/). We know we’ve missed many more, and if you’re one of them, rest assured we have you included.
+
+## Download
+Download the [Manager's guidebook to intranet redesign projects](http://www.pebbleroad.com/downloads/guidebook-intranet-design-v1.33.pdf) (pdf)
+
+History
+
+* v1.33: updated table of contents
+* v1.32: formatting changes
+* v1.31: corrected the table of contents
+* v1.3: updated a few sections and corrected typos
+* v1.2: first public release
+
+## Read it online
+You can also flip through the document below (click on the image below). You may want to check out the table of contents before downloading the guidebook!
+<object style="width:420px;height:594px" ><param name="movie" value="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf?mode=mini&amp;viewMode=singlePage&amp;embedBackground=%23000000&amp;pageNumber=2&amp;backgroundColor=%23222222&amp;documentId=121104103223-1e6a7e60ed964dd3a28c62bcfaca9abb" /><param name="allowfullscreen" value="true"/><param name="menu" value="false"/><param name="wmode" value="transparent"/><embed src="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf" type="application/x-shockwave-flash" allowfullscreen="true" menu="false" wmode="transparent" style="width:420px;height:594px" flashvars="mode=mini&amp;viewMode=singlePage&amp;embedBackground=%23000000&amp;pageNumber=2&amp;backgroundColor=%23222222&amp;documentId=121104103223-1e6a7e60ed964dd3a28c62bcfaca9abb" /></object>

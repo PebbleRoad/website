@@ -1,0 +1,28 @@
+Title: Organizing Digital Information for Others
+----
+Summary: 
+In this short book, we explore how lists, categories, trees and facets can be better used to organise information for others. We also learn how metadata and taxonomies can connect different collections and increase the findability of information across the website or intranet.
+----
+Body:
+## Introduction
+When we interact with web and intranet teams, we find many struggling to move beyond conceptual-level discussions on information organisation. Hours on end are spent on discussing the meaning of ‘metadata’, ‘controlled vocabulary’ and ‘taxonomy’ without any strategic understanding of how everything fits together. Being so bogged down at this level they fail to look beyond to the main reason for their pursuit—organising information for others (the end users) so that they can find the information easily.
+
+Web and intranet teams are not the only ones facing this challenge. Staff in companies are finding themselves tasked with organising, say, hundreds of project documents on their collaboration space. And they usually end up organising it in the only way they know—for themselves. Team members then often struggle to locate the information that they thought should be in "this folder"!
+
+In this short book, we explore how lists, categories, trees and facets can be better used to organise information for others. We also learn how metadata and taxonomies can connect different collections and increase the findability of information across the website or intranet.
+
+But more than that we hope that this book can start a conversation around this important part of our digital lives.
+
+So let the conversation begin!
+
+## Download for FREE!
+We're releasing this work under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+And no, we will not ask you to fill out a stinking registration form to capture your contact details. This download is a direct download. Enjoy!
+
+Download [Organizing digital information for others](http://www.pebbleroad.com/downloads/organizing-digital-information-for-others-v1.pdf) (7mb, pdf)
+
+Here is a short link to share with your friends and colleagues: http://bit.ly/yEyfFZ
+
+## Read it online
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" style="width:420px;height:594px" id="8b17bfa9-0124-8292-0c94-faa8d52b620d" ><param name="movie" value="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf?mode=mini&amp;viewMode=singlePage&amp;pageNumber=3&amp;backgroundColor=%23222222&amp;documentId=120302082842-b02917aa10a5409a9b54964cfe0993f0" /><param name="allowfullscreen" value="true"/><param name="menu" value="false"/><param name="wmode" value="transparent"/><embed src="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf" type="application/x-shockwave-flash" allowfullscreen="true" menu="false" wmode="transparent" style="width:420px;height:594px" flashvars="mode=mini&amp;viewMode=singlePage&amp;pageNumber=3&amp;backgroundColor=%23222222&amp;documentId=120302082842-b02917aa10a5409a9b54964cfe0993f0" /></object>

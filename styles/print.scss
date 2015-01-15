@@ -1,0 +1,67 @@
+/*------------------------------------*\
+    PRINT.CSS
+\*------------------------------------*/
+
+$base-color: #000;
+
+
+/**
+ * Base styles
+ */
+
+h1{
+    font-weight: bold;
+    font-size: 250%;
+}
+
+h2{
+    page-break-after: avoid;    
+}
+
+
+
+ul, ol, img, table, .posting-list{
+    page-break-inside: avoid;
+}
+
+/**
+ * Font size
+ */
+
+html{
+    font-size: 62.5%;
+    color: $base-color;
+}
+
+    a[href^="http://"]:after,a[href^="https://"]:after {
+        content:" (" attr(href) ")";        
+    }
+
+    a, a:visited{
+        text-decoration: underline;
+        color: $base-color;
+    }
+
+
+/**
+ * Article
+ */
+
+.article-header{
+    color: $base-color;
+    background: transparent;
+}
+
+    /* lead */
+
+    .text-lead{
+        font-size: 140%;
+    }
+
+    /**
+     * Hide sections
+     */
+    
+    .branding, .site-header, .comments, .footer{
+        display: none;
+    }

@@ -1,0 +1,154 @@
+/*------------------------------------*\
+    FOOTER
+\*------------------------------------*/
+
+.footer{
+    background: $brand-color;
+    color: #fff;
+    padding: 0em 0 2em 0;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    @include font-size(16px, false);
+    font-family: $base-heading-font;    
+    font-weight: 100;
+
+    a{
+        @include link-colors(#fff, #fff, #fff);
+    }
+
+    /* Copyright */
+
+    .text-copyright{
+        margin-bottom: 1em;
+    }
+   
+    
+    h2, h3{
+        font-weight: 400;
+    }
+    
+
+
+    p{
+        //margin-bottom: 1em;
+    }
+    
+
+    /* Grids */
+
+    .grid{
+        display: none;
+
+        @include media(tablet){
+            display: table;
+        }
+    }
+}
+
+
+/**
+ * Grids
+ */
+
+.grid{
+    
+    margin-bottom: 3em;
+    width: 100%;
+    text-align: left;
+    
+    h2{
+        @extend .gamma;      
+        margin-bottom: 1em;
+        //font-family: $base-font-family;
+    }
+
+    > .grid-item{
+
+
+        
+    }
+
+    @include media(tablet){
+        display: table;
+        table-layout: fixed;
+
+        > .grid-item{
+            display: table-cell;
+            padding-bottom: 0;
+        }
+    }
+
+    
+}
+
+
+/**
+ * Subscribe form
+ */
+
+.form-subscribe{
+
+    position: relative;
+    font-size: 14px;
+
+    .text-input{
+        border-radius: 20px;
+        border-color: transparent;
+        margin: 0;
+        padding-right: 100px;
+        height: 35px;        
+    }
+
+    .btn{
+        position: absolute;
+        right: -1px;
+        top: 0;
+        border: none;
+        margin: 0;
+        border-radius: 0 20px 20px 0;
+        height: 100%;
+        width: 96px;        
+        height: 35px;
+
+    }
+}
+
+
+
+/**
+ * callout
+ */
+
+.callout{
+    border-bottom: 1px rgba(255,255,255,0.2) solid;
+    padding-bottom: 1.5em;
+    margin-bottom: 3em;
+    padding-top: 1em;
+
+    h2{
+        font-weight: 100;
+    }
+
+    a{
+        font-weight: 400;
+    }
+
+    @include media(tablet){
+        margin-bottom: 0;
+    }
+}
+
+
+/**
+ * Address
+ */
+
+.text-address{
+   
+    line-height: 1.5;
+}
+
+    .text-phone{
+        margin-bottom: 0em;
+    }

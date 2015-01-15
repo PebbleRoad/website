@@ -1,0 +1,46 @@
+Title: Front-end pattern libraries
+
+----
+
+Summary: Free talk for the IxDA community in Singapore on front-end pattern libraries.
+
+----
+
+Body: 
+
+<table>
+<tr>
+	<td width="140">When</td>
+	<td>27 February 2014</td>
+</tr>
+<tr>
+	<td>Where</td>
+	<td>Reading Room, Singapore</td>
+</tr>
+<tr>
+	<td>Tickets</td>
+	<td><p>Free</p>
+
+	</td>
+</tr>
+</table>
+
+Front-end pattern libraries are hot news in the UX community these days. Anna Debenham wrote a book on it and A List Apart just open-sourced its pattern library for all to see. 
+
+At PebbleRoad we've been giving clients pattern libraries as a deliverable. We even have our own library called Tapestry that we use to develop prototypes. 
+
+In this session, Vinay Malankad will give a behind the scenes look at how we use pattern libraries and show you how you can build one of your own!
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/31745783" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/maish/frontend-pattern-librar" title="Front-end Pattern Libraries" target="_blank">Front-end Pattern Libraries</a> </strong> from <strong><a href="//www.slideshare.net/maish" target="_blank">PebbleRoad</a></strong> </div>
+
+----
+
+Author: 
+
+----
+
+Date: 2014-02-27
+
+----
+
+Category: 

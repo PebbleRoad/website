@@ -1,0 +1,88 @@
+Title: Defining content publishing workflows: a framework
+
+----
+
+Author: Maish Nichani, Christine Oon
+
+----
+
+Date: 2013-11-21
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: A publishing workflow defines how you create and manage content in your organisation. It helps you realise your content strategy. Use this framework to map out who will do what, when and how.
+
+----
+
+Body: 
+
+## What it is
+A publishing workflow is a shared understanding of publishing and managing content. It helps you describe how to do the things you need to realise your content strategy. 
+
+## Why you need one
+Publishing quality content is hard work, especially if you have many authors publishing content on your website. You need to ensure:
+
+* it meets end user’s needs
+* is clear and consistent
+* reflects the brand
+
+Because you have many authors you need to need to have a proper game plan to coordinate their activities. You need to have roles, processes and standards to help you manage this operation.
+
+## When to define it
+If you’re creating a new website, the right time to define the publishing workflows is when the content strategy is almost done. This way the conversation can flow nicely from business goals and digital objectives to getting it done.
+
+If you have an existing website but no defined workflows (running ad-hoc eh?), then you will need to define one immediately.
+
+## How to define it
+We use this framework ([high-res PDF](http://www.pebbleroad.com/downloads/content-publishing-workflows-framework.pdf)) in a workshop setting to define the publishing workflow.
+
+(figure: 01.png)
+
+* **Scope**: the scope of the process you’re defining at the workshop; that is, which content types does it cover? You might find that a general workflow works for most content types. But you might also find that you need specific workflows for some important types of content.
+
+* **Stages**: the stages of the publishing process. This will depend on what you deem is important for your organisation to manage. An intranet may not have the ‘Promote’ and ‘Review’ column but instead may have a ‘Versioning’ column. A content marketing programme may have a ‘Listen & Engage’ column. 
+
+* **People**: the people responsible for the stage. There are some standard roles in a typical publishing process that you’ll have to fill. Examples are web writer, editor, reviewer, subject matter expert, SEO expert and content sourcing manager.
+
+* **Process**: how it gets done. A typical way of documenting a process is to create a swimlane diagram. Here’s an [example](http://www.richardingram.co.uk/downloads/110318_pr_workflow_example.pdf) of a Press Release swimlane diagram from Richard Ingram.
+
+* **Platform**: the technology to get it done. For example, a CMS in the ‘Create’ stage and Google Analytics in the ‘Measure’ stage.
+
+* **Tools**: the quality control tools. This is the place to include all the content governance tools that were defined as part of the content strategy.
+
+## The workshop
+Here’s how we use this framework to define the publishing workflow:
+
+### Identify the content types
+It is rare to find a single all-encompassing publishing workflow that will cover all publishing requirements inside an organisation. In most cases, publishing workflow requirements will vary depending on the type of content. Product pages will have different publishing requirements than, say, technical support pages. Both should follow the broad goals of the content strategy but the publishing requirements will be different. The first thing to do is to target the content types you want to manage.
+
+### Invite the right stakeholders
+Next, invite the right stakeholders who can fill out the boxes of the framework. These are people who have the knowledge, experience and responsibility to make content decisions. Typical people are Editor-in-Chief, Marketing Manager, CMS Lead, Subject Matter Experts and Business Leaders.
+It is best to send these stakeholders a reminder of the content strategy work done thus far and the expected outcomes of this workshop. 
+
+### Run the workshop
+It is time for the workshop. Follow these steps:
+
+* Brief the participants on the framework 
+* Help them fill out the out the boxes 
+* Explore ways to make the process more efficient
+
+Don’t worry if the answers do not come easily. It just may be that this is the first time they’re defining the damn thing! Focus on how things are being done currently and probe for ways of doing it better. 
+
+### Assign follow-up tasks
+The participants may be able to fill out all the boxes during the workshop, especially the ones involving the process flows. Assign follow-up tasks to those responsible for finishing up such work.
+
+### Keep the discussion going
+After you complete the framework, pass it along to get more feedback. Discuss it with colleagues and see if they think it will work. 
+
+### Operationalise the publishing workflow
+The workflow is useless unless it is operationalised. You need to inform and educate the people involved on this new workflow. It is only when everyone uses the workflow that you’ll be able to see the benefits.
+
+## Conclusion
+Defining content publishing workflows is about taking the next concrete step after defining the content strategy. It unifies people, processes, platform and governance issues. You can use this framework as a blueprint for kickstarting this process.
+
+Do you have a process for defining publishing workflows? How do you unite people, processes and technology to meet your strategic outcomes? Tell us in the comments.

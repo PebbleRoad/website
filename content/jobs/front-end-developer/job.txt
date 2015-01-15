@@ -1,0 +1,53 @@
+﻿Title: Front-end Developer
+
+----
+
+Summary: 
+
+----
+
+Body: ### About PebbleRoad
+
+PebbleRoad is a design company based in Singapore. We help companies turn complex, challenging problems into innovative solutions. 
+
+Yes, we build effective websites, intranets and apps, but we also help companies better manage their products by establishing strategies, guidelines and metrics to ensure that the products are managed well in the long run.
+
+We’re looking for a creative, motivated front-end developer with strong skills in responsive design and CSS frameworks to join our team. You’ll be a key part of the design process, taking concepts from prototype to implementation.
+
+
+## Responsibilities
+
+* Build HTML, CSS and JS prototypes to validate early interface concepts
+* Work with creative team to convert designs to HTML, ensuring pixel-perfection
+* Work closely with Senior Front-end developer, who will guide you along
+* Collaborate with an amazing team of UX, design and content strategists
+
+
+## Skills and requirements
+
+* 2+ years of related experience
+* Strong HTML, CSS and Javascript skills
+* Knowledge of CSS frameworks such as Bootstrap or Foundation.
+* Knowledge of CSS pre­-processors preferably SASS
+* Responsive design
+* Knowledge of Photoshop or Sketch
+* Knowledge of Build tools preferably Gulp or Grunt
+* Knowledge of GIT version control system
+
+
+### What work environment you can expect
+
+We’re an ideas company so we’ve made the environment conducive to create and work with ideas. Here are some things you can expect.
+
+* An environment that fits your natural working style
+* Nice and helpful teammates you can rely on
+* A library of over 300 books (and growing everyday)
+* Access to databases from business to creative
+* Access to a network of professionals from all around the world
+
+
+## What you need to have
+
+All we want is to see you and your portfolio. We want the person and the passion.
+
+So if you’re interested, drop us an email at info@pebbleroad.com or give us a call at +65 6736 2180.

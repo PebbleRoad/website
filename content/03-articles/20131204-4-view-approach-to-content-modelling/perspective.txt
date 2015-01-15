@@ -1,0 +1,203 @@
+Title: A 4-view approach to content modelling
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2013-12-04
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: Content modelling helps us define content types and the relationships between them. Content modelling can be seen as an approach to delivering business value. In this article we present four views to content modelling that can help you better discover and define content models.
+
+----
+
+Body: 
+
+## What is content modelling
+Content modelling is a process of exploring and defining how content types can be chunked and linked to add value to customers and businesses. 
+
+In math terms:
+Chunked content + business rules = customer and business value
+
+For example, if a recipe (content type) is chunked to include availability of ingredients at home, then the following scenario is not too far fetched:
+
+_I’m in a bus returning home one late evening thinking of what to make for dinner. I browse for recipes on my favourite recipe app and what I get is not any universal recipe list—it is list of only those recipes that I can actually make when I get home. How? The app checks with my refrigerator on the ingredients available and then filters the recipes to show only those I can make (or can make if I pick up a few missing ingredients)._ 
+
+Now that is value made possible by chunked content!
+
+## Benefits of content modelling
+Content modelling has many benefits as shown below. 
+ <table>
+      <thead>
+        <tr>
+          <td>Benefit</td>
+          <td>Description</td>
+          <td>Example</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Amplify infoseeking
+          </td>
+          <td>Allow for more granular and precise search
+          </td>
+          <td>Filter a recipe collection by ingredients
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Widen distribution
+          </td>
+          <td>Offer third parties access to your data
+          </td>
+          <td>Offer access to recipe ingredients through an API
+          </td>
+        </tr>
+        <tr>
+          <td>Improve usability
+          </td>
+          <td>Elegantly adapt the right content to the right device
+          </td>
+          <td>Have a different interface for browsing cooking instructions on a
+            mobile device
+          </td>
+        </tr>
+        <tr>
+          <td>Increase reusability
+          </td>
+          <td>Reuse a chunk from one collection in another collection
+          </td>
+          <td>Use the same baking instructions across recipes
+          </td>
+        </tr>
+        <tr>
+          <td>Improve management
+          </td>
+          <td>Target improvements to specific chunks
+          </td>
+          <td>Just change the cooking instructions
+          </td>
+        </tr>
+        <tr>
+          <td>Be future friendly
+          </td>
+          <td>Make your content ready for future devices
+          </td>
+          <td>Refrigerators and smart watches
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+The benefits are really about sweating your content to provide business value. Not all content needs to be modelled, but if there is something out there that can be modelled to enhance business value and it is not being done, then that is a sad waste of digital resources.
+
+## 4 views of content models
+Content models can be thought as having 4 views:
+
+1. Map 
+1. List 
+1. Table 
+1. Authoring 
+
+The 4-view approach helps us think about content models both in a divergent way (map and list views) and a convergent way (table and authoring views).
+
+### 1. Map view 
+The first step is to explore and map the content ecosystem you are interested in. An example is shown below. The boxes represent the selected content types and lines show the relationships between them. If you do this kind of ecosystem mapping you’ll see relationships you might not otherwise consider, such as the relationship between the ‘Supermarket’ and ‘Refrigerator’. Maybe my smart app can check with the refrigerator and tell me to pick up missing ingredients at the next supermarket (after checking the availability) on my journey home. 
+
+(figure: 01.png)
+
+### 2. List view
+Next, break up the content types into logical chunks. The chunking should be meaningful; it should add value. Don’t add a chunk just because it seems intuitive to do so. Always seek out the value. In the example below, the ‘recipe’ content type has chunks to account for ‘availability at home’ because we want our smart app to check the refrigerator at home before suggesting recipes.
+
+(figure: 02.png)
+
+### 3. Table view
+It’s time to get into the details. The table view is all about individual chunks; it’s about metadata. In the table view, you’ll nail the technical specs that will make development easier. For example, what is the format of ‘cooking time’? What schema element will it follow? Where is the data going to come from? Is the field required or optional? 
+
+<table>
+      <thead>
+        <tr>
+          <td>Item</td>
+          <td>Definition</td>
+          <td>Schema</td>
+          <td>Source</td>
+          <td>Type</td>
+          <td>Field</td>
+          <td>Required?</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Name
+          </td>
+          <td>Name of recipe
+          </td>
+          <td>thing.name</td>
+          <td>author
+          </td>
+          <td>text
+          </td>
+          <td>text
+          </td>
+          <td>yes
+          </td>
+        </tr>
+        <tr>
+          <td>Description
+          </td>
+          <td>Short description of recipe
+          </td>
+          <td>thing.description
+          </td>
+          <td>author</td>
+          <td>text
+          </td>
+          <td>textarea
+          </td>
+          <td>yes
+          </td>
+        </tr>
+        <tr>
+          <td>...
+          </td>
+          <td>...
+          </td>
+          <td>...
+          </td>
+          <td>...
+          </td>
+          <td>...
+          </td>
+          <td>...
+          </td>
+          <td>...
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+### 4. Authoring view
+Not all elements shown in the table view will be automatically populated; for example, chef’s tips need to be created by the author. In a large organisation there will be many authors responsible for content, so how do we make sure that they know how to create content that is correct and of a high quality? 
+
+The answer: creating a better authoring experience. 
+
+We need to take control of the authoring interface. In the sketch below, the examples and wordcount help authors create quality content within constraints. One can imagine having other things like video tutorials, non-examples, autosuggestion of categories etc. to help improve the quality of content.
+
+(figure: 03.png)
+
+## Conclusion
+Content models open up a whole new perspective on content design that cuts across devices and formats. There are many smart folks exploring this frontier already (see links below) and we hope that the 4-view approach gives people a simple way to approach this fascinating opportunity!  
+
+## Resources
+* [Rachel Lovinger: Content Modelling—A Master Skill](http://alistapart.com/article/content-modelling-a-master-skill)
+* [Sara Wachter-Boettcher: Content modeling: Making future-ready content possible](http://rosenfeldmedia.com/blogs/content-everywhere/content-modeling/)
+* [Mike Atherton: Modelling Structured Content](http://www.slideshare.net/reduxd/modeling-structured-content-ias13-workshop)
+* [Clive Gibbon:  Content Modelling Series](http://www.clevegibbon.com/content-modeling/)
+* [Karen McGrane: Adapting Ourselves to Adaptive Content](http://karenmcgrane.com/2012/09/04/adapting-ourselves-to-adaptive-content-video-slides-and-transcript-oh-my/)

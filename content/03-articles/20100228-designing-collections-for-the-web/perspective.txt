@@ -1,0 +1,156 @@
+Title: Designing collections for the web
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2010-02-28
+
+----
+
+Category: Information Architecture
+
+----
+
+Summary: In this article we explore collections on the web look into design considerations that will make them more usable and effective.
+
+----
+
+Body: 
+
+## Introduction
+A collection is a list of homogeneous items. A collection on the web can be as simple as a blog (a list of posts) to as complex as a library collection (multiple lists of different library materials). Collections are an integral part of many websites, but not all collections are designed with ease-of-use and ease-of-retrieval in mind.  In this article, we'll cover some theory and give practical advice on designing online collections for the websites and intranets.
+
+## What is a collection
+A collection is a list of homogeneous items. Because the items are homogeneous, they can be described and classified in a consistent manner.
+
+In her book [*Card Sorting: Designing Usable Categories*(), Donna Spencer refers to collections as 'database structures' and contrasts them with hierarchies. She says, "compared to hierarchies, a database structure is completely flat -- it is much more like a bucket of objects than a nested set of groups."
+
+Also, programmers will immediately identify collections as nothing but database modelling 101, and the librarians will identify it as nothing but library cataloguing 101. And they are both right.
+
+The problem is that database modelling and library cataloguing (and database structures for that matter) come across as very high flung concepts for front-end designers and stakeholders. I've found that talking about collections is conceptually easier to visualise and understand. People have collections of things (books, videos, songs, etc.) and they can relate with the problems of displaying and managing their collections.
+
+On the web we see collections everywhere. YouTube, Tweets, Blog posts, Bookmarks, News, Events, Press Releases, White papers, Product catalogues, Staff directory, Company Polices, Standard Operating Procedures, etc., are all collections.
+
+One may go as far as to say that a website is nothing but a collection of pages. This is too general to be of any use, I think. It is like saying that the universe is nothing but atoms.
+
+A website may have many collections. Sometimes they may exist independently such as a collection of news stories and a collection of press releases. At other times however, collections may be related. This is where the real power of collections comes in play.
+
+A collection of health treatments, for example, can be related to the collection of doctors and this in turn can be related to the collection of clinics in the hospital. When collections are related like this, then it is possible to browse or search for a clinic that, or a doctor who, specialises in particular treatments.
+(image: 01.png)
+
+Notice that by using related collections you can search by different views and still have access to all the information. You can search by clinic and get access to doctors and treatments. Or, you could search for treatments and get access to clinics and doctors.
+
+Amazon, for example, does a wonderful job of helping people find and browse their collections from many different angles (subjects, popular, best sellers, children's, bargain, etc.).
+
+(image: 01.png)
+
+Travel websites such as Kayak excel in providing filters to help travellers zone into the right range of hotels or airline tickets they're looking for. For example, the screen shots below are from my search for a hotel in Amsterdam (found out that they're very expensive, even the bed and breakfast ones).
+
+(image: 03.png)
+
+## 2 types of collections
+
+There are 2 types of collections depending on who contributes items to the collection:
+
+1. Formal collection: items are contributed by a company or organisation (e.g. the corporate communication department publishing the company's press releases)
+1. Social collection: items are contributed by people or users of the collection (e.g., Flickr, Twitter, Blogs, etc.)
+
+Social collections are more interesting to design because the collection can be churned in many different ways, depending on the social interactions.
+
+## 4 objectives of a collection
+
+There are 4 fundamental objectives of a collection:
+
+1. To help users easily contribute to a collection (contributing objective)
+1. To help users find an item in a collection (identifying objective)
+1. To help users easily co-locate similar items (co-locating objective)
+1. To surface relevant and interesting items (relevancy objective)
+
+Some [would argue](http://www.econtentmag.com/Articles/ArticleReader.aspx?ArticleID=18742) that we also need an objective to ensure the structure of the document meets users goals. Yes, I think they are right and the discipline of [content strategy](http://www.alistapart.com/articles/thedisciplineofcontentstrategy/) is addressing these concerns. In this article, however, I'll just focus on collections.
+
+Different collections may score differently on these objectives. [The MOMA collection](http://www.moma.org/), for example, does a good job of showcasing new works of art on the home page and also gives a whole range of filters to co-locate arts works by Artist, Art terms, Year, etc.
+
+Twitter does a brilliant job by making it easy for people to contribute to the collection. It also surfaces trending topics that show what’s currently being talked about. However, there are only a few ways to co-locate related tweets, and that is by people or by hashtags, and now they have by lists. But, I wish there could be more.
+
+Flickr has a brilliant co-locating feature called interestingness. According to Flickr "there are lots of elements that make something 'interesting' (or not) on Flickr. Where the click-throughs are coming from; who comments on it and when; who marks it as a favourite; its tags and many more things which are constantly changing. Interestingness changes over time, as more and more fantastic content and stories are added to Flickr".
+
+## 3 views of a collection
+
+A collection typically has 3 views. I'm going to compare the views to a typical shopping experience.
+
+1. **Landing view** (shop window): a view of the most recent or relevant items in the collection—something that will draw people in.
+1. **Explore view** (the clothes rack): gives filters to explore the collection.
+1. **Detail view** (the label): displays the details of the selected item.
+
+Let’s see some examples.
+
+* [Delicious bookmarks](http://www.delicious.com/): A social collection of bookmarks. It allows users to explore by people and their tags.
+* [Slideshare](http://www.slideshare.net/): A social collection of slide decks. It allows users to explore by people, categories, tags, spotlight, etc. Very nicely done.
+* [Microsoft Pivot](http://getpivot.com/): Please watch the video before moving on. Pivot is an experiment by Microsoft Labs. It's objective is to find new means to explore a collection. And it does it wonderfully well. However, it seems that there is a lot of pre-work required to get the glamorous views that Pivot provides. For example, who creates the Wikipedia cards in the Wikipedia collection?
+
+## It’s all about metadata
+So, what drives a collection? In one word: metadata.
+
+Metadata is a wrapper of information around an item.
+
+The metadata that describes a news story on a small company website could be: *Date*, *Time* and *Category*. Users can explore news stories by date and time and by category.
+
+The metadata that describes a news story on an intranet could be: *Date*, *Time* and *Department*. Users can explore by date and time and by department.
+
+The metadata around a news story in on a news website could be: *Date*, *Time*, *Reporter*, *Country*, *Region* and *Category*. Users can explore by... you get the idea!
+
+Identifying which metadata elements are required depends on how the collection will be used. This requires an understanding of users and their goals.
+
+The Explore page of a collection exposes the metadata elements as filters. These filters allow users to co-locate similar items or find specific items in the collection.
+
+In the [MOMA collection](http://www.moma.org/), for example, I can use the filters (metadata elements) to explore 'Movies' from the '1920s'.
+
+In a similar way, the product review site [Buzzillions](http://www.buzzillions.com/) gives me filters to easily locate and find reviews on my Flip camcorder.
+
+Again, as in the case of identifying metadata elements for an item, exposing metadata items as filters also depends on how the collection will be explored. There is no point in giving a filter if it’s not going to be used. A study of users and their goals can shine light on making these decisions.
+
+There are many different metadata elements that can be applied to items. For the sake of simplicity, I'm going to put them into 2 groups:
+
+* **Metadata for users**: metadata meant for users to either identify items or explore the collection. Examples: Title, Author, Date, Category, etc. This also includes social metadata such as popularity and views.
+* **Metadata for admins**: metadata meant for admins of the collection to help them manage the collection. Examples: ID, workflow, licensing, security, etc.
+
+The real power of metadata becomes evident when connecting one collection with another. For example, a collection of singers can be linked to the collection of songs allowing users to browse all songs by a specific singer.
+
+Some metadata elements have a controlled list of terms that need to be selected for the element. This controlled list of terms is called a controlled vocabulary or a CV. For example, a CV for a Status metadata element can be:
+
+* Open
+* Closed
+* Draft
+
+The CV itself can be hierarchical. For example, The [Common European Framework](http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) lists the levels of speaking a language as follows:
+
+* A Basic Speaker
+** Breakthrough
+** Waystage
+* Independent Speaker
+** Threshold
+** Vantage
+* Proficient Speaker
+** Effective Operational Proficiency
+** Mastery
+
+This hierarchical CV can then be used to classify English language learning materials, for example.
+
+The key reason for using CVs is to ensure consistency so that lookups can be more efficient. For example, if we have 2 collections sitting in different continents and both using the same metadata and CV for language speaking, then it is possible to browse related items in both collections seamlessly. This means that I can browse 'Mastery' items from both collections seamlessly using one interface. Now, if that interface is based on Microsoft's Pivot, imagine how beautiful exploring can be.
+
+The metadata elements along with their CVs are the building blocks for slicing and dicing a collection and for crisscrossing between collections.
+
+How to design a collection
+Follow these steps to design a collection:
+
+* Understand who will be using the collection and how they will like to use it. This can come from the research activities undertaken for the design project.
+* Make a list of the metadata elements and the controlled vocabulary that will be used with it. I usually use an Excel spreadsheet to build these lists. They key here is trying to figure out a high-level metadata scheme that can be used across collections.
+* Sketch the 3 views of the collection. The Explore view will need special scrutiny. A copy of Luke Wroblewski’s [*Web Form Design*](http://rosenfeldmedia.com/books/webforms/) will come in handy here.
+* Test the pages with users.
+* Setup your content management system to support the collection. Many content management systems like [Drupal](http://www.drupal.org/) and [Expression Engine](http://www.expressionengine.com) make it easy to setup collections out of the box. But be mindful: some high-priced content management systems make it very difficult, if not impossible, to manage collections in an easy manner. Customisation is always necessary in such cases.
+
+## Conclusion
+Collections are nothing new on the web. And that may be the problem—we've taken them for granted. That is why we see collections on the web that are nothing but dead lists. If the collection is small then the dead list may be the only practical solution. However, if the collection is large, then it is cruel to present dead lists and force people to work hard at finding items in the collection. This article highlights the need to understand collections and how they work so that we can design collections that help people better leverage and use the items they contain.

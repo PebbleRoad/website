@@ -1,0 +1,77 @@
+/*------------------------------------*\
+    BASE.CSS
+\*------------------------------------*/
+
+/**
+ * HTML
+ */
+
+html{
+    font:#{($base-font-size/16px)*1em}/#{$line-height-ratio} $base-font-family;
+    color: $base-color;
+    text-rendering: optimizeLegibility;
+    //background-color: $base-background;
+}
+
+body{
+    @include media(tablet){
+        font:#{(20px/16px)*1em}/#{$line-height-ratio} $base-font-family;
+    }
+}
+
+/**
+ * Container
+ */
+
+.container{
+    @extend %row;   
+}
+
+/**
+ * Image
+ */
+
+img{
+    max-width: 100%;
+    vertical-align: top;
+}
+
+/**
+ * Figure
+ */
+
+figure, object{
+    margin: 1em 0 2em 0;
+    text-align: center;
+    display: block;
+}
+
+    /* Caption */
+
+    figcaption{
+        font-style: italic;
+        padding-top: 1em;
+        @include font-size(16px, false);
+    }
+
+    /* Figure right */
+
+    .figure-right{
+        float: right;
+        margin-left: 1em;
+        margin-top: 0;
+    }
+
+    .figure-left{
+        text-align: left;
+    }
+
+/**
+ * Home banner
+ */
+
+.banner{
+    background: $brand-grey url(../images/pr-background.jpg) top no-repeat;
+    background-size: cover;    
+    color: #fff;
+}

@@ -1,0 +1,183 @@
+Title: Digital marketing—getting real on your business purpose
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2013-03-10
+
+----
+
+Category: Digital Marketing
+
+----
+
+Summary: In this article we describe a model that can be used to craft a digital marketing strategy that aligns with the business purpose and the vision of the company.
+
+----
+
+Body: 
+
+## Introduction
+Digital marketing is more about deliberately choosing a set of activities to engage in sustained value creation and less about running yet another Facebook campaign amassing likes. This article presents a model that can help you craft and execute a digital marketing strategy to get real on your business purpose.
+
+## Digital Mindset
+Before we get to the model let’s talk about this thing called the digital mindset.
+
+Sadly, when it comes to digital marketing some companies choose to dabble in digital in traditional ways. The rules of the digital game are very different. For starters:
+
+* **It is about engagement**: it is more about conservations, relationships and support and less about products, placements and promotions.
+* **It is about experimentation**: it is more about trying things out and less about being perfect.
+* **It is measurable**: it is more about using data to make real time adjustments and improve things and less about submitting a 200-page analytics report to management.
+
+If you are dealing with people with traditional expectations it is best to take some time out and educate them on the new way of life!
+
+Next, let’s take a look at two case studies of companies that are getting digital marketing right.
+
+## Case Studies
+### Maersk
+Maersk, a container shipping company, won the Campaign of the Year award at the European Digital Communications Awards. They won the award for their sensible approach to marketing. Here is [how they describe their strategy](http://maersklinesocial.com/why-social-media/), "Social media is about communication, not marketing. It's about engaging, not pushing. And social media is definitely not just about the media side." When you have this line of thinking you’ve already crossed the halfway mark in making digital marketing work for you.
+
+> "Social media is about communication, not marketing. It's about engaging, not pushing. And social media is definitely not just about the media side." - Maersk Social Media Strategy
+
+Maersk does not mass distribute messages on their business prowess. Rather, they take advantage of stories their organisation is privileged to experience and shares them with the wider world. For example, Maersk's ships witness 10-meter high waves and beautiful harbours, scenes that many of us would love to see, but can't. It is pure joy, therefore, to find such pictures posted on Maersk's [Facebook](http://www.facebook.com/MaerskLine) and [Pinterest](http://pinterest.com/maerskline/winter-maersk/) pages. It is these interactions that help Maersk get closer to their people, including their customers.
+
+Jonathan Wichmann, head of social media at Maersk, [shares 10 tips](http://jonathanwichmann.com/2013/01/20/maersk-lines-10-social-media-commandments-or-how-we-work-with-social-media-more-or-less/) on how Maersk makes social media work.
+
+1. It's communication, not marketing
+1. Do it yourself
+1. Keep costs down
+1. Don’t be afraid
+1. Improvise
+1. It has to be simple and visual
+1. Tell stories
+1. Ensure the organisation is behind it
+1. No mass distribution
+1. Build on what you have done
+
+### American Express
+American Express has a website called [Open Forum](https://www.openforum.com/). The website is not about the different financial services that Amex offers; it is about helping Small and Medium Businesses (SMEs) succeed. 
+
+Small business owners can help themselves to high quality articles, videos, case studies, tips and polls in topics ranging from marketing to leadership. All this content has one purpose: **help small businesses succeed**.
+
+Amex also organises Small Business Saturday to encourage "shoppers to patronise brick and mortar businesses that are small and local."
+
+Last year US Consumers spent $5.5 billion at small businesses on Saturday Nov. 24. Since this is the first year, there is no comparable data, but consumer awareness of Small Business Saturday went up to 67% from 34% from two weeks before. Not a bad feat!
+
+The Maersk and the Amex case studies show how digital marketing can be used to get real on the business purpose. Maersk uses digital to get closer to its customers while Amex uses digital to help small businesses succeed.
+
+## Digital Marketing Model
+Let's take a brief look at a digital marketing model we use to facilitate strategy discussions to help companies align with their business purpose. The rest of the article will describe the different parts of the model.
+
+(image: 01.png title: Digital Marketing Model alt: Digital Marketing Model)
+
+### Business Purpose
+Business purpose is the reason your business exists. For example, the business purpose of American Express is to, "Provide access to products, insights and experiences that enrich lives and build business success."
+
+Understanding the purpose helps in identifying what not to do.
+This becomes extremely important in narrowing down and focusing on the right range of options. You might think that everybody knows the business purpose already, but not everybody in the digital marketing team is from the organisation. Digital agencies, consultants and part-time staff may be on the team as well. Revisiting the business purpose now will set the direction for subsequent activities.
+
+### Review / Carry Out Internal Audit
+An internal audit is a detailed study on the organisation’s strengths and weaknesses. List these down. Where do you excel? Where do you falter? Again, you may have been through this before and the essence may have been abstracted in the company’s mission and vision statements but this is still a good time to unpack and revisit the findings.
+
+### Review / Carry Out External Audit
+An external audit is a detailed study on customers and competitors. List down the market threats and opportunities. Who are your target customers and what do they value? Who are your competitors and what are they up to? Typical sources include PEST analysis, competitor analysis, customer feedback and social media listening reports.
+
+### Set Digital Objectives
+Digital objectives are clear and concise statements on what you’re going to achieve, for example, x % increase in people signing up for the testing program or y% increase in inquiries. The key discussion here is to ensure that that digital objectives align with the business purpose. Avinash Kaushik recommends the [DUMB method](http://www.kaushik.net/avinash/digital-marketing-and-measurement-model/) for identifying digital objectives:
+
+* D= Doable (can it be completed?)
+* U= Understandable (is it easy to understand?)
+* M= Manageable (can it be done with the time and resources available?)
+* B= Beneficial (will it improve the business?)
+
+### Target Segment
+Identify the key customer segments you are after. This may seem easy at first, but a mistake here can have dire consequences. It's better to be overly careful than sorry. Not all segments may be useful to your business. Marketing guru Philip Kotler suggests the following criteria to select segments:
+
+* Measurable (can the attributes can be identified?)
+* Substantial (is it big enough to engage?)
+* Accessible (is it easy to engage?)
+* Differentiable (is it different from other segments)
+* Actionable (can it be served?)
+
+### Design Initiatives
+This is where the fun begins! When it comes to digital, the trinity of search, content and social reign supreme. Any initiative should address how we attract, engage and measure activities within the trinity. The table below illustrates this concept.
+
+<table>
+      <tbody>
+        <tr>
+          <td></td>
+          <th><p><strong>Search</strong></p>
+           <p> More about being relevant and authentic and less about using black
+            hat tactics.</p>
+          </th>
+          <th><p><strong>Content</strong></p>
+
+           <p> More about content that tries to inspire, educate, inform or
+            entertain and less about content that tries to peddle products and
+            services.</p>
+          </th>
+          <th><p><strong>Social</strong></p>
+
+           <p> More about valuable exchanges and less about product or company
+            updates.</p>
+          </th>
+        </tr>
+        <tr>
+          <td><p><strong>Attract</strong></p>
+          </td>
+          <td><p>SEO, SEM</p>
+          </td>
+          <td>SEO, Social Media, Email, Offline…
+          </td>
+          <td> SEO, Sponsored ads, Campaigns, Apps, Offers…
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Engage</strong>
+          </td>
+          <td>Landing page optimization, Fulfilment…
+          </td>
+          <td>Video, webinar, article, whitepaper, Infographics…
+          </td>
+          <td>Q&A, polls, support, conversations…
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Measure</strong>
+          </td>
+          <td>Cost per click (CPC), Cost per acquisition (CPA)…
+          </td>
+          <td>Cost per acquisition (CPA), Recency, Loyalty…
+          </td>
+          <td>Comments, Social mentions, Sentiments, Loyalty…
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+#### Hub-and-Spoke Model
+What can one do to play in all three areas of the trinity? Lee Odden proposes a hub-and-spoke model in his book [*Optimize: How to Attract and Engage More Customers by Integrating SEO, Social Media, and Content Marketing*](http://www.amazon.com/Optimize-Attract-Customers-Integrating-Marketing/dp/1118167775).
+
+(image: 02.png title: Hub and Spoke Model alt: Hub and Spoke Model)
+
+The model goes something like this:
+
+* Have an owned platform that you can use to publish relevant and remarkable content. E.g. a blog.
+* Use rented platforms such as Facebook, Twitter, LinkedIn, Google+ to engage customers around your content.
+
+The advantage of this model is that you can:
+
+* Have a central place on the web for all content
+* Improve ranking of relevant keywords
+* Use social for engagement and fun
+
+### Implement and Tweak
+It is time to implement the plan. Some companies outsource the implementation to a digital agency while others insource the entire implementation. Whether you outsource or insource you have to keep in mind the time tag to tweak the design in real time. Unlike TV and radio, digital offers a fantastic opportunity to measure and tweak in real time.
+
+There are many ways of getting feedback, from observing reactions in social media channels to analysing web metrics to conducting A/B and Multivariate tests. The key is to choose the method after you’ve made the decision on what you want to measure.
+
+## Conclusion
+This article described a digital marketing model that can help you get real on your business purpose. As with such models, the devil is in the details. It is hard work to unpack and deliver on each box of the model. You have to deal with people, process and politics—a potent combination capable of distracting even the most experienced of us. It is crucial, therefore, to go back to the model to remind yourself on what you set out to do.

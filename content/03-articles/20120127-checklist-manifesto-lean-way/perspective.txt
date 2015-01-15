@@ -1,0 +1,67 @@
+Title: Checklist manifesto, the lean way
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2012-01-27
+
+----
+
+Category: Design Strategy
+
+----
+
+Summary: In The Checklist Manifesto, author Atul Gawande describes the design of the surgery checklist. In this article I show how this story is actually a wonderful Lean Startup story!
+
+----
+
+Body: 
+
+## Introduction
+I happened to read [*The Checklist Manifesto*](http://amzn.com/0312430000) by Atul Gawande and [*The Lean Startup*](http://amzn.com/0307887898) by Eric Ries at the same time. Both wonderful books offering a sense of advocacy, one on the use of the humble checklist and the other on embracing humble failures.
+
+I was struck by how the design of the surgery checklist that Gawande describes actually followed the lean model that Ries describes. As such the Checklist Manifesto offers a great example of the lean startup model in action.
+
+Check out this infographic below (<a href="https://flic.kr/p/bjn4ye">high resolution</a>).
+
+(image: http://farm8.staticflickr.com/7150/6771373921_43a43561d8.jpg)
+
+## Chapter: The Checklist
+Gawande gets early insights into the power of checklists. See his New Yorker article, <a href="http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande?currentPage=all">The Checklist: If something so simple can transform intensive care, what else can it do?</a>
+
+## Chapter: The Idea
+He tries to understand why checklists work. A chance meeting gives him an opportunity to analyze how large and complex buildings get made. He finds frequent use of checklist even in such environments. He stumbles upon a theory: “under conditions of complexity, not only are checklists a help, they are required for success. There must be a room for judgement, but judgement aided—and even enhanced—by procedure” (p.79). The theory becomes his new lens. He sees checklists used everywhere.
+
+## Chapter: The first try
+He attends a World Health Organisation (WHO) meeting looking at improving the safety and quality of surgical care (reducing the complication rate). He thinks the problem complex at first: “With twenty-five hundred different surgical procedures, ranging from brain biopsies to toe amputations, pacemaker insertions to spleen extractions, appendectomies to kidney transplants, you don’t even know where to start”.(p.88).
+
+He tries to understand the problem at hand. He studies examples of similar public health interventions. He synthesises his ideas: “All the examples, I noticed, had a few attributes in common: They involved simple interventions—a vaccine, the removal of a pump handle. The effects were carefully measured. And the interventions proved to have widely transmissible benefits—what business types would term a large ROI (return on investment) or what Archimedes would have called, merely, leverage”. (p.93).
+
+He ponders the idea of using a checklist. He studies the use of checklists in other hospital environments. He finds that they were more or less successful. He along with the WHO officials decide to give a surgery checklist a try.
+
+The working group then quickly puts together a surgery checklist. They decide to carry out a large scale pilot across many different hospitals in many different countries.
+
+Gawande returns to Boston and decides to give the checklist a try during actual surgery.
+
+The checklist fails miserably.“The checklist was too long. It was unclear. And past a certain point, it was starting to feel like a distraction from the person we hand on the table…Forget making this work around the world. It wasn’t even working in one operating room”. (p.113).
+
+## Chapter: The Checklist Factory
+He heads back to the library, looking for information on how to make good checklists. He finds an article from Daniel Boorman from the Boeing Company in Seattle. Boorman has spent two decades designing checklists for Boeing aircrafts. Gawande meets Boorman. He learns a lot from this meeting.
+
+## Chapter: The Test
+His research team modifies the surgery checklist to make it more usable. WHO convenes a meeting of experts to discuss the changes. After more changes, they do a small-scale pilot in London and Hong Kong. They learn of more opportunities to improve the checklist. Finally they get a checklist that they can circulate. They decide to test the checklist at eight hospitals around the world.
+
+He set some criteria for selecting the hospitals, among them the willingness of the hospital to allow observers to measure “their actual rates of complications, deaths, and system failures in surgical care before and after adopting the checklist”. (p.142).
+
+The surgery checklist pilot gets underway.
+
+He and his team of researchers visit the participating hospitals to observe first hand the situations under which the checklist is used. “The contrasts were even starker than I hand anticipated and the range of problems was infinitely wider”. (p.146).
+
+The final results showed that the surgical complications fell 36% and deaths fell 47% after introduction of the checklist.(p.154).
+
+Although a visible success, the checklist is still viewed with skepticism. “After all, 20 percent did not find it easy to use, thought it took too long, and felt it had not improved the safety of care”. (p.157).
+
+More work is to be done. The cycle is ready to repeat!

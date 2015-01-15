@@ -1,0 +1,29 @@
+Title: IE Singapore - social app
+
+----
+
+Summary: We designed a social app for IE Singapore that won a global award!
+
+----
+
+Category: User Research, Intranet Design, Collaboration, App Design
+
+----
+
+Client: International Enterprise Singapore
+
+----
+
+Industry: Government
+
+----
+
+Keychallenge: How do we stem the loss of knowledge when staff leave the organisation? How can we motivate people in different geographical locations to share tips, tricks and solutions? And how can we integrate this into the existing culture of work in the organisation? These were the kinds of questions we faced at IE Singapore. 
+
+----
+
+Concept: We researched and connected the findings and that’s when it hit us - we needed a mini social app with the key feature of integrating the posts with the taxonomy. Thus, Chattr! was born.
+
+----
+
+Outcome: Chattr! caught on. People started using it to share tips and trade suggestions. It pulled the organisation closer. What’s more, the intranet won the [My most beautiful social intranet](http://www.ibforum.com/2013/01/08/my-beautiful-intranet-2013-winner/) global competition. Whoa!

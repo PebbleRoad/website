@@ -1,0 +1,44 @@
+Title: Designing the search experience
+
+----
+
+Summary: Free talk for the IxDA community in Singapore on how to design the search experience.
+
+----
+
+Body: 
+
+<table>
+<tr>
+	<td width="140">When</td>
+	<td>20 November 2014</td>
+</tr>
+<tr>
+	<td>Where</td>
+	<td>Reading Room, Singapore</td>
+</tr>
+<tr>
+	<td>Tickets</td>
+	<td><p>Free</p>
+
+	</td>
+</tr>
+</table>
+
+<p>Search has become the front and center of many digital products. But as designers, how much do we know about new search capabilities that allow us to design better search experiences? </p>
+
+<p>In this session, Maish Nichani from PebbleRoad will share what we need to do to design robust search experiences and why our search may never be like Google (and that's OK). </p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/42026607" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/maish/designing-the-search-experience-42026607" title="Designing the search experience" target="_blank">Designing the search experience</a> </strong> from <strong><a href="//www.slideshare.net/maish" target="_blank">PebbleRoad</a></strong> </div>
+
+----
+
+Author: 
+
+----
+
+Date: 2014-11-20
+
+----
+
+Category: 

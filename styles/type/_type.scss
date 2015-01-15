@@ -1,0 +1,130 @@
+/*------------------------------------*\
+    TYPES
+    Scale: 
+    http://type-scale.com/?size=16&scale=1.200&text=A%20Visual%20Type%20Scale&webfont=Libre+Baskerville&font-family=%27Libre%20Baskerville%27,%20serif&font-weight=400&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333
+\*------------------------------------*/
+
+/**
+ * Heading reset
+ */
+
+@include headings(1,6){
+    line-height: 1.4;    
+    font-weight: normal;
+    font-weight: bold;
+    font-family: $base-heading-font;
+    margin: 1.5em 0 0.5em 0;
+}
+
+h1{
+    font-size: 2.074em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+
+    @include media(medium){
+        margin-bottom: 1em;
+    }
+}
+
+h2{    
+    font-size: 1.728em;    
+}
+
+h3{
+    font-size: 1.44em;
+    margin-top: 1.5em;
+}
+
+h4{
+    font-size: 1.2em;
+}
+
+h5{
+    font-size: 1em;
+}
+
+
+h6{
+    font-size: 0.833em;
+}
+
+/**
+ * Font sizes
+ */
+
+.alpha{
+    font-size: 2.074em;
+}
+.beta{
+    font-size: 1.728em;
+}
+.gamma{
+    font-size: 1.44em;
+}
+.delta{
+    font-size: 1.2em;
+}
+.epsilon{
+    font-size: 1em;
+}
+.zeta{
+    font-size: 0.833em;
+}
+
+/* Text lead */
+
+.text-lead{
+    @include font-size(20px, false);    
+    font-weight: 400;    
+    font-family: $base-heading-font;
+
+    @include media(medium){
+        @include font-size(24px, false);
+    }
+}
+
+
+/**
+ * Text emphasis
+ */
+
+.text-emphasis{
+    font-style: italic;
+    @extend .delta;
+    color: $brand-grey;    
+}
+
+
+/**
+ * Text small
+ */
+
+.text-small{
+    @include font-size(14px, false);
+}
+
+
+/**
+ * Text label
+ */
+
+.text-label{
+    text-transform: uppercase;
+    font-family: $base-heading-font;
+    @extend .text-small;    
+    
+    &, &:hover, &:visited{
+        //color: $base-color;
+        color: #666;
+    }
+}
+
+
+/**
+ * Clients
+ */
+
+.text-clients{
+    //@extend .text-small;
+    font-family: $base-heading-font;    
+}

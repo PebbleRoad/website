@@ -1,0 +1,164 @@
+Title: The curse of enterprise search and how to break it
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2013-05-14
+
+----
+
+Category: Intranet Design,Document Management
+
+----
+
+Summary: Investment in enterprise search technology is usually high. Businesses expect the technology to work like magic that instantly frees them from findability woes. This is the curse of enterprise search. In this article we share the thinking that can help break this curse and open the doors to true findability and effective search experiences.
+
+----
+
+Body: 
+
+## The Curse
+Got enterprise search? Try answering these questions: Are end users happy? Has decision-making improved? Productivity up? Knowledge getting reused nicely? Your return-on-investment positive? If you’re finding it tough to answer these questions then most probably you’re under the curse of enterprise search. 
+
+The curse is cast when you purchase an enterprise search software and believe that it will automagically solve all your problems the moment you switch it on. You believe that the boatload of money you just spent on it justifies the promised magic of instant findability. Sadly, this belief cannot be further from the truth.
+
+Search needs to be designed. Your users and content are unique to your organisation. Search needs to work with your users. It needs to make full use of the type of content you have. Search really needs to be designed. 
+
+Don’t believe in the curse? Consider these statistics from the [Enterprise Search and Findability Survey 2013](http://www.slideshare.net/findwise/enterprise-search-and-findability-survey-2013) done by [Findwise](http://www.findwise.com) with 101 practitioners working for global companies:
+
+* Only 9% said it was easy to find the right information within the organisation
+* Only 19% said they were happy with the existing search application in their organisation
+* Only 20% said they had a search strategy in place
+
+## How to Break the Curse
+Breaking the curse is simple to understand but hard to execute. The first step is awareness. 
+
+Search has evolved over the years. It has matured. Things have changed. Being aware of the changes puts you in a position to take action. Here are the points to be aware of:
+
+* Search is a negotiation
+* User intent is everything
+* Content needs metadata
+* Interface supports the use
+* Search needs to be managed
+
+Let’s explore these points in detail. 
+
+The diagram below explains how these points are related.
+
+(figure: 01.png)
+
+## Search is a Negotiation
+Search is about constantly negotiating what we want with what we find. Peter Morville says it with elegance in his book on [*Search Patterns*](http://searchpatterns.org/): “What we find changes what we seek”. 
+
+Search is not, as many think, just about retrieval or the search results page. It is not about finding that perfect document. In fact, a search experience can be fulfilling even without downloading a document.
+
+If you’ve browsed or shopped at Amazon, you’ve experienced this feeling. For example, you may be looking for something on, say, analytics. You search and browse the list of results. You pick one book, go through the description, comments and ratings and then maybe go on to another book or a different category. All the while you’re learning more about analytics. You may eventually realise that what you’re really looking for is something on ‘keyword analysis’. You didn’t buy a book, but the experience was **fulfilling enough to meet your needs**. 
+
+How does one offer a fulfilling search experience like Amazon? Read on.
+
+## User Intent is Everything
+If search is a negotiation, then understanding user intent is everything. 
+
+In their brilliant book on [*Designing the Search Experience*](http://designingthesearchexperience.com/), Tony Russell-Rose and Tyler Tate dedicate a chapter on ‘search modes’. Search modes are articulations of user intent. It is what users want to do in a given context. Given below are examples of search modes:
+
+<ul>
+<li>Lookup
+<ul><li>Locate </li>
+<li>Verify</li>
+<li>Monitor</li></ul></li>
+<li>Learn
+<ul><li>Compare</li>
+<li>Comprehend</li>
+<li>Explore</li></ul></li>
+<li>Investigate
+<ul><li>Analyse</li>
+<li>Evaluate</li>
+<li>Synthesise</li></ul></li>
+</ul>
+
+Let’s consider an example. 
+
+When you’re searching for a camera, and if you don't know exactly which one you want, you’re going to start on a search journey, or the negotiation. The journey may take you from **locating** the right type of cameras → to **comparing** them → to **verifying** their details. These three modes are not the same. You are seeking different outcomes in each mode. The modes are like layers of meaning. Meaning that will eventually lead you to make a decision. 
+
+Do you think a generic search results page is doing something to support these three modes? Of course not. The content, context interface and actions will be very different.
+
+The takeaway here is that if you research staff on how they seek information in the organisation and find that there are some **core search modes** they use, then search must be designed to support these modes. 
+
+How does one design to support search modes? First, by ensuring that the content has the right metadata, and second, by designing appropriate interfaces that support the respective modes. These two points are considered next.
+
+## Content Needs Metadata
+Garbage in, garbage out. This truth is no more evident than in search. 
+
+Metadata makes content smart. It improves precision. Without metadata the search engine has to work hard at interpreting intent and context from a sea of text. It is tough, if not impossible, even for the most sophisticated algorithms. 
+
+Content needs metadata.
+
+Wait. You just can’t add any metadata. It needs to be specific and include the ones that support the user intent and search modes. Metadata, therefore, requires serious planning to get right. Many organisations have metadata standards and frameworks that define how metadata will be applied and managed in the organisation.
+
+Having a corporate metadata framework is one thing; getting staff to consistently apply it is totally another thing. That is why you need strategies to [consistently collect metadata](http://www.pebbleroad.com/perspectives/metadata-collection-strategies).
+
+The takeaway: **corporate metadata is serious stuff that needs to be managed properly to deliver effective search experiences**.
+
+## Interface Supports the Use
+Recollect search modes? Well, you can’t use default out-of-the-box search results interfaces to support search modes. Search interfaces need to be designed. 
+
+Consider examples of two common search modes: comparing and verifying. Sony’s website sports a clean interface for **comparing** details of seven cameras. Netflix’s website uses a pop-up screen for users to **verify** the details of the movie.
+
+(figure: 02.png)
+
+(figure: 03.png)
+
+These two interfaces look and function differently than standard search results pages. They are designed to meet a step in the search journey. And, these interfaces depend heavily on metadata.
+
+Interfaces for search modes should not be confused with [interfaces that show content types](http://www.flickr.com/photos/morville/sets/72157623210542674/). For example, if the search results are images, then search engines display them as a gallery. If the results are stock quotes, then they are displayed on a graph. If they are locations, then they are displayed on map. 
+
+(figure: 04.png)
+
+Content type interfaces are based on content. Interfaces for search modes are based on behaviour and have to be deliberately designed.
+
+The takeaway: **search interfaces need to be designed or configured to support modes and common content types**.
+
+## Search Needs to be Managed
+Martin White, in his book on [*Enterprise Search*](http://amzn.com/1449330444), describes what he calls the White’s Rule of Search Investment. The rule states that:
+
+> “The impact of search on business performance depends more on the level of investment in a skilled team of people to support search than it does on the level of investment in search technology.”
+
+Ouch! Did that hurt? Good. Now you’re ready for this: **search needs regular tweaking**.
+
+There will be many things that need to be tweaked. For starters:
+
+* Search results
+* Search interface
+* Content and metadata
+* Search engine performance
+
+How will you know what needs to be tweaked? Here are some sources:
+
+* **User feedback**: users can give you feedback on their search experience on what worked and what did not.
+* **Usability tests**: tests can be carried out to test the interface and search results.
+* **Search analytics**: regular checking on the search logs can reveal the performance of the search engine. This is the biggest source of rich feedback. 
+* **Business priorities**: business models and processes change, surfacing new priorities for the business that need to be supported by search.
+
+As you can see, there is much to do. You can’t expect generalists to do this kind of work. You need specialists. These are people who are passionate about search and can make it work inside the organisation. Then again, it’s not just about people. People need processes and tools to help them work. 
+
+There is only one way to state this: **search needs to be managed**.
+
+## Conclusion
+Earlier we stated that breaking the curse is both simple and hard. It is simple to understand what needs to be done, but hard to actually do it. The doing part requires commitment, especially from senior management. It needs people, processes and tools. It takes time. 
+
+It might seem too much to get search right in the organisation, but look at the benefits that await those who invest in getting it right.
+
+* Increased findability
+* Improved productivity
+* Increased knowledge reuse
+* Enhanced search experience
+* Really happy users
+
+All of the above lead to improved business performance.
+
+When thinking about search, it is better to think of ROI not as return-on-investment but **return-on-information**. Think about the risk to the organisation if information keeps increasing but findability does not. The growing gap can be disastrous to the organisation.
+
+The big takeaway: if you’re responsible for search in your organisation, take action on the thinking presented in this article and **be the difference that makes all the difference**.

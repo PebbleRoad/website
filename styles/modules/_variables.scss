@@ -1,0 +1,58 @@
+/*------------------------------------*\
+    VARIABLES
+\*------------------------------------*/
+
+$base-color        : #333;
+$base-ui-color     : darken(#dbe0ea, 2%);
+$base-background   : #ededee;
+$base-font-size    : 16px;
+$base-line-height  : 24px;
+$base-spacing-unit : $base-line-height;
+$half-spacing-unit : $base-spacing-unit/2;
+$base-font-family  : 'Merriweather', Helvetica, Arial, sans-serif;
+$base-heading-font : 'Merriweather Sans','Helvetica Neue', Helvetica, Arial, Sans-serif;
+$base-radius       : 3px;
+$base-box-shadow   : 0 0 4px 2px rgba(0,0,0,0.2);
+$line-height-ratio : 1.65;
+
+
+/*------------------------------------*\
+    BRAND
+\*------------------------------------*/
+
+$brand-color: #F58220;
+$brand-grey: #57585A;
+
+/*------------------------------------*\
+    LINKS
+\*------------------------------------*/
+
+$link-color: $brand-color;
+
+/*------------------------------------*\
+    $GRID SETTINGS
+\*------------------------------------*/
+
+$grid-columns : 12;
+$grid-spacing : 30px;
+$site-width   : 100%;
+$desktop-width: 960px;
+$max-width: $desktop-width;
+
+
+/*------------------------------------*\
+    $BREAKPOINTS
+\*------------------------------------*/
+
+/* 0 - 480 (mobile), 480+ (medium), 600+ (tablet), 960+ (desktop), 1300+ (wide) */
+$screen: 'only screen';
+
+$breakpoints: (
+    mobile '#{$screen} and (max-width: 480px)',    
+    medium '#{$screen} and (min-width: 601px)',
+    phablet '#{$screen} and (max-width: 768px)',
+    tablet '#{$screen} and (min-width: 768px)',
+    tablet-only '#{$screen} and (min-width: 600px) and (max-width: #{$desktop-width})',
+    desktop '#{$screen} and (min-width: #{$desktop-width})',
+    wide '#{$screen} and (min-width: 1100px)'
+);

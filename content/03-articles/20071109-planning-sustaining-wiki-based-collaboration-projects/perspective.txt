@@ -1,0 +1,102 @@
+Title: Planning and sustaining wiki-based collaboration projects
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2007-11-09
+
+----
+
+Category: Intranet Design,Collaboration
+
+----
+
+Summary: Many organisations are experimenting with wiki-based collaboration projects. But only a small percentage of these projects make it past the initial excitement or pilot phase. One of the reasons for the drop-off is that there’s not enough thought given to them other than deciding which wiki product to install. This article presents a framework that can help groups wanting to use wikis for internal projects better plan and sustain their collaboration efforts.
+
+----
+
+Body: 
+
+## Introduction
+Modern work is collaborative. It’s no longer about about few people having the answers and others depending on them for it. Now it’s all about many people having bits and pieces of the answers and each depending on the other for it.
+
+There is desperate need for collaboration in the enterprise. And were it not for some humble technologies, this need would still be unmet. Wikis along with blogs, social bookmarking and the like are giving staff a reason to cheer. Not only is the technology readily available and largely cheap, but for the first time staff can focus on the work and not on working the technology.
+
+There are many articles written on the benefits of using such tools—collectively referred to as Enterprise 2.0—and on adopting them across the enterprise. In this article we’ll narrow our focus. We’ll target groups within the enterprise that are thinking about starting collaboration projects.
+
+## Framework
+Since there is a strong tendency to start using a wiki, we’ll base the framework on this stage. There are two additional stages, one before the install stage and the other after the install stage. This is illustrated in the diagram below. Although adding the Plan and Sustain stages is plain common sense, the trick is in asking the right kind of questions and getting the right kind of thinking going.
+
+(image: 01.jpg alt: Framework title: Framework)
+
+## Plan
+It is the nature of wikis to inspire a freewheeling attitude, but this should not stop us from thinking and planning to use it right and use it well. Here are some questions that need answers:
+
+* Why this project? Is there a real need or is it just an experiment?
+* What are current collaboration grievances the project is going to address? Focus on the collaboration aspect. The last thing we want is for the wiki to become a file server.
+* Will existing ways of doing things still be available? This is crucial. We don’t want an existing way of work to cannibalize the new way of work. That is why we need to pay attention to the collaboration processes. See the British Council example below.
+* Who are the members of the group? Do we have their support for this project? Have we managed their expectations? The last thing we want is for members to be taken by surprise.
+* Will members require training? This is not so much training on the wiki software as it is training on the nature of collaborative work and on accountabilities and responsibilities of being in such a group.
+* What is the budget? And can we get it?
+What infrastructure will be required? Is it available or will it have to be purchased?
+* Who will be championing this project & does he/she have the time for it? If the champion cannot provide dedicated time and effort to this initiative then it could easily loose momentum.
+* Do we have any senior management person on our side? If not, can we get someone’s attention? Having a senior manager's blessings can do wonders when when it comes to money and matters of influence.
+
+Next is to focus on the collaboration process itself.
+
+This is an often neglected area, but it offers the most benefit in terms of sparking real collaboration. The basic question here is “can we tweak the certain processes to increase the energy of participation and collaboration?” An example is needed here.
+
+The British Council in Singapore has been experimenting with wikis for many years. One of their long standing concerns was that people were not updating their profile pages on the wiki. These pages not only had their names and contact details but also had their project details. The past and current project information is something of value to others. The challenge thus was to have regularly updated profile pages. They found a solution by tweaking the induction process of new hires. New inductees now had to meet project members and find out about them and their projects. Fresh with this new understanding they were made to update the profile pages of each member they met. This way new hires got to know other members and the profile pages got updated.
+
+*Note: Looks like I've misinterpreted the above story. Mark Hamilton from the British Council has described the 'real' deal. See the comments section below.*
+
+Here are some questions that can help.
+
+* What are the current process? List and flag out the ones that require collaboration and those that are merely administrative.
+* How many of them are now redundant, outdated or trivial (ROT)? If there are ROT processes, can we eliminate all of them?
+* What new processes will increase contribution and keep wiki pages updated?
+* Which traditional individual processes will benefit the most by opening up to collaboration?
+
+As you might guess, getting answers to the above questions itself requires collaborative effort. What better way to build a shared mindset than by agreeing on the rules of engagement.
+
+## Use
+Many new wiki projects dive directly into this stage, and its easy to see why. This stage delivers the most in terms of excitement and satisfaction. But it pays to be a little prudent here.
+
+If there’s no wiki system already in place, then this is the stage where one is selected and installed. Remember, a wiki is but a tool to enable collaboration. It makes sense, then, to base the selection of a particular wiki on the collaboration needs and requirements. This framework’s Plan stage can help in this regard by helping uncover current and future needs.
+
+If there’s already a wiki system in place, then this is the stage where the system is evaluated and prepared based on the understanding gained from the Plan stage.
+
+## Sustain
+This stage is about seeing the project through. They key to sustaining the collaboration effort is to realise that this cannot happen automatically. It requires considerable time and effort.
+
+There are three factors that need attention:
+
+* Support
+* Housekeeping
+* Improvement
+
+**Support** efforts will be mostly around learning and training. Here are some points to consider.
+
+* Help new members get up to speed with the wiki. There will be many who harbour fears, uncertainties and doubts (FUDs) on working the wiki way. The “Be bold and don’t worry about messing up” feeling takes time to rack up. The sandbox page does work wonders here, but it still needs some perseverance and creativity to remove the FUDs.
+* Help members understand collaboration and the behaviours that successful collaboration requires. Having one-hour "sparking collaboration" sessions where case studies, best practices and new thinking are discussed can do wonders in keeping the motivation going. If face-to-face sessions are not possible then make the materials available online.
+
+**Housekeeping** is about being fresh & tidy. Here are some points to consider.
+
+* Pressure members to use their own names and not nicknames. Although a small requirement, this goes a long way in building trust.
+* If there are stub pages - pages with incomplete content - then give the owners a date by which to fix it or remove it.
+* If there are duplicate pages or pages focusing on the same topic, then its best to combine them.
+* Get the IT team to regularly take backups and update the wiki software when new versions come in.
+* Fix any lingering organisation, labelling and navigation issues.
+
+**Improvement** is about getting better and raising the bar. Here are some points to consider.
+
+* Have an area to discuss new ideas and insights.
+Have an area to review progress—what is working and what is not.
+* Have an area to document the learning. This is going to help others in your organisation leverage the new knowledge.
+* Have an area to track the improvement initiatives so that members can actively monitor and discuss them.
+
+## Conclusion
+There are many who jump start wiki-based collaboration projects by directly setting up the wiki and inviting others to contribute. While this might work for groups where the wiki concept is already well-grounded, our experience tells us that this approach does not work for groups that are new to the concept of collaboration, let alone wiki-based collaboration. Hence the need for some guidance and structure. This article presents but one such approach to help groups plan to see a project through. If you’ve come across a different approach, we’d like you to share it with us.

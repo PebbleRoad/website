@@ -1,5 +1,5 @@
-Title: Error
-
+Title: Oops!
 ----
-
-Text: The page has not been found.
+Summary: Looks like we could not locate the page you're looking for. If you're looking for one of our articles, then the list below should help.
+----
+Body: Or, send us an email at info@pebbleroad.com and we'll help you out!
