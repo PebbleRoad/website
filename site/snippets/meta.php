@@ -12,7 +12,7 @@
     <meta property="og:description" content="<? echo (($page->summary() && $page->summary() != '')? $page->summary(): $site->description()) ?>">
     <meta property="og:image" content="<?php echo url() ?>/fb-share.png">
     <link rel="shortcut icon" href="/favicon.png">
-    <link rel="alternate" type="application/rss+xml" title="PebbleRoad &raquo; Feed" href="<?php echo url().'/feed' ?>">
+    <link rel="alternate" type="application/rss+xml" title="PebbleRoad Feed" href="<?php echo url().'/feed' ?>">
     <?php echo css('styles/main.css') ?>    
     <link href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,300italic,300|Merriweather+Sans:400,400italic,700,700italic,300italic,300" rel="stylesheet" type="text/css">
     <?php echo css('styles/print.css', 'print') ?>
