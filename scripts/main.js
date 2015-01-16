@@ -6,29 +6,36 @@ var PR = (function(app){
     /**
      * Mobile menu
      */
-    
-    document.getElementsByClassName('hamburger')[0].addEventListener('click', function(e){
+        
+    var hamburger = document.querySelectorAll('.hamburger')[0];
+
+    hamburger.addEventListener('click', function(e){
 
         document.body.classList.toggle('menu-open');
 
         e.preventDefault();
-    });
+    })
+    
+   
 
     /**
      * Share links
      */
     
-    var shareLinks  = document.getElementsByClassName('js-share');
+    var shareLinks  = document.querySelectorAll('.js-share');
 
     for(var i = 0; i < shareLinks.length; i++){
 
         shareLinks[i].addEventListener('click', function(e){
 
-            app.openPopup(e.target.href)
+            app.openPopup(e.target.href)            
 
             e.preventDefault();
         })
     }
+
+
+    /* Open popup */
 
     app.openPopup = function(href, title){
 

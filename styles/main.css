@@ -475,34 +475,34 @@ label, input, textarea, button, select, option {
  * Base elements
  */
 h1, h2, h3, h4, h5, h6, hgroup, ul, ol, dl, blockquote, p, address, table, fieldset, figure, pre {
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem; }
+  margin-bottom: 26px;
+  margin-bottom: 1.625rem; }
   .islet h1, .islet h2, .islet h3, .islet h4, .islet h5, .islet h6, .islet hgroup, .islet ul, .islet ol, .islet dl, .islet blockquote, .islet p, .islet address, .islet table, .islet fieldset, .islet figure, .islet pre {
-    margin-bottom: 12px;
-    margin-bottom: 0.75rem; }
+    margin-bottom: 13px;
+    margin-bottom: 0.8125rem; }
 
 /**
  * Doubled up `margin-bottom` helper class.
  */
 .landmark {
-  margin-bottom: 48px;
-  margin-bottom: 3rem; }
+  margin-bottom: 52px;
+  margin-bottom: 3.25rem; }
 
 /**
  * `hr` elements only take up a few pixels, so we need to give them special
  * treatment regarding vertical rhythm.
  */
 hr {
-  margin-bottom: 22px;
-  margin-bottom: 1.375rem; }
+  margin-bottom: 24px;
+  margin-bottom: 1.5rem; }
 
 /**
  * Where `margin-left` is concerned we want to try and indent certain elements
  * by a consistent amount. Define that amount once, here.
  */
 ul, ol, dd {
-  margin-left: 48px;
-  margin-left: 3rem; }
+  margin-left: 52px;
+  margin-left: 3.25rem; }
 
 /* ==========================================================================
    Helper classes
@@ -555,13 +555,9 @@ ul, ol, dd {
  * HTML
  */
 html {
-  font: 1em/1.65 'Merriweather', Helvetica, Arial, sans-serif;
-  color: #333;
+  font: 1em/1.625 'Merriweather', Helvetica, Arial, sans-serif;
+  color: #7A7B7D;
   text-rendering: optimizeLegibility; }
-
-@media only screen and (min-width: 768px) {
-  body {
-    font: 1.25em/1.65 'Merriweather', Helvetica, Arial, sans-serif; } }
 
 /**
  * Container
@@ -601,7 +597,7 @@ figcaption {
  * Home banner
  */
 .banner {
-  background: #57585A url(../images/pr-background.jpg) top no-repeat;
+  background: #67686A url(../images/pr-background.jpg) top no-repeat;
   background-size: cover;
   color: #fff; }
 
@@ -652,15 +648,18 @@ a {
  * Social links
  */
 .link-twitter, .link-linkedin, .link-gplus, .link-github, .link-facebook {
-  color: #F58220; }
+  color: #67686A; }
   .link-twitter:hover, .link-linkedin:hover, .link-gplus:hover, .link-github:hover, .link-facebook:hover {
-    background-color: #57585A;
+    background-color: #67686A;
     color: #fff; }
-    .link-twitter:hover:before, .link-linkedin:hover:before, .link-gplus:hover:before, .link-github:hover:before, .link-facebook:hover:before {
-      color: #fff; }
   .link-twitter:before, .link-linkedin:before, .link-gplus:before, .link-github:before, .link-facebook:before {
-    content: "\e79b";
+    content: "\e79b"; }
+  .footer .link-twitter, .footer .link-linkedin, .footer .link-gplus, .footer .link-github, .footer .link-facebook {
+    background: #fff;
     color: #F58220; }
+    .footer .link-twitter:hover, .footer .link-linkedin:hover, .footer .link-gplus:hover, .footer .link-github:hover, .footer .link-facebook:hover {
+      background-color: #67686A;
+      color: #fff; }
 
 .link-linkedin:before {
   content: "\e79a"; }
@@ -678,7 +677,7 @@ a {
      * Link rounded
      */
 .link-round {
-  background: #eee;
+  background: #C9CAD0;
   border-radius: 100%;
   width: 40px;
   height: 40px;
@@ -700,11 +699,11 @@ a {
   transition: all 0.1s ease-in;
   transition-property: border;
   vertical-align: middle;
-  color: #333;
+  color: #7A7B7D;
   width: 100%;
   border-radius: 3px;
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem; }
+  margin-bottom: 26px;
+  margin-bottom: 1.625rem; }
 
 /**
  * Forms
@@ -715,7 +714,7 @@ a {
 .btn {
   line-height: normal;
   padding: 0.6em 1em;
-  background: #57585A;
+  background: #67686A;
   border: none;
   /* [6] */
   border: 1px #d5dbe6 solid;
@@ -737,8 +736,8 @@ a {
   /* [6] */
   border-radius: 2px;
   /* [8] */
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem;
+  margin-bottom: 26px;
+  margin-bottom: 1.625rem;
   appearance: none; }
 
 /*------------------------------------*\
@@ -874,7 +873,7 @@ li {
 .nav-main {
   position: relative;
   clear: both;
-  background: #57585A;
+  background: #67686A;
   margin: 0 -1em -1em -1em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   padding: 1em 0;
@@ -911,10 +910,7 @@ li {
         .nav-main a:first-child:before {
           content: ""; } }
   .nav-main .active {
-    font-weight: 400; }
-    @media only screen and (min-width: 960px) {
-      .nav-main .active, .nav-main .active:visited, .nav-main .active:hover {
-        color: #333; } }
+    font-weight: bold; }
     .nav-main .active:before {
       color: white;
       font-weight: 100; }
@@ -963,7 +959,7 @@ li {
     width: 100px;
     height: 100px;
     line-height: 100px;
-    background-color: #979797;
+    background-color: #4A4A4A;
     background-color: rgba(74, 74, 74, 0.9);
     display: inline-block;
     vertical-align: top;
@@ -979,7 +975,7 @@ li {
     margin: 1em 0 0 0;
     font-size: 18px;
     font-size: 1.125rem;
-    font-weight: normal; }
+    font-weight: 100; }
 
 /*------------------------------------*\
     ARTICLE
@@ -1073,7 +1069,13 @@ li {
   .listing .split-left {
     margin-bottom: 1em; }
   .listing h2 {
-    margin-top: 0; }
+    margin-top: 0;
+    font-size: 24px;
+    font-size: 1.5rem; }
+    @media only screen and (min-width: 601px) {
+      .listing h2 {
+        font-size: 26px;
+        font-size: 1.625rem; } }
   .listing h3 {
     margin-top: 0.5em; }
 
@@ -1103,9 +1105,11 @@ li {
      */
 .figure-person {
   margin-top: 1em; }
-  .figure-person img {
-    border-radius: 100%;
-    width: 150px; }
+  @media only screen and (min-width: 768px) {
+    .figure-person img {
+      border-radius: 100%;
+      width: 150px;
+      background-color: #9B9B9B; } }
 
 /**
  * Article grid
@@ -1143,6 +1147,13 @@ li {
         width: 33.333%; } }
   .article-grid .newsletter {
     background: #6A6A74; }
+  .article-grid h3 {
+    font-size: 20px;
+    font-size: 1.25rem; }
+    @media only screen and (min-width: 601px) {
+      .article-grid h3 {
+        font-size: 20px;
+        font-size: 1.25rem; } }
   .article-grid h3 {
     margin-top: 0.5em; }
   .article-grid p {
@@ -1254,6 +1265,13 @@ li {
       /* W3C */ }
     .article-columns figure:hover:before {
       opacity: 0.5; }
+  .article-columns h2 {
+    font-size: 24px;
+    font-size: 1.5rem; }
+    @media only screen and (min-width: 601px) {
+      .article-columns h2 {
+        font-size: 26px;
+        font-size: 1.625rem; } }
   .article-columns:before {
     content: '2 .column.size-1of2'; }
 
@@ -1272,6 +1290,14 @@ li {
 /**
  * Listing services
  */
+.listing-services h3 {
+  font-size: 20px;
+  font-size: 1.25rem; }
+  @media only screen and (min-width: 601px) {
+    .listing-services h3 {
+      font-size: 20px;
+      font-size: 1.25rem; } }
+
 /**
  * Hide location link in mobile
  */
@@ -1305,6 +1331,9 @@ li {
     margin-bottom: 1em; }
   .footer h2, .footer h3 {
     font-weight: 400; }
+  .footer h2 {
+    font-size: 24px;
+    font-size: 1.5rem; }
   .footer .grid {
     display: none; }
     @media only screen and (min-width: 768px) {
@@ -1360,7 +1389,13 @@ li {
   margin-bottom: 3em;
   padding-top: 1em; }
   .callout h2 {
-    font-weight: 100; }
+    font-weight: 100;
+    font-size: 24px;
+    font-size: 1.5rem; }
+    @media only screen and (min-width: 601px) {
+      .callout h2 {
+        font-size: 26px;
+        font-size: 1.625rem; } }
   .callout a {
     font-weight: 400; }
   @media only screen and (min-width: 768px) {
@@ -1521,6 +1556,9 @@ pre[class*="language-"].line-numbers .line-numbers-rows {
     http://type-scale.com/?size=16&scale=1.200&text=A%20Visual%20Type%20Scale&webfont=Libre+Baskerville&font-family=%27Libre%20Baskerville%27,%20serif&font-weight=400&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333
 \*------------------------------------*/
 /**
+ * Sizes
+ */
+/**
  * Heading reset
  */
 h1, h2, h3, h4, h5, h6 {
@@ -1530,23 +1568,43 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather Sans', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
   margin: 1.5em 0 0.5em 0; }
 
+h3 {
+  margin-top: 1.5em; }
+
 h1 {
-  font-size: 2.074em;
+  font-size: 30px;
+  font-size: 1.875rem;
   margin-top: 0;
   margin-bottom: 0.5em; }
   @media only screen and (min-width: 601px) {
     h1 {
+      font-size: 40px;
+      font-size: 2.5rem;
       margin-bottom: 1em; } }
 
-h2 {
-  font-size: 1.728em; }
+h2, .beta {
+  font-size: 28px;
+  font-size: 1.75rem; }
+  @media only screen and (min-width: 601px) {
+    h2, .beta {
+      font-size: 34px;
+      font-size: 2.125rem; } }
 
-h3 {
-  font-size: 1.44em;
-  margin-top: 1.5em; }
+h3, .gamma {
+  font-size: 24px;
+  font-size: 1.5rem; }
+  @media only screen and (min-width: 601px) {
+    h3, .gamma {
+      font-size: 26px;
+      font-size: 1.625rem; } }
 
-h4 {
-  font-size: 1.2em; }
+h4, .delta {
+  font-size: 20px;
+  font-size: 1.25rem; }
+  @media only screen and (min-width: 601px) {
+    h4, .delta {
+      font-size: 20px;
+      font-size: 1.25rem; } }
 
 h5 {
   font-size: 1em; }
@@ -1554,44 +1612,23 @@ h5 {
 h6 {
   font-size: 0.833em; }
 
-/**
- * Font sizes
- */
-.alpha {
-  font-size: 2.074em; }
-
-.beta {
-  font-size: 1.728em; }
-
-.gamma, .article-columns h2, .grid h2 {
-  font-size: 1.44em; }
-
-.delta, .article-grid h3, .text-emphasis, .listing-services h3 {
-  font-size: 1.2em; }
-
-.epsilon {
-  font-size: 1em; }
-
-.zeta {
-  font-size: 0.833em; }
-
 /* Text lead */
 .text-lead {
   font-size: 20px;
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 100;
   font-family: 'Merriweather Sans', 'Helvetica Neue', Helvetica, Arial, Sans-serif; }
   @media only screen and (min-width: 601px) {
     .text-lead {
-      font-size: 24px;
-      font-size: 1.5rem; } }
+      font-size: 30px;
+      font-size: 1.875rem; } }
 
 /**
  * Text emphasis
  */
 .text-emphasis, .listing-services h3 {
   font-style: italic;
-  color: #57585A; }
+  color: #67686A; }
 
 /**
  * Text small

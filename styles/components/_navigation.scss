@@ -56,13 +56,8 @@
     /* Active */
 
     .active{
-        font-weight: 400;
-        &, &:visited, &:hover{
-            @include media(desktop){
-                color: $base-color;
-            }
-        }        
-
+        font-weight: bold;
+        
         &:before{
             color: white;
             font-weight: 100;
@@ -138,7 +133,7 @@
         width: 100px;
         height: 100px;
         line-height: 100px;
-        background-color: #979797;
+        background-color: #4A4A4A;
         // background-color: rgba(0,0,0,0.5);
         background-color: rgba(#4A4A4A, 0.9);
         display: inline-block;
@@ -162,6 +157,6 @@
     h2{
         margin: 1em 0 0 0;
         @include font-size(18px, false);
-        font-weight: normal;
+        font-weight: 100;
     }
 }

@@ -2,18 +2,18 @@
     VARIABLES
 \*------------------------------------*/
 
-$base-color        : #333;
+$base-color        : #7A7B7D;
 $base-ui-color     : darken(#dbe0ea, 2%);
 $base-background   : #ededee;
 $base-font-size    : 16px;
-$base-line-height  : 24px;
+$base-line-height  : 26px;
 $base-spacing-unit : $base-line-height;
 $half-spacing-unit : $base-spacing-unit/2;
 $base-font-family  : 'Merriweather', Helvetica, Arial, sans-serif;
 $base-heading-font : 'Merriweather Sans','Helvetica Neue', Helvetica, Arial, Sans-serif;
 $base-radius       : 3px;
 $base-box-shadow   : 0 0 4px 2px rgba(0,0,0,0.2);
-$line-height-ratio : 1.65;
+$line-height-ratio : $base-line-height/$base-font-size;
 
 
 /*------------------------------------*\
@@ -21,7 +21,7 @@ $line-height-ratio : 1.65;
 \*------------------------------------*/
 
 $brand-color: #F58220;
-$brand-grey: #57585A;
+$brand-grey: #67686A;
 
 /*------------------------------------*\
     LINKS

@@ -21,23 +21,33 @@ a{
 .link-github,
 .link-facebook{
 
-    color: $link-color;
+    //color: $link-color;
     
+    color: $brand-grey;
 
     &:hover{
         background-color: $brand-grey;
-        color: #fff;
-
-        &:before{
-            color: #fff;
-        }
+        color: #fff;        
     }
 
 
     &:before{
         @extend %icon;
         content: "\e79b";
+        //color: $link-color;
+        //color: $brand-grey;
+    }
+
+
+    .footer &{
+
+        background: #fff;
         color: $link-color;
+
+        &:hover{
+            background-color: $brand-grey;
+            color: #fff;
+        }
     }
 }
 
@@ -63,13 +73,14 @@ a{
      */
     
     .link-round{
-        background: #eee;
+        background: #C9CAD0;
         border-radius: 100%;
         width: 40px;
         height: 40px;    
         display: inline-block;
         text-align: center;
         margin-right: 0.5em;
+        
 
         &:before{
             @include font-size(24px, false);

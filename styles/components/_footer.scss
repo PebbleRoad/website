@@ -28,6 +28,9 @@
         font-weight: 400;
     }
     
+    h2{
+        @include font-size(24px, false);
+    }
 
 
     p{
@@ -58,7 +61,7 @@
     text-align: left;
     
     h2{
-        @extend .gamma;      
+          
         margin-bottom: 1em;
         //font-family: $base-font-family;
     }
@@ -128,6 +131,7 @@
 
     h2{
         font-weight: 100;
+        @include gamma;
     }
 
     a{

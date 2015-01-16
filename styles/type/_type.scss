@@ -5,6 +5,12 @@
 \*------------------------------------*/
 
 /**
+ * Sizes
+ */
+
+
+
+/**
  * Heading reset
  */
 
@@ -16,27 +22,33 @@
     margin: 1.5em 0 0.5em 0;
 }
 
+h3{
+    margin-top: 1.5em;
+}
+
 h1{
-    font-size: 2.074em;
+    @include font-size(30px, false);
     margin-top: 0;
     margin-bottom: 0.5em;
 
     @include media(medium){
+        @include font-size(40px, false);
         margin-bottom: 1em;
     }
+
 }
 
-h2{    
-    font-size: 1.728em;    
+h2, .beta{ 
+    @include beta;
 }
 
-h3{
-    font-size: 1.44em;
-    margin-top: 1.5em;
+h3, .gamma{
+    @include gamma;
 }
 
-h4{
-    font-size: 1.2em;
+h4, .delta{
+    
+    @include delta;
 }
 
 h5{
@@ -48,38 +60,16 @@ h6{
     font-size: 0.833em;
 }
 
-/**
- * Font sizes
- */
-
-.alpha{
-    font-size: 2.074em;
-}
-.beta{
-    font-size: 1.728em;
-}
-.gamma{
-    font-size: 1.44em;
-}
-.delta{
-    font-size: 1.2em;
-}
-.epsilon{
-    font-size: 1em;
-}
-.zeta{
-    font-size: 0.833em;
-}
 
 /* Text lead */
 
 .text-lead{
     @include font-size(20px, false);    
-    font-weight: 400;    
+    font-weight: 100;    
     font-family: $base-heading-font;
 
     @include media(medium){
-        @include font-size(24px, false);
+        @include font-size(30px, false);
     }
 }
 
@@ -89,8 +79,7 @@ h6{
  */
 
 .text-emphasis{
-    font-style: italic;
-    @extend .delta;
+    font-style: italic;    
     color: $brand-grey;    
 }
 
