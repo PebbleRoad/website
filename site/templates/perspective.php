@@ -14,7 +14,7 @@
         <!-- / Article header-->
 
         <!-- Article body-->
-        <article class="article-body" itemprop="articleBody">
+        <article class="article-body article-detail" itemprop="articleBody">
             <section class="container">
 
                 

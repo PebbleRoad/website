@@ -44,7 +44,9 @@
                 <?php endforeach ?>
                 <!-- Child Pages -->
 
-                
+                <?php 
+                    if($page->parent() == 'articles'){
+                ?>
                 <!-- Comments -->
                 <div class="comments">
                     
@@ -52,7 +54,7 @@
 
                 </div>
                 <!-- / Comments -->
-
+                <?php } ?>
 
             </section>
         </article>

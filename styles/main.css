@@ -1018,7 +1018,9 @@ li {
 .text-date, .text-authors {
   font-size: 14px;
   font-size: 0.875rem;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-family: 'Merriweather Sans', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+  font-weight: 100; }
   @media only screen and (min-width: 960px) {
     .text-date, .text-authors {
       margin-bottom: 2em; } }
@@ -1028,7 +1030,7 @@ li {
 
 @media only screen and (min-width: 960px) {
   .text-date {
-    margin-bottom: 1em; } }
+    margin-bottom: 0.5em; } }
 
 /**
      * Author
@@ -1044,6 +1046,10 @@ li {
   margin: 0 auto;
   padding-bottom: 2em;
   margin-top: 2em; }
+
+/* Article detail */
+.article-detail {
+  max-width: 585px; }
 
 /**
  * listing articles
@@ -1105,11 +1111,19 @@ li {
      */
 .figure-person {
   margin-top: 1em; }
-  @media only screen and (min-width: 768px) {
-    .figure-person img {
-      border-radius: 100%;
-      width: 150px;
-      background-color: #9B9B9B; } }
+  .figure-person img {
+    border-radius: 100%;
+    width: 150px;
+    background-color: #9B9B9B; }
+
+/**
+     * Team listing
+     */
+.listing-team {
+  text-align: center; }
+  @media only screen and (min-width: 601px) {
+    .listing-team {
+      text-align: left; } }
 
 /**
  * Article grid
@@ -1304,6 +1318,19 @@ li {
 @media only screen and (min-width: 768px) {
   .text-map {
     display: none; } }
+
+/**
+ * Contact row
+ */
+.contact-row {
+  overflow: hidden; }
+  @media only screen and (min-width: 601px) {
+    .contact-row .contact-desc, .contact-row .contact-map {
+      width: 40%;
+      float: left; } }
+  @media only screen and (min-width: 601px) {
+    .contact-row .contact-map {
+      width: 58%; } }
 
 /*------------------------------------*\
     FOOTER
@@ -1587,8 +1614,8 @@ h2, .beta {
   font-size: 1.75rem; }
   @media only screen and (min-width: 601px) {
     h2, .beta {
-      font-size: 34px;
-      font-size: 2.125rem; } }
+      font-size: 30px;
+      font-size: 1.875rem; } }
 
 h3, .gamma {
   font-size: 24px;

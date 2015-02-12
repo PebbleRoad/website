@@ -60,6 +60,8 @@
 , .text-authors{
     @include font-size(14px, false);
     text-transform: uppercase;
+    font-family: $base-heading-font;
+    font-weight: 100;
 
     @include media(desktop){
         margin-bottom: 2em;
@@ -71,7 +73,7 @@
     }
     .text-date{
         @include media(desktop){
-            margin-bottom: 1em;
+            margin-bottom: 0.5em;
         }
     }
 
@@ -97,6 +99,12 @@
     padding-bottom: 2em;
     margin-top: 2em;
 }
+
+    /* Article detail */
+
+    .article-detail{
+        max-width: 585px;
+    }
 
 
 
@@ -185,14 +193,26 @@
         margin-top: 1em;
         img{
 
-            @include media(tablet){
+            
                 border-radius: 100%;
                 width: 150px;
                 background-color: #9B9B9B;
-            }
+            
         }
     }
+    
 
+    /**
+     * Team listing
+     */
+    
+    .listing-team{
+        text-align: center;
+
+        @include media(medium){
+            text-align: left;
+        }
+    }
 
 /**
  * Article grid
@@ -449,5 +469,28 @@
 .text-map{
     @include media(tablet){
         display: none;
+    }
+}
+
+
+/**
+ * Contact row
+ */
+
+.contact-row{
+    overflow: hidden;
+
+    .contact-desc, .contact-map{
+
+        @include media(medium){
+            width: 40%;
+            float: left;            
+        }
+    }
+
+    .contact-map{
+        @include media(medium){
+            width: 58%;            
+        }
     }
 }

@@ -23,7 +23,7 @@
                 ?>
 
                 <!-- Service -->
-                <article class="listing listing-split" itemscope itemtype="http://schema.org/Person">
+                <article class="listing listing-split listing-team" itemscope itemtype="http://schema.org/Person">
                     <?php 
                         $image = $child->images()->find('thumb.png');
                         if($image){

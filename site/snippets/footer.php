@@ -41,9 +41,11 @@
 						<a href="http://github.com/PebbleRoad" class="link-github link-round"><span class="visuallyhidden">Github</span></a>
 					</p>
 					<h3>Join our newsletter</h3>
-					<form action="http://pebbleroad.us2.list-manage1.com/subscribe?u=7039e618134bbccd1c1d6b82e&amp;id=9efa45b5a3" class="form-subscribe">
+					<form action="http://pebbleroad.us2.list-manage1.com/subscribe" class="form-subscribe" method="GET">
+						<input type="hidden" name="u" value="7039e618134bbccd1c1d6b82e">
+						<input type="hidden" name="id" value="9efa45b5a3">
 						<label for="email" class="visuallyhidden">Email</label>
-						<input id="email" type="email" name="email" placeholder="Enter your email address" class="text-input">
+						<input id="email" type="email" name="MERGE0" placeholder="Enter your email address" class="text-input">
 						<button class="btn btn-primary">Subscribe</button>
 					</form>
 				</div>

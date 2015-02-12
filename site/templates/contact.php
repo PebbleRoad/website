@@ -14,9 +14,18 @@
         <article class="article-body">
             <section class="container">
 
-                <?= kirbytext($page->body()) ?>
+                <!-- Contact row -->
+                <div class="contact-row">
+                  <div class="contact-desc">
+                    <?= kirbytext($page->body()) ?>
+                  </div>
+                  <div class="contact-map">
+                    <div id="Map"></div>
+                  </div>
+                </div>
+                <!-- / Contact row -->                
 
-                <div id="Map"></div>
+                
                 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
                 <script type="text/javascript">
                   (function(){
