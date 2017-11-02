@@ -1,0 +1,29 @@
+Title: SMU - university website
+
+----
+
+Summary: We helped SMU with a strategy to align corporate, school and institute websites.
+
+----
+
+Category: User Research, Content Strategy, Information Architecture, Digital Marketing
+
+----
+
+Client: Singapore Management University
+
+----
+
+Industry: Higher Education
+
+----
+
+Keychallenge: The many SMU websites, from the corporate site to school sites to programme sites, were developed using different technologies. Without a clear direction or guidelines, the result was a highly inconsistent experience.
+
+----
+
+Concept: We created a consistent and scalable information architecture that could be applied across different sites. We also created a topic-based framework that connected different information resources such as news, events, articles, programmes and faculty.
+
+----
+
+Outcome: The SMU website recently won a [top-of-the class global design award](http://www.smu.edu.sg/news/2013/05/31/smus-website-wins-top-class-global-design-award).

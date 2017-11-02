@@ -1,0 +1,92 @@
+Title: Using Lego models in user research - a case study
+
+----
+
+Summary: We know that playing with Lego bricks can unleash creativity. But can it also help customer service officers look for ways to solve thorny issues? We had an opportunity to find out.
+
+----
+
+Body: 
+
+We were recently involved in a project where we had to work with customer service officers (CSOs) in a walk-in service centre. The challenge was to find ways to lower resolution time, optimise circulation (how people move through the building) and encourage self-service. In short, we were designing a self-service experience.
+
+When it comes to experience design, everything matters. When people come to a service centre, especially one that involves their employment issues, the emotions and stakes run high. In such situations, even the wayfinding signs and layout of the physical space matter.
+
+We decided to approach the problem from different perspectives:
+* People (customers and the officers)
+* Information (signs and printed materials)
+* Digital products (mobile phones and self-serve kiosks)
+* Physical space (layout, lighting and furnishings)
+
+To understand circulation issues and how things come together, we used a Lego model to invite CSOs to think about the challenges they face every day. We captured their thoughts as they were building the model to solve their problems and asked questions when we did not understand their thought process. The session was successful and we got very useful insights into some of the challenges they faced. We subsequently worked with architects and interior designers to expand on the findings and submitted a recommended redesign of the physical space.
+
+We went through four stages in the project:
+1. Define the challenge
+1. Prepare the materials
+1. Conduct the session
+1. Use the findings
+
+We will now explain each stage and offer some guidelines along the way.
+
+## Define the challenge
+Don’t try to "boil the ocean". Pick the challenge that is worth solving. Spend time to define the challenge and gather some data on its current performance. The challenge should be multi-faceted so that it warrants the time and effort spent in understanding it. In our case, we wanted to work with CSOs to find a solution for "customers seeking help, who are anxious, disoriented and can only speak in their native language".
+
+(figure: lego01.png)
+
+## Prepare the materials
+Once you define the challenge, you need to prepare the materials that represent the situation. We ended up with a list of over 50 items including walls, self-service stations, queue display monitors, seats, customers, entrances, etc. The sweet spot is to have enough materials so that participants intuitively start to express themselves and their ideas, and not focus too much on the act of beautifying the construction.
+
+(figure: lego02.jpg)
+
+## Conduct the session
+In her excellent book titled, *(link: http://a.co/b7WDSQn text: Convivial Toolbox: Generative Research for the Front End of Design)*, Liz Sanders describes the need to "sensitise" the participants. That is, help them understand their problem deeper so that they can come up with better ideas. There are many ways to sensitise, such as creating collages and metaphors, and recollecting incidents. The basic idea is to engage the unconscious mind and invoke latent thoughts and feelings.
+
+We used stakeholder task maps to understand the roles different people played at the service centre and the relationships between them.
+
+(figure: lego03.jpg)
+
+After sensitising, which was a look back to the past, it was time to look to the future. This mode of thinking is called "projecting". Instead of directly jumping to the Lego model, we first used layout diagrams printed on A4 sheets to help participants brainstorm on potential ideas. 
+
+(figure: lego04.jpg)
+
+After a 20 min brainstorm, the participants approached the Lego model and started 'playing around'. As facilitators, we observed and questioned what they were expressing through the Lego model. The play lasted for an hour and during that time they tried different variations of the layout.
+
+(figure: lego05.jpg)
+
+## Use the findings
+We gathered the findings from the exercises and made a list of potential ideas we can pursue. The model made it simple to frame the ideas as we could easily point to the model and show where and how the ideas play out.
+
+One big idea was a more efficient circulation system—a design to move people through the physical space. Many people got excited about this idea so much so that it opened another stream of ideas, which were incorporated into the model. 
+
+Next, we worked with an architect and interior designer to look at the findings and find new ways to use the physical space. This collaboration led to more new ideas as the architect brought his domain ideas to the table. The end result was a burst of new thinking of how we might redesign the space to improve circulation.
+
+(figure: lego06.png)
+
+As next steps, we are getting ready to test the model out with actual customers to get their feedback. After the testing process, we will submit the final list of ideas to the managers with enough supporting evidence to vouch for their implementation.
+
+## A few tips
+Here are some tips we learned based on this experience:
+* Focus on a key challenge
+* Don’t get too many types of Lego bricks; it just might become a distraction
+* Combine the sensitising and projection phases if the participants are already well-versed with the challenge
+* Ask questions at the right moments, a little too late and you’ve lost the context
+* Encourage reticent participants to speak up, they might have great ideas up their sleeve
+* Bring in people from other disciplines so that they can add to the variety of ideas and perspectives
+* Remember to use the model as your evidence when you submit ideas for implementation
+
+## Conclusion
+The idea of using the Lego model to conduct research was spurred by observing the wealth of knowledge the CSOs had in dealing with everyday issues. As designers, the situation seemed complex; just too many variables at play. But to the officers, it was natural. By using the Lego model we got to unpack some of their intuition so that we could pick up on some latent issues that might make all the difference. 
+
+It was exciting for us to try this method and we hope you will find an opportunity to use it in your projects. If you have done something similar, we would love to hear about it. You can contact me at simon-at-pebbleroad.com.
+
+----
+
+Author: Simon Goh
+
+----
+
+Date: 2016-12-06
+
+----
+
+Category: 

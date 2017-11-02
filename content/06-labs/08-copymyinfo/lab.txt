@@ -1,0 +1,38 @@
+Title: copymyinfo App
+----
+Summary: A free service that saves you time in sharing hard-to-spell or hard-to-understand info with customer service reps. 
+----
+isApp: true
+----
+Features: 
+
+* Free iOS app
+* No login required
+* Easily share info from your phone
+* Your info is deleted after first use
+
+[http://copymyinfo.com](http://copymyinfo.com)
+
+----
+Body: 
+
+## What it is
+copymyinfo is a free service that allows you to easily give hard-to-spell or hard-to-understand info such as complex names and mailing address to customer service reps. Try telling “PebbleRoad” over the phone!
+
+## Why use it
+It saves you the time required to communicate the info and more importantly saves you from spelling out alphabets. 
+
+Yelling “Poland…England…Belgium…Belgium…Latvia…England” into your phone is now a thing of the past.
+
+copymyinfo is ideal if you have hard-to-spell or hard-to-understand info info you want to share.
+
+## How to use it
+
+* [Download the free iOS app](https://itunes.apple.com/us/app/copymyinfo/id815073521?ls=1&mt=8)
+* Select and send the info you want to share
+* The app generates a unique passcode
+* Tell the other person to go to [www.copymyinfo.com](http://www.copymyinfo.com) and enter the passcode
+* Your shared info is shown on the website
+* The other person can easily copy the info for their use
+* Your info is permanently deleted from our servers after first use
+* Spend the saved time with your loved ones!

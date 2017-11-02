@@ -1,0 +1,29 @@
+Title: Cube - an intranet to connect the Singapore Public Service
+
+----
+
+Summary: We designed an intranet to connect 136,000 public officers across different agencies together.
+
+----
+
+Category: User Research, Content Strategy, Information Architecture, Collaboration
+
+----
+
+Client: Public Service Division, Singapore
+
+----
+
+Industry: Government
+
+----
+
+Keychallenge: What is the shape of a whole-of-government intranet? Does it offer common services such as HR and IT or can it aspire to be something different? This was the question that looked us in the eye when we took up the challenge to design Cube, the Public Service-wide intranet.
+
+----
+
+Concept: It is amazing what a single question can lead to. Instead of going through the motions of a typical UX process, we asked, “What kinds of conversations do people want to have on Cube?” This led to fresh thinking and insight. We involved many staff from different ministries and departments. Such a platform was a first for the Singapore Public Service, and the answer was a highly user-centric social-networking intranet that aimed to connect 136,000 public officers across different agencies together.
+
+----
+
+Outcome: Cube was developed using the agile development approach, which allowed its features to be tweaked and rolled out in phases during a beta period as user behaviours and preferences were uncovered. During the beta period, a community of early adopters started building the content and setting the tone for conversations within Cube. Since Cube was officially launched in May 2013, there has been a steady increase in user adoption and user generated content on Cube as officers begin to share knowledge and ideas, and form working groups and communities to share files and co-create.

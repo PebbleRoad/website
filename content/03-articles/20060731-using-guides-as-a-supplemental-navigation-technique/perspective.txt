@@ -1,0 +1,120 @@
+Title: Using ‘guides’ as a supplemental navigation technique
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2006-07-31
+
+----
+
+Category: Information Architecture
+
+----
+
+Summary: In this article I explore ‘guides’, a valuable supplemental navigational technique for supporting the primary navigation structure.
+
+----
+
+Body: 
+
+## Introduction
+[Supplemental navigation techniques](http://www.7nights.com/dkrprod/gwt_eleven.php), by definition, enhance the primary navigation structure. They, however, are most beneficial when used on large websites and intranets.
+
+The most commonly used supplemental techniques are sitemaps and indexes. (See [Sitemaps and Site Indexes: What They Are and Why You Should Have Them](http://www.boxesandarrows.com/view/sitemaps_and_site_indexes_what_they_are_and_why_you_should_have_them).)
+
+There’s a misconception that supplemental navigation techniques are a Band-Aid solution to a lagging primary navigation structure. While that may be true in some cases (in fact, even then, they should be treated with respect for doing so), it should not cast a shadow on the benefits they bring on their own.
+
+There are two desirable benefits that supplemental navigation brings to large websites and intranets: **orientation** and **access**.
+
+* **Orientation**: they help people in orienting themselves to content and tasks found on the website (for new comers)
+* **Access**: they help people find shortcuts to useful information on the website (for both new comers and old timers)
+
+Different supplemental navigation techniques provide the benefits in different balances. Sitemaps bend more towards orientation while indexes bend more towards providing access.
+
+## What are guides?
+Guides bend towards orientation but their scope is a little different. While the scope of sitemaps and indexes covers the full website, guides focus on a subset that meets a specific purpose. Being purpose driven, guides also stitch different parts of the website that cater to that purpose. Furthermore, guides, by definition, are targeted towards new comers.
+
+For example, take a look at these guides:
+
+* [Guide to your accounts at Wells Fargo](https://www.wellsfargo.com/welcome/)
+* [Guide to Stanford University](http://www.stanford.edu/home/welcome/)
+* [The Harvard Guide](http://www.news.harvard.edu/guide/)
+* [Guide to buying at eBay](http://pages.ebay.com/help/buy/buy_getstarted_ov.html)
+ 
+You’ll notice some characteristics:
+
+* It introduces you to concepts
+* It takes you through them in sequence
+* It links and provides context to sections on the main website
+* The links or shortcuts back to the website are what differentiates our guides from a subject-matter guide.
+
+Guides like how-to-milk-a-cow are subject-matter guides; they solely focus on the subject matter there are trying to explain. (See Nigel Holmes [*Wordless Diagrams*](http://www.nigelholmes.com/wordless/index.htm) for more hilarious subject matter guides.) The guides we are talking about orient users to specific stuff on the website that caters to a specific need. This is a slight but crucial difference that I like to keep in mind.
+
+## When to use guides?
+Guides can be used when there’s an important need or purpose to be met and which involves orientation to concepts and tasks. You might realize this need when conducting the initial user research or when evaluating user feedback or when there’s been some change in the content or tasks involved.
+Here are some typical scenarios where guides could help:
+
+* Merger between two local banks and subsequent changes in policies and procedures
+* New website for filing income tax returns
+* Orienting prospective students to university admissions or financial assistance
+* Filing for immigration to a new country
+Changing or updating mobile service plan, etc.
+
+## Shape of a guide
+Guides come in many shapes. Many are like wizards, like the Wells Fargo one. These shape up to something like this:
+
+(image: 01.jpg alt: Shape of a guide title: Shape of a guide)
+
+To learn more on wizards, see the IBM article, [Crafting a wizard](http://www-128.ibm.com/developerworks/web/library/us-wizard/).
+
+Others sport a single page written in hypertext that link to different sections of the main website (like the eBay example before). Here are some more examples:
+
+* Stanford University’s [landing page for Admissions](http://www.stanford.edu/home/admission/index.html). This page is designed like a guide and it works. (I’ve always felt that landing pages should be designed like guides.)
+* Dave Gray’s [Visual Thinking School](http://www.squidoo.com/communicationnation/) lens. In fact, the [definition](http://www.squidoo.com/pages/faq) of a lens fits the definition of a guide.
+
+"A lens is one person's view on a topic that matters to her. It's an easy-to-build, single web page that can point to blogs, favorite links, RSS feeds, Flickr photos, Google maps, eBay auctions, CafePress designs, Amazon books or music, and thousands of products from hundreds of other trusted merchants… It's a place to start, not finish."
+
+Instead of offering one person’s view, a guide focuses on common topical or task related orientation and points to information available on the website or intranet.
+
+## Designing effective guides
+Although guides are a simple technique they must be designed with care in order for them to be effective. The guide should first and foremost fulfil a need; don’t design one if you don’t need one.
+
+Here are the design steps:
+
+### Identify and justify the need for a guide
+It’s not enough just to identify the need for a guide. To be really sure, you need to justify the need.  Here’s are questions you can ask:
+
+* How is the need currently met? What is the UX?
+* Will it hurt if the guide is not there? How much pain?
+* What are the possible fallouts if not provided?
+* What are the alternative paths?
+
+If you have strong reasons after asking these questions then you have a case to create a guide.
+
+### Collect & organise the material
+This step becomes relatively easy once you justify the need.
+
+You can use the **KWL technique** for mapping this out. KWL is a simple technique used in instructional settings to map subject matter to prior knowledge of students. It goes like this:
+
+* **Know**: What does the user already know about the topic?
+* **Want**: What does the user want to know about the topic?
+* **Learned**: What has the user learned about the topic? This can be used to evaluate the guide.
+
+So, if you are designing the Admissions guide of a university, the KWL chart could be something like:
+
+(image: 02.jpg alt: KWL process title: KWL process)
+
+### Provide links to main sections of the website
+This step is a must, you need to build up the image of the website in the user’s mind; it’s the reason you are providing a guide in the first place.
+
+### Provide contact details
+Many people don’t do this, but it gives a catch net for those who still have difficulty in getting the info or orientation they need. The contact log can help you to revise the guide.
+
+### Test it out 
+Once the guide is ready, test it out with real people and fill out the last column in the KWL chart.
+
+## Conclusion
+It is the nature of websites to grow. You can’t stop it, but you can manage it. The focus should be in providing a sustained positive user experience. Guides can help in this regard – when you design it with a purpose and with care.

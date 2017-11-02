@@ -1,0 +1,83 @@
+Title: Passcode input
+
+----
+
+Summary: A JavaScript code to enter multi-character passcodes, one character at a time.
+
+----
+
+Body: 
+
+## What it is
+A simple JavaScript code to get the familiar passcode input, one character at a time.
+
+## Why use it
+
+A disadvantage of giving users a single text box to enter multi-character passcodes is that the number of characters required is not very evident. Splitting the entry boxes to the number of characters required solves this problem.
+
+## How to use it
+
+### 1. Add your input fields in the html
+
+~~~~javascript
+
+<div class="passcode">
+    <input type="text" maxlength="1" autofocus>
+    <input type="text" maxlength="1" >
+    <input type="text" maxlength="1" >
+    <input type="text" maxlength="1" >
+    <input type="text" maxlength="1" >
+    <input type="text" maxlength="1" >
+</div>
+~~~~
+
+### 2. Initialize the plugin
+
+~~~~javascript
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script src="jquery.passcodeinput.js"></script>
+
+<script>
+
+    $(function(){
+
+        $('.passcode').passcodeInput({
+
+            numbersOnly: true,
+
+            onComplete: function(value){
+            
+                /* Or submit a ajax request to validate the Input */              
+                
+                if(value == 456112){
+
+                    $('.passCodeAnswer').show();
+                }
+            }
+        });
+
+    });
+</script>
+~~~~
+
+
+### Plugin callbacks
+
+~~~~javascript
+
+onComplete :  Called when the user fills all the input fields
+onChange: Called when the user changes any of the input fields
+
+~~~~
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Category: 

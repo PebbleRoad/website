@@ -1,0 +1,116 @@
+Title: The changing face of university websites
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2006-08-17
+
+----
+
+Category: Information Architecture,Content Strategy
+
+----
+
+Summary: In this article I explore how university websites are changing for the better.
+
+----
+
+Body: 
+
+## Introduction
+In a recent project for a local university, I looked at the pages of 25 universities, mostly from the US, UK, Australia – the countries that local students look to for higher education studies. In this respect, the sample size being terribly small, I cannot say for certain that what I’ve learned is taking place universally. But the areas of change are so fundamental (and exciting) that I just had to write about it.
+
+University websites tend to be more complicated than corporate websites. Here are some reasons why:
+
+* Difficultly in defining a common vision: unlike corporate websites, it is difficult for a university to get all of its schools, divisions, centres, etc., to agree on a common vision for communicating on the web. This is a classic example of a house-of-brands or a branded-house conflict.  Only the administrative offices are under the fold for obvious reasons. Thus, it is not uncommon to come across a school or a division crafting their own vision, often citing the hyper competitive education marketplace as their main reason (e.g. business schools).
+* ‘Not invented here' syndrome: because of the above, web design tends to fall into the hands of many different local webmasters who make decisions based on local directives – usually motivated by one-upmanship. This results in the hotchpotch that users finally get to see, and unfortunately, to experience.
+* Lack of knowledge in user-centred design: this is crucial one. Because the needs of the user (or as Don Norman would say, people) does not take centre stage, as the above two points show, design decisions are based on varying principles and random rationales leading to haphazard design outcomes. Unless there’s common understanding of user needs this is going to be a problem area for some time to come.
+Those in the know will have the urge to add to this list, but I guess the above is enough to provide hints of the complexity involved in the design and maintenance of university websites.
+
+Now, let’s see some areas of focus of the redesigns and how different universities are doing them.
+
+## Web standards
+This is the big change. XHTML markup (usually 1.0 Transitional) and CSS are finding widespread acceptance. Some universities go even further. The [University of Florida](http://www.ufl.edu/) website is mentioned in the [*Professional CSS*](http://www.wrox.com/WileyCDA/WroxTitle/productCd-0764588338.html) book for its CSS work and on its printer friendly pages (largely based on this [A List Apart article](http://www.alistapart.com/stories/goingtoprint/)).
+
+[University of Oxford](http://www.ox.ac.uk/) pages validate as HTML Strict but it is still a table-based layout.
+
+[Monash University](http://www.monash.edu.au/) is known for its [emphasis](http://www.monash.edu.au/accessibility/) on accessibility, but still displays a table-based layout. The same goes for the [University of Cambridge](http://www.cam.ac.uk/).
+
+[Michigan State University](http://www.msu.edu/) not only validates as 1.0 strict but also has a very clean table-less markup.
+
+[Imperial College London](http://www.ic.ac.uk/) provides the ability to resize fonts (for IE) and uses 1.0 Strict doc type.
+
+Here are more that are doing a good job with web standards. 
+
+[Cornell University](http://www.cornell.edu/), [Princeton University](http://www.princeton.edu/), [University of Nebraska, Lincoln](http://www.unl.edu/), [Dartmouth College](http://www.dartmouth.edu/), [Bucknell University](http://www.bucknell.edu/), [University of Melbourne](http://www.unimelb.edu.au/), [University of Wisconsin](http://wisc-edu.com/), [La Trobe University](http://www.latrobe.edu.au/), [Seattle University](http://www.seattleu.edu/), [University of Michigan](http://www.umich.edu/), [University of Sheffield](http://www.shef.ac.uk/), [Ohio State University](http://www.osu.edu/).
+
+## Information architecture
+### Organisation scheme
+If you visit some of the websites mentioned above, you’ll notice that the top-level structure is somewhat similar across many websites—a dual organisation scheme, one topic or subject-based, the other audience-based. 
+For example,
+
+* Information For (audience): Prospective students, Current Students, Faculty/Staff, Visitors & Family, Media, etc.
+* Information About (subject): The University, Schools & Courses, Research, Campus, Services, etc.
+
+Different universities have different items listed under the scheme depending on their focus. For example, [Monash University](http://www.monash.au.edu/) has ‘International Students’ under its audience-based scheme, simply because Monash is very strong in marketing education in South Asia.
+
+### Main navigation
+Many universities now use the Yahoo! style directory structure on their homepage to provide hints (trigger words) to the content contained within the sections. For example, the About section on the [University of Florida’s](http://www.ufl.edu/) homepage is represented as follows:
+
+About UF [Administration, Maps, Tours, Facts, Giving, Jobs, News, Spotlights…]
+
+In fact, UFL uses the same strategy for all their lower level administrative pages too.
+
+Here are others that use the same strategy:
+
+[Michigan State University](http://www.msu.edu/), [Dartmouth College](http://www.dartmouth.edu/), [University of Wisconsin](http://www.wisc.edu/), [MIT](http://www.mit.edu/), [UC Berkeley](http://www.berkeley.edu/) and [University of Pennsylvania](http://www.upenn.edu/).
+
+Knowing the complexity in managing numerous sources of information for different audiences, and having all of it crisscross different stakeholders, it comes as no surprise that this strategy is becoming popular with university websites.
+
+Also, a [usability study](http://www.eastonmass.net/tullis/WebsiteNavigation/WebsiteNavigationPaper.htm) has shown this technique to be quite intuitive.
+
+Furthermore, this strategy enables the university to be more responsive to user needs. For example, only for a specific duration of time, few weeks before convocation and a few weeks after convocation, your search logs might show an increase in the number of searches for convo, convocation, convocation dates, etc. With the trigger words approach the Webmaster can insert the ‘convocation’ trigger word under the appropriate category thereby catering to a temporal, but important, info need. 
+
+### Utility navigation
+The following are quite common utility navigation options present on many university websites: **Sitemaps**, **A-Z lists**, **Calendars**, **Maps**, **Directories** and **Search**.
+
+There is another—**Quick links**—provide shortcuts to frequently used information that cannot fit into the primary navigation.
+
+Sitemaps and A-Z lists are present as content pages while the rest are web apps.
+
+The web apps are the usual problem areas. These are usually not very user friendly. Web2.0 and AJAX can definitely make inroads here for the benefit of all (opportunity here AJAX gurus).
+
+Here are some utility navigation examples: [Princeton University](http://www.princeton.edu/), [University of Florida](http://www.ufl.edu/), [Monash University](http://www.monash.au.edu/), [University of Pennsylvania](http://www.upenn.edu/).
+
+## Homepage, News & RSS
+University homepages are also showing a common structure. Without going too much into the layout of the design, given below is a page description diagram that shows the different components on the homepage and their importance.
+
+(image: 01.jpg alt: University homepage PDD title: University homepage PDD)
+
+Although many university websites treat the publication of news, events and spotlights (a featured story) as an independent subsite, usually in the form of a News Office, some websites, most notably the MIT News Office, professionally manages both the gathering and publication of news and related items. So, any MIT school or division can submit news worthy items on this website.
+
+There is also a [News Writing Guide](http://web.mit.edu/newsoffice/write-news.html) available on this website to aid on writing effective news items.
+
+Needless to mention that most dynamic items such as news, events, spotlights, etc., are syndicated by RSS, finally.
+
+## Branding
+This has always been a problem area for university websites: how to maintain the presence of the university brand when used in together with the school and divisional sub-brands. And the problem is even more intense when the sub-brand is more popular than the main (mother) brand. Thus it is not uncommon to find school deans fighting for more independence and the university communications department resisting the breakup. In short, this is the same branded house vs. house of brands dilemma.
+
+Some university websites are trying to find common ground with different strategies. For example,
+
+* Cornell University provides the typical [main brand/sub-brand](http://www.cornell.edu/identity/web/) strategy: consistent header with a placeholder for the faculty name.
+* Monash University provides the same as Cornell but also [colour codes](http://www.monash.edu.au/staff/web/branding/) the different faculty websites.
+* UW Madison gives 2 template [colour options](http://wisc-edu.com/webstyleguide/) with a consistent top-bar with the option of not displaying the logo.
+* Ohio State University requires that all of its websites display at minimum a [narrow red-grey top bar](http://www.osu.edu/identity/web.php). If a faculty website has a logo it can appear on the top-left or bottom-left as a “signoff”.
+
+Now, if you take a look at the faculty or school websites of the universities listed above, you’ll notice that not all are in the common, consistent fold. Thus, even with the usage guidelines clearly stated, many faculty or school websites have an independent look and feel.
+
+The real reason could be that the migration of a faculty or school website is an effort intensive task. It takes years to get all of the university subsites into a common fold.
+
+## Conclusion
+This is very brief look at university websites. There is so much more taking place behind the scenes. Only the people working on such redesigns day and night know the enormous effort required to push forward in very trying situations – a change process on a massive scale and with multiple stakeholders. There will be many ups and downs, but the most interesting part is that there will be experimentations. And it will these experimentations that, I hope, will transfer to areas that the user experience and web standards communities find hard to reach.
+
+Have you come across a university website redesign approach that is breaking new ground? If yes, then use the comments section below to share the learning.

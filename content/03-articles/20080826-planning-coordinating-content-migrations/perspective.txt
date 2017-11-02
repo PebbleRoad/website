@@ -1,0 +1,127 @@
+Title: Planning and coordinating content migrations
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2008-08-26
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: In this article, we’ll define problematic phase of content migration and describe plan that we’ve been experimenting with at PebbleRoad to help clients navigate this phase.
+
+----
+
+Body: 
+
+## Introduction
+You’ve spent months researching and redesigning your intranet or website. The wireframes and the sitemaps have done their job in communicating the benefits of the new design to the stakeholders and you’ve got good feedback from the users. The new templates are done up and the CMS is getting tuned. It is time to think about those 2000 or so pages of content that need to go into the new website. Yes, this is the content migration phase that’s been getting a lot of attention lately.
+
+Because the scope of content migration can vary, let’s narrow down and focus on the following scenario: your organisation has many departments that contribute content to the intranet or website. The redesign has done away with organising the content along departmental lines. The new strategy calls for organising the content along customer needs. The departments are seeing red. They don’t have their beloved silo. Their contribution it seems is now spread across different sections of the new design. How do you plan and coordinate this content migration? Bear in mind that much of the content needs to be re-evaluated and rewritten to meet the expectations of the new design.
+
+## The plan
+The plan is to edit all pages of the website to meet the new design requirements. This is often referred to as the "cleanup". The following steps can help in the cleanup:
+
+* Create an inventory of the new website
+* Get the content owners or subject matter experts to provide the raw content
+* Use an internal or external group of editors to write the final copy
+
+Let’s look at these 3 steps in more detail.
+
+### Create an inventory of the new website
+Before starting any redesign job, it is best to start with a content inventory of the existing website. There are many articles written on creating a content inventory, so we’ll not get into that. But one thing we’d like to share is that we use Omni Group’s Omni Outliner for creating the content inventory. We like the tool because it makes it easy to enter and play with the outline structure. In fact, once we’ve created a detailed inventory, we use the inventory to fill in the slots of the new site structure, thereby creating the new site inventory. Because the new content inventory shows both new and existing content, we use a colour code to differentiate the different types of pages. Here is the colour code we use:
+
+* Green: new content
+* Yellow: existing content, but that which needs to be edited
+* Red: deleted content (Redundant, Outdated or Trivial content – ROT)
+
+Once this new site inventory is ready, it can be shown to the different content owners to give them a good picture of what is expected of them.
+
+### Get the content owners or subject matter experts to provide the raw content
+With the new site inventory all set to go, we get the content owners or subject matter experts together and inform them to gather raw content for all items in the inventory they are responsible for.
+
+The meaning of raw content needs some explanation. When a page is ready for a cleanup, it is natural to just focus on the existing content in the page. Avoid this tendency. You need to look at the page with a fresh perspective. Maybe the page is meant for a different audience or maybe the page needs to communicate a different message. The existing content may not be able to fulfil these new requirements. Instead of shoehorning existing content to fit the new requirements it is best to first collect all the material you have that relates to the new page. It could be an explanation that sits on another server or a procedure that is on a brochure. Collect all such information. This is called raw content.
+
+Having the entire raw content upfront helps in speeding up the cleanup process.
+
+### Use an internal or external group of editors to write the final copy
+When it comes to editing the raw content, the option of using internal editors or getting external copywriters to do the job always crops up. I support using internal editors, even if it means getting a new team and training them up to do the job. The reason is simple—editing should be an internal capability and this function should be owned. It is ongoing and the learning curve will only make it better. Using external editors provides the initial impetus but cannot last on a long-term basis. Furthermore, it is costly and requires more effort in terms of coordination and management.
+
+Let’s assume that we’ve chosen to go with an internal team, this team now has to re-evaluate and rewrite the pages according to a house style guide. This style guide should be detailed enough to ensure that the team writes in a consistent manner. From specifying the language (e.g. US or British) to the case for titles (Sentence case or Title case) to chunking examples and non-examples, the guide can start small and slowly grow to meet the demands.
+
+## The methodology
+We now know what to do, but how do we get it done? This calls for a methodology for managing the change.
+
+The method has 4 steps:
+
+1. Get the right content owners
+1. Have them submit the content using a submissions template
+1. Set up a workflow to review content from the editors
+1. Review and adapt
+
+Let’s look at these 4 steps in more detail.
+
+### Get the right content owners
+Content owners are the people who are responsible for their content. If someone does not own the content but just publishes the content using the CMS, then he or she is the content publisher. This person does not become the owner.
+
+The first step in reviewing existing content and gathering raw content is to get the right content owners. This need can be communicated in an orientation presentation to all concerned departments. In this presentation, cover the following details:
+
+* Tell them what this project is all about
+* Explain the design process and tell them where you are in the process
+* Show and explain the new content inventory
+* Explain the need to gather the raw content
+* Show a sample of raw content to finished copy transformation
+* Get the department to nominate content owners for their content in the inventory
+
+Once the content owners are identified, it’s time to tell them how they should submit their raw content.
+
+It could be more beneficial if the internal team does this presentation. The reasons are aplenty:
+
+They know the people
+They can sell the need and requirements better
+They can provide concrete examples
+
+### Have them submit the content using a submissions template
+A submissions template is a document that guides the content owners in submitting the raw content for a particular page. The submissions template has 3 sections:
+
+* Metadata
+* Body
+* Related content
+
+### Metadata
+Content owners are in the best position to describe their content using metadata. Metadata values can be controlled, which means that they can be selected from a pre-determined list, or they can be tags, freely used keywords that describe the content. The metadata section of the template lists all these options down for the content owner to select or fill out. This comes in handy when it’s time to migrate the content into the CMS.
+
+### Body
+This is where the raw content is put in. Content owners can simply put in all the content that is relevant to the page. They can also group the content into sections and put in pointers that they think will help the editors.
+
+### Related content
+Linking related pages of content is very important in some cases, e.g., health information websites. This information is collected in this section of the template. Note that most CMSs can provide auto-relatedness by virtue of metadata. For example, it is easy to show related articles that belong to the same category as the current article. But at times, metadata cannot pickup some unique relatedness that is required. This section is for capturing such ad hoc and unique relatedness. E.g. an article on registration that needs to link up with several policies and guidelines or an article on cancer that needs to link up with some campaigns.
+
+Plan to meet the different content owners from the different department and take them through the submission requirements. Also show examples and non-examples of the submission. This way the content owners will know what to provide and what to stay away from.
+
+### Set up a workflow to review content from the editors
+With the raw content in place, the editors can start their work. The edited content needs to be reviewed by the content owners. This calls for a review workflow. There are three good ways to go about this.
+
+* Create a shared folder to hold the edited pages (pro: easy to setup; con: versioning needs to be managed)
+* Use online collaboration tools such as Google docs or a WYSIWYG wiki (pro: easy collaboration; cons: online connectivity, permissions, accounts need to be managed)
+* Edit directly into the CMS (pro: saves time; cons: templates may not be ready, revisions need to be managed)
+
+Whichever option you choose, prepare a file naming and versioning convention and stick to it. This is going to be a real time-saver (maybe a life-saver too).
+
+### Review & adapt
+Once the new content is up on the CMS, it needs to be reviewed one more time. The reason being that there is much more context on a webpage than there is in a Word document. And sometimes, this context may require some changes. Additionally, this final review is a good validation and sign-off milestone.
+
+Finally it's about learning from the whole process (or ordeal). I like to heed the advice given by Chris Collison and Geoff Parcell in their book, *Learning to Fly*. Their description of the learning cycle in British Petroleum of Learning Before, Learning During and Learning After is certainly one to follow in when trying to manage and improve the cleanup process.
+
+Learn before: what do we already know about the process?
+Learn during: what are the difficult situations we are facing and what can we do about it?
+Learn after: going forward how can we do the process better?
+
+## Conclusion
+Many have pointed out the gruelling nature of content migration. Getting it right requires tenacity and flexibility. Many unplanned activities will crop up. Instead of striking them out, adapt them into the process, and you'll be fine.

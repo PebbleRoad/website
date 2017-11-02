@@ -1,0 +1,192 @@
+Title: 10 document management principles for intranet users
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2013-04-28
+
+----
+
+Category: Intranet Design,Document Management
+
+----
+
+Summary: In this article we cover 10 document management principles such as Versioning, Check-in Check-out, Templates and Workflow to can help better manage and share documents and increase productivity!
+
+----
+
+Body: 
+
+## Introduction
+If you have an intranet system in place, e.g. SharePoint or OpenText, you have at your disposal powerful actions to better manage how you create, store, share and archive your documents. Not knowing how to use these actions is like not knowing how to operate turn signals in your car—you create problems not just for yourself but for others around you as well.
+
+In this article we describe 10 document management principles that can help you and your colleagues get some peace and happiness in managing and sharing documents on your intranet.
+
+1. Web Content
+1. File / folder naming conventions
+1. Versioning
+1. Access rights (sharing)
+1. Check-in, check-out
+1. Co-authoring
+1. Templates
+1. Workflow
+1. Subscription
+1. Offline access
+
+## 1. Web Content
+(image:01.png title: Use web content alt: Web content)
+
+Whenever possible, you create content as web content—such as pages and lists—instead of using Word or Excel documents. This applies especially to content that will be frequently used and changed by many people.
+
+For example, if you want to create a list of email addresses of contacts in different countries, don’t create it in Excel. Instead, use a web list feature to create a simple three-column list that stores the country, contact and email address.
+
+[Watch this short video on using lists in SharePoint](http://www.youtube.com/watch?v=nLJ3bRIYNN0).
+
+### Why do it this way?
+* It is just plain simple to access and use
+* People don't have to open applications to see information; it’s just there
+* Data can be sorted on the fly
+* If permissions are given, different people can be responsible for updating the list
+* There is no fear of multiple copies existing somewhere
+
+## 2. File / Folder Naming Conventions
+(image:02.png title: File/Folder naming conventions alt: File/Folder naming conventions)
+
+If you are creating folders or documents, make sure that those names resonate with others accessing your information. If they don’t, your document may never be found.
+
+For example, use common organising principles such as events or process:
+
+* Staff Meetings
+* Senior Management Meetings
+* External Commission Meetings
+* …
+
+
+* Research
+* Design
+* Build
+* Deliver
+* …
+
+The idea is to use conventions that will stand the test of time, even if you leave the organisation.
+
+### Why do it this way?
+* It helps other users easily scan for information
+* It helps users to easily locate similar documents
+* It builds a shared vocabulary that will hold up corporate memory
+
+## 3. Versioning
+(image: 03.png title: Versioning alt: Versioning)
+
+You don't have to create multiple copies if you want to create different versions of a document. Most intranet systems support versioning. That is, you only have one document with different versions under it, but not multiple copies of documents.
+
+For example, if you have a document titled HR Handbook.doc and you want to update the document, you can simply edit and save the document and the system will automatically add a version to the document. You don't have to do anything more. The system also keeps a version history that people can use if they want older versions.
+
+### Why do it this way?
+* It eliminates multiple copies (a huge deal)
+* People don't have to hunt for different versions
+* It is easier to manage
+* It builds trust in the system
+
+## 4. Access Rights (sharing)
+
+(image:04.png alt: Sharing title: Sharing)
+
+You may not want to share your document with others just yet, or you may want to share it only with specific people. You can specify who can and cannot see your document by setting access rights.
+
+With access rights, you get to specify who has access to your document and what they can do with it.
+
+For example, if you want your team to comment on a document, give them edit rights. If you want other departments to just reference the document, give them view rights.
+
+### Why do it this way?
+* You control who can and cannot see your document
+* You control what people can and cannot do with your document
+* Eliminates email ping-pong
+
+## 5. Check-in, Check-out
+
+(image: 05.png alt: Check-in, Check-out title: Check-in, Check-out)
+
+If many people are working on a document and you want to edit it but don't want others to edit it at the same time, you can simply check-out the document.
+
+For example, if you and your team are working on the minutes-of-meeting document and you want to make an important update, you don't have to take down the document. You can just check-out the document. Now, only you can edit the document but your team cannot. However, they can still view the document. When you are done with making changes you can simply check-in the document.
+
+### Why do it this way?
+* It eliminates the need to take down a document
+* It helps signal to others that you are now working on the document
+* It builds a sense of coordination within the team
+
+## 6. Co-authoring
+
+(image: 06.png alt: Co-authoring title: Co-authoring)
+
+Let’s say there are three people responsible for documenting the minutes of a meeting. Usually, someone starts a document and emails the group for their inputs. Then multiple versions and many emails later, the minutes of the meeting document is complete. There is a better way to to this without playing email ping-pong!
+
+Intranet systems offer a feature called co-authoring where everyone responsible can work on the same document simultaneously. This means that there is just one document with multiple authors working on it in true collaborative fashion. No more email ping-pong or multiple versions floating around.
+
+### Why do it this way?
+* It speeds up the entire process
+* It eliminates email ping-pong
+* It eliminates coordination costs
+
+## 7. Templates
+
+(image: 07.png alt: Templates title: Templates)
+
+Let’s get back to the minutes of meeting document. This document has a particular format. It has a table with different headers such as Date, Time, Attendees, Actions, Follow-ups, etc. For each meeting you’ll need the same document format. The traditional way to do this is to take the last minutes-of-meeting document and create a copy of it. You then spend time deleting the unwanted stuff or deliberating on what should stay and what should go.
+
+Many intranet systems offer a better option called templates. Templates are structured documents that you can use to create a document. The template automatically gives you the correct structure you need.
+
+For example, when you create a document using a ‘minutes of meeting’ template you get a document with the correct table structure that you can immediately use. You don't have to tinker with anything. The good part is that if the template changes, then everyone gets access to the improved version immediately!
+
+### Why do it this way?
+* It eliminates ambiguity
+* It creates consistency
+* It makes it easy to improve the templates
+* It automatically includes some metadata
+* It increases findability
+
+## 8. Workflow
+
+(image: 08.png title: Workflow alt: Workflow)
+
+Workflow is the routing of a document to others for review or approval before final publication. For example, you may be responsible for an important policy document that is scheduled to be published next week. You have done your part but before you publish it your supervisor needs to approve it.
+
+Traditionally, you would email your supervisor and start playing email ping-pong. But with an intranet system in place you just need to trigger a workflow. The system will notify your supervisor to take action. It will send him reminders if he fails to take the action. It will also publish the document if all is OK or will re-route the document back to you with comments for changes. Cool, huh?
+
+### Why do it this way?
+* The system does the heavy lifting
+* It eliminates email ping-pong
+* It eliminates duplicate versions
+* It keeps an audit trail
+* It creates accountability
+
+## 9. Subscriptions
+
+(image: 09.png alt: Subscriptions title: Subscriptions)
+
+Say you want to keep watch on an important document. To do this, you might visit the document once in a while or tell the author to email you if there is a change. But with an intranet system in place, the system can do the reminding whenever the document changes. All you have to do is subscribe to the document. Once you subscribe, the intranet system will automatically notify you when there is a change.
+
+### Why do it this way?
+* You don't have to manually track the document
+* The document creator does not have to manually send out notifications
+
+## 10. Offline Access
+
+(image: 10.png title: Offline Access alt: Offline Access)
+
+Yes, many intranet systems will enable you to work on a document when you’re offline (not on the corporate network).
+
+You work offline just as you would work online, just that the system saves your document on your personal computer when you’re offline. When the system detects a connection to the corporate network it automatically saves it to the right place on the intranet. It is all done automatically.
+
+### Why do it this way?
+* Don’t have to make a copy for offline work
+* Don’t have to remember which documents are online and which are offline
+
+## Conclusion
+The ten principles described in this article are elementary but necessary for intranet users to know, especially if they regularly share documents with others. There are advanced principles such as metadata and archival but let's leave that for another article! It is only when the majority of staff know how to effectively use and manage documents that we can hope to improve knowledge sharing and collaboration on our intranets.
+
+Tip: [Download the 10 Document Management Principles Summary Sheet](http://www.pebbleroad.com/downloads/document-management-principles-summary-sheet.pdf) and make it available on your intranet. Staff can print it out and use it as a reference.

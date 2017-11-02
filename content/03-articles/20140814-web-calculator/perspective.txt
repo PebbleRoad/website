@@ -1,0 +1,82 @@
+Title: Give users instant answers with web calculators
+
+----
+
+Author: Maish Nichani, Christine Oon, Vinay Malankad
+
+----
+
+Date: 2014-08-14
+
+----
+
+Category: Content Strategy
+
+----
+
+Summary: Instead of throwing content at your users and making them figure things out, why not give them answers instead. Introducing a free framework to build web calculators that offer instant answers based on user input.
+
+----
+
+Body: 
+
+## A problem
+
+YOU: I like this TV. Can I pay in installments?
+SALESPERSON: Yes, you can. Here are the instructions for calculating your monthly installment. Go figure it out.
+
+Do you see this conversation taking place if you walk into your favourite electronics store? No. It's just bad service.
+
+You have the data, they do the calculation, and you get an answer. This is how it has always worked.
+
+Yet on the 'interactive' web we often don't get answers. We are given the instructions and are told to go figure it out. Bad service.
+
+* How much do I need to top-up to get my monthly mortgage down to $2,000? Here's the formula. Go figure it out.
+* How much do I get for 3 days overtime work? Here is the formula. Go figure it out.
+* What part of my hospital stay expenses can my medical insurance cover. Here is the booklet. Go figure it out.
+
+But it need not be this way. 
+
+There are solutions that offer a way for users to get instant answers. These  go by different names such as smart forms, smart calculators and web calculators. The [maternity leave benefits 'smart answers'](https://www.gov.uk/calculate-your-maternity-pay) on the gov.uk website is a good example of such a calculator.
+
+If such solutions exist, then why don't we see them as often, especially in situations that are ideal for having them?
+
+The reason, expressed by both business and technical people, is the **high cost of building and maintaining such calculators**. How do we update it? What if the rules change? Who maintains it? 
+
+The available calculators are often hard-coded and are not easy to change and scale.
+
+We at PebbleRoad love web calculators and the efficiency they bring. We want to see them used more often. But first, we have to address the real concerns people have. 
+
+We asked the question: **How might we help business and technical people embrace web calculators?**
+
+## The solution
+
+Introducing, the [**Web Calculator App**](http://pebbleroad.github.io/web-calculator-app/) — a free JavaScript framework to build and maintain web calculators. 
+
+The framework helps you build calculators like the one shown below.
+
+(figure: web-calculator.gif)
+
+The framework has 3 modules that can be easily customised and extended:
+
+1. **Schema** - define form fields, validation rules and result messages
+1. **Functions** -  define the functions that do the calculations
+1. **Interface** - define the form interface
+
+The framework offers these benefits to business and technical people:
+
+* Easy to define and refine - all in plain text
+* Easy to deploy - all JavaScript
+* Standards compliant - works on all modern browsers
+* Testable - automatically test use cases
+* Themeable - can adapt to any visual design
+
+Check out a [EMI calculator demo](http://pebbleroad.github.io/web-calculator-app/) and then go over to our [Github page](https://github.com/PebbleRoad/web-calculator-app) and see how it is done.
+
+We have released the framework under an MIT license. Enjoy!
+
+We have used the framework to develop many complex calculators including ones that require conditions and branching.
+
+Our tests show that end users like the efficiency that the calculators bring—they have to spend less time figuring things out.
+
+We hope you find this app useful in your line of work. And we hope it helps your users get answers, instantly.

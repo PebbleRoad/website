@@ -1,0 +1,39 @@
+Title: Shortcode parser for Gather Content
+----
+Summary: You can use shortcodes in Gather Content to create interacive elements such as accordions and tabs. You can then use this parser to convert the shortcodes into HTML. 
+----
+Github: https://github.com/PebbleRoad/shortcode-parser-for-gather-content
+----
+Tags: content patterns, shortcodes, gather content, HTML, CSS, JavaScript
+----
+Features: 
+
+* Free parser built in PHP
+* Works with [Gather Content](http://www.gathercontent.com)
+* Define your shortcodes and corresponding HTML
+
+----
+Body: 
+
+## What it is
+A free PHP-based parser that converts [shortcodes](http://codex.wordpress.org/Shortcode) used in [Gather Content](http://www.gathercontent.com) to HTML. The parser is based on a WordPress shortcode parser.
+
+## Why use it
+Authoring plain text pages can be dull to read. As a web author, you may sometimes have a strong desire to [show information in an interactive manner](http://www.pebbleroad.com/perspectives/improving-reading-experience-content-patterns) such as in tabs or in an accordion. But many authoring systems do not allow the use such interactive elements. Now there is a way, at least for those who use [Gather Content](http://www.gathercontent.com) to author pages.
+
+The solution, first introduced in WordPress, is called **shortcodes**. If you wanted to use, say a tab, you would use special markup to structure the tab as such:
+
+~~~~markup
+[tabList]
+[tab title=”Title 1”] 
+	Content goes here 
+[/tab]
+[tab title=”Title 2”]
+	Content goes here [/tab]
+[/tabList]
+~~~~
+There is one more part to the solution - convert the shortcodes to HTML. This is where a parser is necessary. Our parser converts shortcodes in Gather Content to HTML.
+
+## How to use it
+
+[View instructions on Github](https://github.com/PebbleRoad/shortcode-parser-for-gather-content)

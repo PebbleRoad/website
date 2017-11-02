@@ -1,0 +1,21 @@
+Title: Ryan Yacyshyn
+
+----
+
+Summary: Ryan has over 10 years of experience in both front-end and back-end development. He has worked on projects for HP, Disney, and the Jim Pattison Group. At PebbleRoad, Ryan specializes in enterprise search. He is also the organiser of the (link: http://www.meetup.com/solr-sg/ text: Apache Lucene/Solr) Meetup group in Singapore.
+
+----
+
+Body: 
+
+----
+
+Google: 
+
+----
+
+Twitter: https://www.twitter.com/ryacca
+
+----
+
+Linkedin: https://sg.linkedin.com/in/ryanyacyshyn

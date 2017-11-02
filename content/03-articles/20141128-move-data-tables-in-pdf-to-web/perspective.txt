@@ -1,0 +1,31 @@
+Title: Move data tables in PDF to the web
+
+----
+
+Author: Maish Nichani, Vinay Malankad
+
+----
+
+Date: 2014-11-28
+
+----
+
+Category: Content Strategy,Apps
+
+----
+
+Summary: A simple way to move data tables stuck in PDF files to the web so that users can easily browse and search for specific information.
+
+----
+
+Body: 
+
+## Problem
+We find it annoying to open PDF files to look for specific information. Especially when the information ought to be on the web in the first place. Imagine opening a PDF file to look for a specific branch location. Not only do we have to open the file but also have to scroll the long document to find the branch address. Messy! Here's a solution to this mess.
+
+## Solution
+1. Transfer the data table from the PDF to Excel or CSV. Well, luckily for us we have [many apps](http://www.interhacktives.com/2014/03/12/extract-data-pdf/) such as [Tabula](https://www.tabula.com/) that do this.
+1. Take the Excel file and import it into [Google Fusion Tables](https://support.google.com/fusiontables/answer/2571232). This wonderful app from Google allows you to clean your data and add more fields. It also gives an API to access the data. This API is used in the next step.
+1. Use our free [Google Fusion Table to HTML table app](http://www.pebbleroad.com/labs/google-fusion-table-html-table) to display the table on the web. Our app is better that the Google embed. For starters, our app [looks better](http://pebbleroad.github.io/fusion-table-app/)! We also have search and pagination features and it is responsive!
+
+That's all there is to it. Enjoy and free those poor data tables from nasty PDF's grip.

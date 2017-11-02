@@ -15,7 +15,7 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'put your license key here');
+c::set('license', 'eb5c0f54a8a70d7e01e33bffd0d0cf9b');
 
 /*
 
@@ -28,3 +28,6 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('markdown.extra', true);
+c::set('debug', true);

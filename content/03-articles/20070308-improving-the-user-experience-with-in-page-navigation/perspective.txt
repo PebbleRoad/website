@@ -1,0 +1,90 @@
+Title: Improving the user experience with in-page navigation
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2007-03-08
+
+----
+
+Category: Information Architecture
+
+----
+
+Summary: In-page navigation techniques are used to layout web content on a page. When used properly they improve the user experience. But when misused they just add to the anxiety. This article chalks out the different in-page navigation options available to us and offers some tips on using them effectively.
+
+----
+
+Body: 
+
+## Introduction
+In-page navigation is navigation to content that exits within the same page. The table of contents (TOC) links on a Wikipedia article is the most basic example of in-page navigation. The links take you to the relevant text on the same page.
+
+Example: [Wikipedia entry for Market Research](http://en.wikipedia.org/wiki/Market_research).
+
+In the example above, the TOC helps the reader to quickly make sense of the article. It aids scanning and encourages [satisficing](http://www.sensible.com/chapter.html)—both of which enhance the reading experience.
+
+I will bring out the relationship between in-page navigation and Ajax a little later, but if you're in a hurry, you can [read it now](http://pebbleroad.com/perspectives/improving-the-user-experience-with-in-page-navigation#ajax)!
+
+## Same code, different layouts
+The TOC-based navigation is the most primitive form of in-page navigation and is still used extensively and in different variations—a frequently asked questions (FAQs) list and an A-Z index are some common examples.
+
+With the maturing of browsers, web standards and especially JavaScript, different layouts can be built on top of the basic TOC format. Here are some samples that use the same basic TOC markup but are styled and scripted differently.
+
+(image: 01.jpg title: In-page navigation layouts alt: In-page navigation layouts)
+
+Examples:
+
+* [Microsoft home page](http://www.microsoft.com/en/us/default.aspx)—vertical tabs
+* [Hewlett Packard](http://www.hp.com/country/us/en/welcome.html)—vertical tabs
+* [Adobe Solutions for Higher Education](http://www.adobe.com/education/hed/)—horizontal tabs
+* [Jenna Spevack Portfolio](http://www.jennaspevack.com/portfolio/index.html)—accordion style
+* [Examples from Christian Heilmann's book](http://www.beginningjavascript.com/Chapter7/index.html)—many variations are shown and explained
+
+When to use in-page navigation
+In-page navigation makes web pages shorter, however that should not be the sole reason for using it.
+
+In-page navigation should be used in situations where it helps improve the readability and learnabilty of the text. Here is an example.
+
+Let's say you are designing a website for a business school that has the following setup:
+
+(image: 02.jpg alt: In-page navigation setup title:In-page navigation setup)
+
+By interviewing students you gather that during the selection process they are not really interested in the details of a specialisation programme but just want to browse through broad applications of the programme—mainly to confirm their pre-selections.
+
+In diagrammatical terms, this would be the following:
+
+(image: 03.jpg alt: In-page navigation opportunities title:In-page navigation opportunities)
+
+The updated diagram shows more than some boxes without borders, it shows a more loosely knit, almost fleeting relationship, something that might not be picked up with linearly written text. In-page navigation can be used in such cases.
+
+Let's consider the Adobe example. Here we have 3 facets of the core idea of "Solutions for Higher Education". These 3 facets—Products, Solutions & Resources—project a different meaning when presented in horizontal tabs than they do when presented in a linear manner. The tabs not only keep the facets in context and in view but also provide for easy glances across them, thus increasing readability and learnability.
+
+In summary, although in-page navigation provides an attractive option for presenting large amounts of text on a page without overwhelming the user, priority should be given to higher order user needs of readability, learnability and decision-making.
+
+## Designing with progressive enhancement
+Once you've decided to use in-page navigation, there's another important implementation criteria that you need to master—designing with [progressive enhancement](http://www.accessites.org/site/2007/02/graceful-degradation-progressive-enhancement).
+
+Progressive enhancement is a technique of designing web pages where you first design for the least capable browsers and then add layers of additional features that the more capable browsers can take advantage of. You do this to have your information accessible to all users and to all devices.
+
+Many of the examples listed above are enhanced from the basic anchor-and-target form. (Turn off CSS when viewing the examples to see the basic presentation.) This means that if a user is using an older browser or has turned off JavaScript he/she can still read the content in a usable way.
+
+## In-page navigation & Ajax
+In all the examples above, the target content is already present in the document markup—it may be hidden initially, but it is present nevertheless. With Ajax-powered pages, new content is pulled in from external sources and added to the markup on request, without a page reload.
+
+Technically all the examples above can be Ajax-powered, but that brings us to this important caveat when using Ajax – never use Ajax for Ajax's sake. Much of the Ajax goodness that we see on the Internet is around web applications, not on vanilla content pages. For more on this issue, check out Shaun Inman's article, [Responsible Asynchronous Scripting](http://www.thinkvitamin.com/features/ajax/responsible-asynchronous-scripting).
+
+## In-page navigation & CMSs
+In-page navigation is about marking up, styling and scripting text a little differently to improve the user experience. Content authors by and large do not have this capability. This puts the onus on the content management systems (CMSs) to provide such functionality in their authoring environments.
+
+Content management system authoring environments usually provide for both structured authoring and page authoring. In structured authoring, the elements that make up the text are decided in advance, while in page authoring, the text is created on the fly. For example, all of Adobe's solution pages have the same repeatable structure (one structure, many instances), but Jenna Spevack portfolio page is a standalone page.
+
+The limitation with CMS authoring environments is that while it is possible to pre-define in-page navigation elements when using structured authoring, it is not that easy to do the same with freestanding page authoring.
+
+## Conclusion
+When used appropriately in-page navigation can enhance the readability and learnabilty of the text. But as noted, although there are benefits, the lack of easy authoring environments makes this only a geek-add-on at best.
+
+If you have come across techniques for easy authoring of in-page navigation elements do share your knowledge in the comments section.

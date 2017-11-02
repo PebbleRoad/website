@@ -1,0 +1,92 @@
+Title: Using tag bundles to speed up tagging of documents
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2011-06-27
+
+----
+
+Category: Intranet Design,Document Management
+
+----
+
+Summary: In this article we describe a time-saving technique to add metadata, especially in the case where the same metadata values are added frequently.
+
+----
+
+Body: 
+
+It is common for enterprises to have a document library in their intranets that houses all types of administrative and operational content. Such a document library usually has a taxonomy to improve the discoverability and findability of content. However, there is one problem: documents need to get into the library first! Submitting a document to the library involves filing or tagging the document with the right taxonomic terms, a procedure that can make people see red if not done properly. Tag bundles can help simplify this procedure and also improve the use of such document libraries.
+
+## Quick glance
+If you’re already familiar with the topic and its problems, browse this Slideshare presentation to see how tag bundles can help.
+
+<div style="width:510px" id="__ss_8430116"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/maish/using-tag-bundles-in-intranets" title="Using tag bundles in intranets">Using tag bundles in intranets</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/8430116?rel=0" width="510" height="426" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+
+## A scenario
+First, let’s consider a scenario. Let’s say we have a document library, which is managed by a faceted taxonomy. This faceted taxonomy has three key facets: Countries, Sectors and Document types. Let’s say you’re a staffer in the organisation who regularly uploads project reports (document type) for the agriculture industry (sector) in Vietnam (country).
+
+Going by the traditional way you will have to make three selections to specify the correct taxonomic terms to tag the document.
+
+(image: 01.png)
+
+Having many terms in each facet makes it difficult to select the right term, unless there is help from the interface in the form of auto-complete or recently used tags.
+
+### Auto-complete
+The 'Auto-complete' feature will try to predict the tag by suggesting tags based on the first few characters you type. So, if you type “agr”, it may suggest tags such as “agriculture, agri food”, etc. It is useful to know that this feature can get the terms from two sources: from previously used tags or from a pre-defined list (aka taxonomic terms).
+
+(image: 02.png)
+
+### Recently used tags
+The 'Recently used tags' feature digs into your profile and past submissions and presents some terms that might be relevant to you. This is cool if it works well.
+
+(image: 03.png)
+
+### Limitations of auto-complete and recently used tags
+The problem with auto-complete is that you have to interact with the interface multiple times and even type in the characters.
+
+The ‘recent term’ design solves some of the problems with auto-complete, but it has its own set of problems. The recent term links are usually linked to each facet. You will still have to go through a series of clicks to associate the right terms. Furthermore, these links keep changing, trying to keep up with your preferences. You then have the classic Amazon problem – order a Barbie DVD for your child and then Amazon keeps recommending weird Barbie stuff to you all the time!
+
+Even if recent terms are used in the context of a single page, then you have the problem of going through the tags and selecting the right ones.
+
+This is where tag bundles come to the rescue.
+
+## What are tag bundles?
+Tag bundles are set of pre-defined terms. If your work revolves around specific areas then you could define a tag bundle upfront to represent that area. For example, you could define a tag bundle with the terms: Vietnam, Agriculture, Project report if you regularly upload or keep track of such documents. The tag bundle now behaves like a unit.
+
+Tag bundles are not new. Delicious uses them (or used to use them) nicely. However, there were some drawbacks, which we’ll cover in a while.
+
+### Tagging with bundles
+To tag a document with the terms in the bundle you just have to select the bundle. The terms will be applied to the document. Yes, that's all there is to it.
+
+If you have a bundle that has fewer terms than what is required, say, ‘Brazil’ and ‘Infocomm’, then the interface will prompt you to enter the Document type only.
+
+(image: 04.png)
+
+Remember the tag bundle is a unit of meaning. Therefore the unit along with the terms always go together.
+
+A note on Delicious, it does not allow tagging a bookmark with tag bundles. It allows browsing by tag bundles though.
+
+### Browsing with bundles
+You can browse the document library by selecting the tag bundle. Why would you want to do this? To quickly filter the documents you’re interested in. If your job scope covers two or three specific portfolios, then you can create the respective tag bundles and browse the document library very easily, usually with a simple click.
+
+(image: 05.png)
+
+If you’re doing this, then you should be aware of one possible drawback. By just viewing everything by tag bundles, you could be creating what Eli Pariser calls the Filter Bubble – missing out on stuff outside your tag bundles. To avoid this trap, we recommend a two-zone structure, one for everything and the other for your stuff.
+
+Tag bundle is a simple concept that can lead to some interesting implications, for example, consider the Dropzone.
+
+### Dropzone
+We can have a dropzone on the browser where staff can easily drag-and-drop their documents. This makes it super easy to submit documents to the library.
+
+(image: 06.png)
+
+### Tag bundles and free tags
+With the scenario given earlier, you can be forgiven for thinking that tag bundles apply to taxonomy related stuff only. That is not correct. In fact, Delicious uses it with free tags. One can therefore imagine using tag bundles with social spaces on the intranet. For example, you may have a Twitter-like app on your intranet, and you could use tag bundles to quickly zoom into conversations that meet your criteria.
+
+## Conclusion
+As you can see, tag bundles can help relieve the pain of tagging content on the intranet. But with power comes responsibility. It is not a stretch to imagine a scenario where one has so many tag bundles that it ceases to be of any value. Used in a proper and sensible way tag bundles can help increase the adoption and contribution of intranets.

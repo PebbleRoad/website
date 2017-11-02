@@ -1,0 +1,148 @@
+Title: Starhub's genres, classification problems, and an idea!
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2010-04-10
+
+----
+
+Category: Design Strategy
+
+----
+
+Summary: In this article we take on the classification of TV listings! We  show why classification by numbers is not really usable and how digital can make a big difference.
+
+----
+
+Body: 
+
+## Introduction
+On 31st of March 2010, Starhub TV, the second largest mobile operator and the sole cable television operator in Singapore had big news for its viewers. They announced that they are going to change the linear, numeric listing of channels that's been etched into our memories for over 8 years, and introduce genres.
+
+This article explores the implications of such a transition for viewers. It also explores a radical way of surfing TV channels!
+
+## Why did Starhub introduce genres? 
+The operator says it is to plan for "future expansion". They thought it would be useful to group all the 150 or so channels into genres and sub-genres to make it easy to slot new channels as and when they're introduced.
+
+To help with the expected confusion, Starhub will offer a free 3-day preview of all channels starting at 2am on 30th April 2010. Yippee! But that is all there is to cheer about the change. The problems this new arrangement will introduce will linger around for more than 3 days.
+
+## The old format
+First, let's look at how the channels are listed currently.
+(image: 01.png)
+
+I got this list from Starhub TV's [page on Wikipedia](http://en.wikipedia.org/wiki/StarHub_TV) as of 24-March-2010. Starhub has since changed this page to reflect its new arrangement.
+
+You'll notice that some groupings are implicit. For example, 031, 032, 033, 034, 035, are all kids channels. Similarly, channels 058, 059, 060, 061, 062 are all movie channels.
+
+Over the years, we've gotten used to some of these numbers. My daughter, for example, knows that channel 35 is Cartoon Network.
+
+Because of the implicit nature of the listings, it becomes difficult to know all the channels being offered. As humans, we're really bad at keeping arbitrary numbers in our heads. The only way we know is when we get a brochure or when our friends tell us. That's how I got to know one of my favourite channels— the History Channel.
+
+The lesson we can learn from this: you can't browse an implicit system, and it’s hard to discover interesting new channels by browsing.
+
+A loose and implicit system is not sustainable. There is a lot of effort and cost needed to spread the awareness of a channel, and even then, it's not perfect. This is because of the limitations of the current architecture. The TVs and the remotes are not very flexible or interactive; they feel more analog than digital. It’s no surprise that we have a system that is dominated by abstract numbers.
+
+Now, take a look at the new arrangement.
+
+## The new format
+The full list is at Starhub TV's [current Wikipedia page](http://en.wikipedia.org/wiki/StarHub_TV).
+
+Consider the proposed genres. They look neat at first, but you’ll quickly realise the problems with it. For example:
+
+* Do 'Kids movies' go under Kids or under Movies?
+* Does ‘Chinese News’ go under Chinese or under News?
+* What if something is free-to-air, but is a news channel, like Channel News Asia? Shouldn't it be under the News?
+* Zee Cinema is a channel that shows Hindi movies. Why’s it under International/Ethnic and not under Movies?
+* Where do Documentaries go?
+* How do we get a list of all HD channels?
+
+If Starhub is moving from a list to a category structure then one of the rules of category development is that the categories should not be ambiguous and they should not overlap. So what’s happening here?
+
+Here's the big surprise: **Starhub is not marketing the genres; they're marketing a new set of numbers**.
+
+We do not get to surf channels by genres on the TV screen. We still have to learn the numbers.
+
+In one of their TV adverts, Starhub is spreading the message "Movies are now 600s". This is like asking all library patrons to remember the Dewey Decimal Classification (DDC) numbers of the books they want—"Hey people, remember that the social sciences are DDC 300"!
+
+Even, if we were to learn the new numbers, the new system introduces ambiguities—ambiguities that are not present in the current arrangement.
+
+By having a genre attached to a number—news is 700—we should expect to have all news under it. People like patterns and by definition patterns should be consistent. What happens to our expectations when we realise that one of our favourite programs does not fit the pattern? We lose trust in the arrangement. When this happens we go back to what we know best—memorise the damn numbers!
+
+What happens if we want to find all the HD channels? In the previous arrangement, all HD channels were grouped together. National Geographic HD (301), Discovery HD (302), History HD (303) and Sports HD (304) were all in sequence. Now they are all over the genres. They've become, in library speak, **distributed relatives**.
+
+Let's get a little technical here.
+
+By introducing genres, Starhub is actually building a **classification**. Most businesses do this. Amazon classifies its book and other products, Netflix classifies its movies, flower shops classify their bouquets, and so on.
+
+However, these companies classify for a purpose—to help their customers find their products and to make decisions by comparing the options—these companies market their categories. That's how they survive.
+
+Starhub on the other hand is using the categories for its internal purposes only. The viewers are still left to browse channels by numbers.
+
+## A new hope
+So, how can Starhub expose the genre labels and still avoid confusing people with the genres they currently have? It seems that they really have to think outside the box (sorry about the pun!).
+
+The first thing they can do is to fix the hierarchical classification itself and to embrace a classification that is more viewer-friendly and less ambiguous. The taxonomy world has such a classification and it is called a [faceted classification](http://en.wikipedia.org/wiki/Faceted_classification). A faceted classification reduces the ambiguities that plague a hierarchy-based classification.
+
+It works on the principle that each 'facet' represents a different way of looking at the same content. For example, one facet might be '**Audience**' – Kids, Teens and Adults; another might be '**Language**' – Chinese, Malay, Tamil and English.
+
+<table>
+  <caption>
+    TV channels- possible facets
+  </caption>
+  <tr>
+    <th scope="col">Genre</th>
+    <th scope="col">Audience</th>
+    <th scope="col">Language</th>
+    <th scope="col">HD/Standard</th>
+    <th scope="col">...</th>
+  </tr>
+  <tr>
+    <td valign="top" scope="col"><p>News<br />
+      Movies<br />
+      Sports<br />
+      Lifestyle<br />
+      Documentary<br />
+    …</p></td>
+    <td valign="top" scope="col"><p>Adults </p>
+    <p>Kids</p></td>
+    <td valign="top" scope="col"><p>English</p>
+    <p>Chinese</p>
+    <p>Malay</p>
+    <p>Tamil</p>
+    <p>...</p></td>
+    <td valign="top" scope="col"><p>Standard</p>
+    <p>HD</p></td>
+    <td valign="top" scope="col"> </td>
+  </tr>
+</table>
+
+Next, is to figure out how to get this classification to viewers.
+
+Getting a faceted classification on the web is manageable, but getting this classification to the TV screen or remote for channel surfing is a lot more challenging.
+
+We've done a quick sketch of how such a classification might be on the web (and possibly on the TV screen).
+
+(image: 03.png)
+
+(image: 04.png)
+
+Getting a faceted classification on the TV remote is more challenging. We are really looking at an iPhone-like interface. This is not something out of the blue though. Verizon is offering its US viewers another way to access channels—via their mobile phones.
+
+Note however that the Verizon interface is mimicking the standard controls found on a standard handset. That’s so lame! But their attempt shows an interest in using an interactive remote. We think it is just a matter of time before something more appropriate and more viewer-friendly comes along.
+
+Here is our quick sketch on a touch-based and interactive TV remote might work for surfing channels.
+
+(image: 05.png)
+
+## Conclusion
+In conclusion, Starhub's move to embrace genres is not unusual. It will be unusual if they don’t expose the genres to viewers in a useful way.
+
+Apple’s new iBook app on the iPad is facing similar problems with its categorisation. Mike Cane’s [scathing criticism](http://ipadtest.wordpress.com/2010/03/31/the-epub-ebooks-metadata-mess/) of the iBook’s ePub metadata format is a reminder that those looking to categorise large number of items need to get a handle on how to organise information to make it usable for end users.
+
+In the end, it's Starhub's call. They want to do something about this if they want. They can take ownership of this gap and create an innovative solution for it. Or, they can choose to sit on the aisles and wait for others to plate a solution.
+
+*Thanks to [Patrick Lambe](http://www.greenchameleon.com/) for giving feedback on the article*.

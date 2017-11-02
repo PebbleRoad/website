@@ -1,0 +1,63 @@
+Title: Front-end Developer
+
+----
+
+Summary: 
+
+----
+
+Body: 
+
+### About PebbleRoad
+
+PebbleRoad is a design company based in Singapore. We help companies turn complex, challenging problems into innovative solutions. 
+Yes, we build effective websites, intranets and apps, but we also help companies better manage their products by establishing strategies, guidelines and metrics to ensure that the products are managed well in the long run.
+
+We’re looking for a creative, motivated  front-end developer with strong skills in responsive design,javascript and CSS frameworks to join our team. You’ll be a key part of the design process, taking concepts from prototype to implementation.
+
+
+### Responsibilities
+
+* Build HTML, CSS and JS prototypes to validate early interface concepts
+* Work with creative team to convert designs to HTML, ensuring pixel-perfection
+* Work with server-side APIs written in various frameworks to develop Javascript Single page apps.
+* Experience with React or other Javascript frameworks such as Ember, Angular
+* Strong knowledge of Web standards and keeping up-to-date with new, upcoming technologies
+* Contributing to the overall user experience of project/product (website/app) from a technical standpoint
+
+
+### Skills and requirements
+
+* 2+ years of related experience
+* Strong HTML, CSS and Javascript skills
+* Strong knowledge of client side javascript and javascript frameworks
+* Knowledge of CSS pre­-processors such as Sass
+* Responsive design
+* Knowledge of Photoshop or Sketch
+* Knowledge and experience of build tools such as Gulp or Grunt
+* Knowledge and experience of GIT version control system
+* What work environment you can expect
+
+We’re an ideas company so we’ve made the environment conducive to create and work with ideas. Here are some things you can expect.
+
+* An environment that fits your natural working style 
+* Nice and helpful teammates you can rely on
+* A library of over 300 books (and growing everyday)
+* Access to databases from business to creative
+* Access to a network of professionals from all around the world
+
+### What you need to have
+
+We would love to see you, your passion, and your portfolio! Do drop us an email at info@pebbleroad.com or give us a call at +65 6736 2180 and let’s meet!
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Category: 

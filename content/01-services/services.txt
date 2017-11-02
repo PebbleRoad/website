@@ -1,0 +1,102 @@
+Title: Services
+
+----
+
+Summary: Since 2004, we've done over 100 projects across many industries and sectors. Many of them challenged our thinking and pushed our capabilities. We offer this experience and resolve to help realise your digital ambitions.
+
+----
+
+Services: 
+
+- 
+  name: Website and app design
+  blurb: Website and app design
+  description: |
+    The demands on websites and apps have risen dramatically over the last few years. We now have to cater to multiple devices, users and channels. New disciplines and developments such as UI animations and conversational UIs have come to the rescue. We are at the forefront of these developments and bring this knowledge to the projects we do.
+    
+    The activities we do in a website and app project include:
+    
+    * Analyse top tasks
+    * Create microcopy guidelines
+    * Create UI patterns
+    * Define the information architecture
+    * Design interactions and task flows
+    * Design the user interface
+    
+    Have a website or app design project you like some help on? (link: http://www.pebbleroad.com/contact text: I'd love to hear all about it). I'm Vasu Kolla and I lead the website and app design practice for PebbleRoad.
+    
+    If you like to join a community of interaction designers in Singapore we invite you to join the (link: http://www.meetup.com/IxDA-Singapore/​ text:Interaction Design Association (IxDA) of Singapore).​ PebbleRoad​ is an active member of IxDA Singapore.
+  clients: "Digi, Malaysia; Inland Revenue Authority of Singapore; Ministry of Defence, Singapore; Ministry of Manpower, Singapore; Prime Minister's Office, Singapore"
+  case:
+  body:
+- 
+  name: Content strategy
+  blurb: Content strategy
+  description: |
+    Content is the cornerstone of digital products. The challenge is to sustain the production of high-quality content beyond the first cycle. We can help define a robust and sustainable content strategy to meet specific business requirements.
+    
+    The activities we do in a content strategy project include:
+    
+    * Define content principles
+    * Create voice and tone guidelines
+    * Design content types and metadata
+    * Design content patterns
+    * Create content workflows
+    * Develop content measurement frameworks
+    
+    Have a content problem you need some work on? (link: http://www.pebbleroad.com/contact text:I'd love to hear all about it). I'm Christine Oon and I lead the content strategy practice for PebbleRoad.
+    
+    If you are new to content strategy, we invite you to join the (link: http://www.meetup.com/Content-Strategy-Singapore/ text: Content Strategy Singapore meetup). It is where content strategists in Singapore meet, share and learn together.
+  clients: 'Asian Development Bank, Philippines;  DBS Bank, Singapore ; Ministry of Defence, Singapore;  Ministry of Manpower, Singapore; National Population and Talent Division, Singapore'
+  case:
+  body:
+- 
+  name: Service design
+  blurb: Service design
+  description: |
+    Service design focuses on optimising or redesigning service offerings. Projects we've worked on include the redesign of a procurement process, employee onboarding services and self-service support website.
+    
+    The activities we do in a service design project include:
+    
+    * Conduct customer research
+    * Develop personas and job stories
+    * Map customer journeys
+    * Create solution concepts
+    * Run design sprints
+    
+    Have a service design idea you want to explore? (link:http://www.pebbleroad.com/contact text: I'd love to hear all about it). I'm Simon Goh and I lead the service design practice for PebbleRoad.
+    
+    If you are new to service design, we invite you to join the (link: http://www.meetup.com/service-design-singapore/ text: Service Design Singapore meetup). It is where service designers in Singapore meet, share and learn together.
+  clients: >
+    Digi, Malaysia; Infocomm Development
+    Authority, Singapore; International
+    Enterprise, Singapore; Ministry of
+    Manpower, Singapore; Telenor, Norway
+  case:
+  body:
+- 
+  name: Digital workplace strategy
+  blurb: Digital workplace strategy
+  description: |
+    Digital can bring big productivity enhancements to the workplace. The real challenge is getting buy-in and having the resolve to carry out the changes. We have the experience to help you craft strategies to help make the case for change and build proof-of-concepts where necessary.
+    
+    The activities we do in a website and app project include:
+    
+    * Study staff behaviour
+    * Identify opportunities
+    * Select pilot projects
+    * Design projects
+    * Analyse organisation readiness to change
+    * Outline governance requirements
+    
+    Have an intranet or digital workplace project you need help on? (link: http://www.pebbleroad.com/contact text: I'd love to hear all about it). I'm Maish Nichani and I lead the digital workplace practice for PebbleRoad.
+    
+    If you like to join a community to learn about the information requirements of digital workplaces, we invite you to check out and join the (link: http://www.iskosg.org text:International Society for Knowledge Organisation (ISKO) Singapore​). PebbleRoad is an institutional member of ISKO Singapore.
+  clients: >
+    Infocomm Development Authority,
+    Singapore; International Enterprise
+    Singapore; Singtel, Singapore; Workforce
+    Development Agency, Singapore; Jurong
+    Town Corporation, Singapore
+  case:
+  body:

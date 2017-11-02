@@ -1,0 +1,108 @@
+Title: Using wikis on the intranet: The British Council case study
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2006-06-22
+
+----
+
+Category: Intranet Design,Collaboration
+
+----
+
+Summary: Wikis are increasingly being used on the intranet to help in collaboration around shared work. However, many case studies only briefly cover the actual work practices that successfully accommodate wikis; the focus is still on the overall reactions of the managers and staff on their use. In this article, I describe how wikis are used in the Singapore branch of the British Council and highlight the characteristics of the work practices that accommodate them.
+
+----
+
+Body: 
+
+## Introduction
+The British Council is the United Kingdom's international organisation for education, cultural relations and development services, with centres in 110 countries. In Singapore, they focus on seven areas of activity, from collaborating on arts & design programmes to offering professional development courses to conducing UK examinations. In this case study, we’ll focus on their professional development (PD) activity.
+
+Under PD, the British Council offers corporate training, teacher training and employability skills training. Qualified teachers and training consultants conduct these courses. To maintain the quality of the learning experience and uphold the British Council brand, these people have to be at the top of their game, always. This not only means having to know better about the courses they teach but also having to know wider about the new courses they have to write. Add to this mix the seasonal demands, quality compliance and administrative obligations, it’s not difficult to see why the calendar is often their best companion.
+
+And that’s exactly how events unfolded when I called up Mark Hamilton, the communication skills expert and the designated KM manager, to discuss this case study. He pulled up his calendar and could only offer me his lunch break time. He was chock-a-block full till September. I took him up on the lunch break offer!
+
+## Culture of negotiation
+Mark is a classic ‘bricoleur’—a tinkerer. He stumbled upon a wiki software, JotSpot, and experimented with it at home, found it useful and championed its use inside the British Council.
+
+However, he carefully pointed out that even though he found use for the wiki inside the British Council, it wouldn’t have taken off if it were not for the ‘culture of negotiation’ that already existed within the organisation. It is in this culture of negotiation that people are aware that they don’t know everything; that others know different things; and through dialogue and negotiation, they can together create better things.
+
+Mark chose the lunch break event to describe a manifestation of this culture. Lunch breaks are ‘talkative’ events. Apart from the usual sharing of jokes, the conversations at lunch revolved around work. It could be some new information about a client or a new story that might be useful or it could be about asking and sharing of resources or about training equipment; the stuff one would let go by if it weren’t for the easy access the lunch breaks provided.
+
+And the name they’ve chosen for the wiki – ilovemypdc – affirms some of that culture (PDC stands for Professional Development Centre). 
+
+## Wiki-able work practices
+Here are some of the work practices that accommodated the use of the wiki better than others.
+
+### Monthly meetings
+Every month, the PDC staff meet to discuss work related issues such as staff movement, contracts, new courses, etc. The process used to be something like this:
+
+* Agenda for meeting is drawn up, usually by asking staff to write down their items on a bulletin board placed in the staff room
+* Minutes of the meeting are written down after the meeting
+* Minutes are distributed via email (MS-Word documents)
+
+The downside of this approach, as PDC observed, was that some staff could not easily add to the agenda because, prior to the meeting, they were delivering training off-site at a client’s offices. Furthermore, the minutes of the meeting emails would usually roll off their attention zone rather quickly (email overload), and thus, there was a lack of commitment to the action points mentioned in the meeting.
+
+With the wiki in place, the PDC tweaked the process to encourage more clarity on the items discussed and more commitment to following up on the action points. Here’s what they are doing now:
+
+* Staff members write down agenda items on the wiki from home, work or from wherever they have access to the internet. This gives them more “space” to explain their items in more detail before the meeting
+* Minutes of the meeting are sometimes written directly on the wiki during the meeting
+* Minutes are always read on the wiki. They’re also easy to find because they’re on the homepage of the wiki
+* All subsequent follow-up is done on the wiki
+
+This simple tweak in the process not only provided for more fruitful meetings, but also surfaced more commitment from the staff to follow-up on their items.
+
+### Development day
+Every quarter, the PDC holds a staff ‘Development Day’ where all staff meet to work on an area of their work: to share best practice, lessons learned and to find new ways to improve product and service delivery.
+
+In the past, the brainstorming work done on these days was recorded on paper, given to a group leader, who would transcribe the notes into an MS-Word document, which would be attached to an email and sent to each person on the team. The result: multiple copies with many unique owners.
+
+Now the work is done directly on the wiki: a much simpler process and a more accessible product. The authors of the original page can also continue to collaborate on that page long after the Development Day has passed. The result: one unique document with multiple owners.
+
+### Company information
+The PDC works for corporate clients. And the more the trainers can know about these clients the better they can fit the courses to their needs. Thus, having details about their clients is an important competitive factor.
+But this activity usually took place in a very ad-hoc manner, usually by way of the lunchtime discussions. This meant that the only way for staff to get hold of this kind of information was to “stumble” upon it. Not anymore.
+
+With the wiki, trainers can share information and experience relevant to training delivery, to ensure that they meet the needs and expectations of their course participants. This is a classic case of bottom-up experiences bringing about a collective good.
+
+The wiki page helps to profile the typical participant from each company, their level of knowledge and the courses they’ve already attended. Having this kind of information at their fingertips makes the trainers aware and confident about future client dealings, a massive plus in this hyper-competitive training marketplace.
+
+### Bug reporter
+The PDC staff write many courses. These courses have to be of top-notch quality to uphold the British Council brand. But at times, bugs (typos, spelling, etc.) do slip in. Although they have a simple taxonomy for these bugs, the process was ad-hoc at best.
+
+With the wiki, they’ve found a low-fidelity solution to a potentially vexing problem, thanks to a special application that the wiki program JotSpot offers. All bugs that are found are documented on a wiki page. The software then sends out an email to the person responsible for the course (the Course Manager) informing them of the bug. Once the Course Manager corrects the bug, they update the wiki page, this automatically informs others that the bug stands corrected.
+
+Again, like the company information bit, the big benefits of this activity are the awareness and the confidence it brings to staff.
+
+### Timetable management
+As pointed out before, the PDC staff live off a fluid timetable that changes depending on demand, client preferences, new courses, current changes, etc. The timetable is updated on a needs basis and a soft copy saved to a common drive. A paper copy of the latest version is also posted on the staffroom notice board once or twice a week. Until the wiki came along, this was the only means that trainers had of knowing if their timetable had changed. Basically, they had to come into the office.
+
+This created some problems because PDC trainers - constantly on the move, some of them even working from their homes – did not have easy access to their most recent timetable. This resulted in ad-hoc emails and an increase in the number of phone calls, especially from trainers working off-site. This resulted in frustration and uncertainty: frustration for the Timetable Manager who had to try to contact trainers to notify them of changes; and uncertainty for the trainers who would feel compelled to call in to see if their timetable had changed.
+
+All of these problems have gone away thanks to a single wiki page. Now, the Timetable Manager updates the timetable on a weekly basis, and she does this by sending an email to a single wiki page, which automatically uploads the Excel spreadsheet. The latest timetable is always on top and the wiki page is available to all, externally and internally. Trainers have come to rely on this as ‘the first place to look’.
+
+### Specific projects
+With their confidence high with the wiki, the staff are bringing more projects into the wiki space. As Mark noted, these projects have one thing in common: a strong, compelling reason for collaboration.
+
+**Job plans**: As part of the British Council’s performance management system, all staff produce a job plan stating the goals they have for the year ahead. Since the PDC trainers are so mobile, they rarely get a chance to share their plans, goals aspirations and interests. Trainers want to know what their colleagues are doing so that they can collaborate. The wiki has made this much easier to do. Now all PDC staff have one page where they can all add a bulleted summary of their job plans and read and reflect on everyone else’s. This now means that staff can more easily identify colleagues with similar plans, interests and goals making it much easier for them to decide who to collaborate with.
+
+**Course-writing dates**:  There is often a scheduling conflict between course training days and course writing days. Trainers often find it difficult to fit course writing within a hectic training schedule.
+
+After a course management meeting where several wiki pages were created, one wiki page was set up specifically to focus on this issue. Several people were involved in the authoring of this page, all adding their differing points of view – sometimes complimentary, sometimes conflicting. Negotiation quickly became central to this collaboration for both the content and the editorial process. As Mark noted, there are facets of the problem that would not have been identified were it not for this negotiation process. For example, currently the focus is on getting clarity on what it takes to write a course in the first place – a non-thinkable item for most meetings.
+
+## Conclusion
+
+Wikis offer a simple shared space to collaborate on things that really matter. This does not translate into the “build it and they will come” thinking. Rather, as described in this article, wikis will work only if all of the following are present:
+
+* The right culture. The talking, negotiating type.
+* A practical, compelling reason to collaborate, to share (it helps if they are a number of practical, compelling reasons).
+* A champion who can show the way.
+
+As wikis go mainstream, they are going to morph into different things, for different reasons, some even designed to bypass the simple rules mentioned above. If much of that happens then we can expect to see failures. But if we can steer away from the lure of finding an easy way out, we can expect the wikis to pave way for a new way of work, much like the blogs paved the way for a new kind of internet! 
+
+*I would like to thank [Mark Hamilton](http://www.britishcouncil.org/sg-english-profiles-pdc-mark-hamilton.htm) of the British Council, Singapore, for his time and effort in helping me write this case study. I would also like to thank [Patrick Lambe](http://www.greenchameleon.com/) for his editorial inputs.*

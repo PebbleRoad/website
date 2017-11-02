@@ -1,0 +1,27 @@
+Title: The barn raising method for content reviews
+
+----
+
+Author: Maish Nichani, Christine Oon
+
+----
+
+Date: 2015-02-11
+
+----
+
+Category: Content Strategy, Content Design
+
+----
+
+Summary: A process for doing collective content reviews and evaluations.
+
+----
+
+Body: 
+
+Content reviews are often the most challenging part of the content development process. They can be made even more challenging in large organisations, where one piece of content could have many owners from different departments. How do you make sure that everyone who needs to see the content gets their say, that the input is coherent and that it all gets done in time?
+
+We faced this problem when redesigning a Singapore government website. The redesign was part of the ministry’s efforts to improve customer experience on the website. The website is quite large, with over 1,000 web pages owned by many different departments. We had to rewrite and review each page and the number of reviewers and approvers made us uneasy about completing the project in three months. But we did. And it was largely due a review process called barn raising.
+
+[Read the full article on the Gather Content blog](https://blog.gathercontent.com/barn-raising-method-content-reviews).

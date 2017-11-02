@@ -1,0 +1,57 @@
+Title: Mapping your website redesign strategy
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2007-01-27
+
+----
+
+Category: Information Architecture,Content Strategy
+
+----
+
+Summary: In this article I adapt a popular business strategy method and map it to  website redesign strategy.
+
+----
+
+Body: 
+
+## Introduction
+The Eliminate, Reduce, Raise, Create framework by INSEAD professors W. Chan Kim and Renée Mauborgne is a popular technique for analysing business strategy. They have written an entire book—Blue Ocean Strategy—on this technique. We’re going to borrow a page from it to map our redesign strategy.
+
+The framework embodies 4 actions:
+
+1. Eliminate what is redundant, outdated or trivial and providing no value
+1. Reduce what isn’t providing enough value
+1. Raise what has the potential to add more value
+1. Create what isn’t available yet but can bring more value
+
+These 4 actions represent a reservoir of questions that can be asked about our content. But these questions need a direction. This is provided by the goals of the redesign. The stage is now set for using our background knowledge and research findings to provide answers to these questions
+
+Here’s the setup.
+
+(image: 01.jpg alt: Redesign strategy setup title: Redesign strategy setup)
+
+As in any strategy building exercise, the magic is in asking the right questions. And the closer we are to the ground, the better the questions get.
+
+Let’s move forward with a scenario.
+
+## A scenario
+Background: A client wants you to redesign their executive education website. The website provides working adults access to short-term courses to bridge their learning gaps and make them more productive. You do a first-pass, lightweight research by talking to few customers, visiting competitor websites, doing a content audit and looking at search logs. You decide to focus on one of the business goals, which is to increase customer loyalty. Here’s how you use the Eliminate, Reduce, Raise & Create to take things ahead. 
+
+**Step 1**: You facilitate a session with your team and ask the right questions around each action point. After a couple of hours you populate the grid. Here’s what it looks like.
+
+(image: 02.jpg alt:Eliminate-Reduce-Raise-Create framework title: Eliminate-Reduce-Raise-Create framework)
+
+**Step 2**: You repeat the process with other important business goals. You build a big list. Note that some of the items represent larger business issues.
+
+**Step 3**: You can’t do all of what you’ve outlined. You need to focus on what can be done in the short-term. You hold a prioritisation session to set the short-term directions.
+
+And you’re on your way, more focused and more confident than before this exercise.
+
+## Conclusion
+There are many methods to map design strategy. I use this because it is simple to understand and execute. Although this is a quick technique to get you on your way, it’s important to note that the success of this technique depends on the success of related skills and methods like user research, facilitation, prioritisation and knowledge of good design. The knowledge will always drive the method.

@@ -1,0 +1,169 @@
+Title: Creating and maintaining a web style guide
+
+----
+
+Author: Maish Nichani
+
+----
+
+Date: 2006-05-27
+
+----
+
+Category: Design Strategy
+
+----
+
+Summary: This article describes how to create and maintain a web style guide to better manage your organisation’s web presence.
+
+----
+
+Body: 
+
+## What is a web style guide?
+A web style guide is a key deliverable at the end of a website design/redesign process. It is a document (usually a subsite in itself) that describes what needs to be done to maintain and grow the website according to a common set of principles derived during the design or redesign process.
+
+A style guide will be referred to whenever a new content, new structure or new systems are introduced. Thus, the guide is essential for content authors, web designers, information architects and web developers to frame their thought processes when adding or changing content on the website.
+
+Needless to say that a web style guide is more appropriate when dealing with large corporate websites or intranets where branding matters and where there are multiple stakeholders or teams looking after different portions of the website.
+
+## Why do we need a web style guide?
+A web style guide helps in communicating the framework under which changes are to be made to the website.
+
+You may have spent a lot of time and effort in coming up with a usable and useful website, but if subsequent changes are not aligned with the initial thinking, then the website can quickly return to its former state. The web style guide gives you a framework to avoid such situations.
+
+As another example, let’s assume that you are in the process of setting up different intranet systems such as a content management system, document management or record management systems, having a style guide in this case can help frame the development process of these systems to provide a unified web experience to your staff.
+
+But does that mean that the guidelines are cast in stone? No. The trick here is to create the guidelines based on principles rather than on rules. Having a rigid system will not work, but knowing the principles and their boundaries will ensure that your website is in tune with the many structural and visual changes that can benefit users.
+
+A web style guide is closely related to branding. And the two brand-related situations where it can be used are shown below:
+
+(image: 01.jpg alt: Branded House vs. House of Brands)
+
+**Branded-house**: Here the parent company brand permeates business units (e.g., Philips, LG, Yamaha). The guidelines in this case can be more controlled.
+
+**House-of-brands**: Here the parent company’s business units are brand in themselves (Clorox – Hidden Valley Ranch, etc.). The guidelines can be more flexible in this case, allowing for each brand to shine on its own and at the same time keeping the parent relationship just about apparent.
+
+As can be seen, at one extreme you’ll want a tight integration with the parent brand, and at the other, you’ll want only a passing mention. And if you're somewhere in between, you’ll want a balance. Whatever the case may be, a style guide can help contribute to the brand framework. 
+
+## What goes into a web style guide?
+The items that go into a web style guide really depend on the perceived use(s) of the guide. Given below is the table of contents of a recent web style guide that was included as part of a set of governance deliverables for an information architecture project. In this case, the guide was to be used by subsidiary departments and divisions of the parent organisation to setup their own websites. 
+
+Also, since a content management system (CMS) was to be used to manage these websites, the guidelines were written from a template perspective.
+
+Web style guide TOC:
+
+* Why is this style guide important?
+* When should we use this guide?
+* What are ‘templates’ and why should we care?
+* Information architecture guidelines
+* Using the [company] logo
+* Masthead (or header)
+* Footer
+* Color palette
+* Typography
+* Images & media
+* Accessibility
+* Authoring guidelines (or how to write web content)
+* Legal considerations (or web policies)
+* Technology considerations
+* Templates/CSS downloads
+* Contact & support information
+
+When applicable, I use the following instructional model to communicate each item:
+
+* The guidelines
+* Examples (or how flexible can we be?)
+* Non-examples
+* XHTML code (if any)
+* CSS rules (if any)
+* Downloads (if any)
+
+Some items are explained below (the others are quite self-explanatory).
+
+### Templates
+These days, websites, even the small ones, are managed using some sort of a content management system (CMS). And ‘templates’ are at the heart of a CMS. Providing a good overview of how templates are assembled and a link to existing templates can be a boon to those who want to quickly set up their pages.
+
+Typical sections may include:
+
+* What are templates?
+* Deconstructing the [company] templates
+* Using the [company] templates
+* Download templates (link to Templates/CSS downloads)
+* What components cannot be changed?
+* What components can be customised?
+* How can I create new templates?
+* Resources on the web
+
+(image: 02.jpg alt: Templates)
+
+### Information architecture guidelines
+This is usually a summary of a more detailed IA report where content organisation, labelling and navigation structures are outlined. Sections may include:
+
+* Chunking & organising content (with examples)
+* Using appropriate labels (usually a link to a vocabulary list)
+* Using the navigation scheme
+* Testing your choices out (link to a description of simple methods to test out if their change is effective)
+
+(image: 03.jpg alt: IA guidelines)
+
+In my opinion, "IA thinking" is one of those things that can help build sense of a shared purpose. If people responsible for the website subscribe to its philosophy, it can only but help the greater cause – providing a better user experience.
+
+### Authoring guidelines
+This is a critical portion of the web style guide, so much so that many choose to treat it independently in the form of a “web content style guide”. Gerry McGovern’s book of the same name is a useful reference here. But again, knowing the nature of web work, there is a need to provide some simple guidelines to get things moving. In such a case, providing a gist of what needs to be done, along with a more detailed document might be the appropriate strategy. This is where the authoring guidelines come in.
+
+Typical sections may include:
+
+* Trim that text!
+* Chunk it up
+* Use microcontent to provide context and structure
+* Use hypertext to provide breadth and depth
+* Use the inverted pyramid style
+* A bit about XHTML
+
+Another handy reference is [*Hot Text – Web writing that works*](http://www.webwritingthatworks.com/).
+
+### HTML/CSS downloads
+This item is a must. More often than not, this is where much of the action takes place. Furthermore, this item is always expanding, at least it should be. For example, if there is a deep need for a Flickr like gallery page, the code (both XHTML and CSS) could be added to this item.
+
+Typical sections may include:
+
+Main templates
+
+* XHTML source
+* CSS file
+* Screenshot
+
+Flickr-like gallery page
+
+* XHTML source (CSS embedded)
+* Annotated screenshot
+
+Need an example? Check out the University of Florida’s [template page](http://www.webadmin.ufl.edu/resources/templates/index.html).
+
+### Contact & support information
+Needless to say that without this item, there isn’t going to be that shared responsibility to maintain the website. This not only a feedback channel, but also a commitment channel. It gives a clear message that maintaining the website is serious business and the company intends to do it well.
+
+Typical sections may include:
+
+* Contact information. Direct contact to the people looking after the style guide.
+* Suggestion box. Stuff that developers would want included in the style guide. A wiki might help with this issue.
+* Frequently asked questions (FAQs). These are based on the queries that the support staff gets.
+
+## How to maintain a web style guide?
+It’s one thing to create a web style guide, but it’s totally a different matter to keep it updated. And keeping it updated is a matter of policy and representation. By representation I mean the ease of use of the guidelines, which boils down to providing "how-to" knowledge rather than just describing the guidelines. If there‘s no policy or if executing the policy is difficult then the utility of the web style guide will erode over time.
+
+Also, it’s best to keep the style guide online, and manage it like you would manage any of your other websites.
+
+One of the best style guides I’ve come across is the University of Monash style guide. The style guide is a subsite and detailed information is provided for all items. From the looks of it, a lot of effort is going into maintaining this guide (its at version 2 at the moment). Check it out at (link: http://www.monash.edu.au/staff/web/).
+
+In fact, the more I think about it, a blog or a wiki could be ideal tools to manage a web style guide.
+
+## Conclusion
+Designs and redesigns are a costly and time-consuming affair. And just like any other knowledge-intensive activity the sense of clarity will slowly erode if no care is taken to keep it alive. A web style guide makes sure that the purpose and clarity of the design is kept alive.
+
+This article describes one approach to create a web style guide; there are more out there. You should use an approach that meets the needs of the business and the team responsible for maintaining the website.
+
+Resources
+
+I’ve collected web style guide links under the “styleguide” tag in my del.icio.us account: (link: http://del.icio.us/maish/styleguide). Enjoy!

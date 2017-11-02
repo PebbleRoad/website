@@ -1,0 +1,1409 @@
+{
+ "kind": "plus#activityFeed",
+ "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/n5kfob8y9x1d83_lbUSB5pNnbJo\"",
+ "nextPageToken": "ADSJ_i3zMre4iIymY8Pnan3-Px8HWWdACbSCqcBA7kATsSVQMRVcNKGG-JPzb5F-buk5X9SDrnG2OU-p5X_w3l8T7JxjctIAuksg1cbVl_1dqfRRo7cfrwyaO9lbtTQk",
+ "title": "Google+ List of Activities for Collection PUBLIC",
+ "updated": "2017-04-27T02:01:56.088Z",
+ "items": [
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/CLzciVuuCzYkOmGzvaUiHe-KhRk\"",
+   "title": "Bought insurance in Singapore before? Take part our study. You'll get $50 if you're chosen",
+   "published": "2017-04-27T02:01:56.088Z",
+   "updated": "2017-04-27T02:01:56.088Z",
+   "id": "z12vh5tigqybctw4v04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/T5C1vTMddN5",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Bought insurance in Singapore before? Take part our study. You&#39;ll get $50 if you&#39;re chosen",
+    "url": "https://plus.google.com/+PebbleRoad/posts/T5C1vTMddN5",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vh5tigqybctw4v04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vh5tigqybctw4v04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12vh5tigqybctw4v04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "buff.ly/2oO6OlJ",
+      "url": "http://buff.ly/2oO6OlJ"
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/Zqq120P9ilqm8eD9L9NxsE-qIZw\"",
+   "title": "We have a full house for the Service Design meetup tmrw on Running Design Springs in organisations.",
+   "published": "2017-04-25T10:45:24.727Z",
+   "updated": "2017-04-25T10:45:24.727Z",
+   "id": "z13bwfyh5oehiphg404cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/P9eRKcicmYr",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "We have a full house for the Service Design meetup tmrw on Running Design Springs in organisations.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/P9eRKcicmYr",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bwfyh5oehiphg404cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bwfyh5oehiphg404cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13bwfyh5oehiphg404cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "buff.ly/2q1Kqcd",
+      "url": "http://buff.ly/2q1Kqcd"
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/7JJC0DTaZOAoc0_BAz8QaCSxZh0\"",
+   "title": "Service Design Singapore meetup: Running Design Sprints In Organizations\nApril 26, 7pm.",
+   "published": "2017-04-18T02:20:11.623Z",
+   "updated": "2017-04-18T02:20:11.623Z",
+   "id": "z13xyt0zlvumvdcng23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/K7LuLwvbGKk",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Service Design Singapore meetup: Running Design Sprints In Organizations\u003cbr /\u003eApril 26, 7pm.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/K7LuLwvbGKk",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyt0zlvumvdcng23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyt0zlvumvdcng23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyt0zlvumvdcng23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Running Design Sprints In Organizations",
+      "content": "Design, prototype and test a solution in just 5 days - that's the idea behind the Design Sprint. This process is getting a lot of attention lately, and books have even been written about it. But not everyone is on board; some have even likened it to \"snake oil\".  What are Design Sprints? What problem are they trying to solve? How do you run a successful sprint? And what are the pitfalls to avoid? In this meetup, Simon will share what he has learn...",
+      "url": "http://buff.ly/2psRbDw",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/rxeJudak53HBingH5lgLghCzWbhT0imtIV-lbBOhSiKn_OVTqN1YJzTuFLLz-XQoLjkClInG-tqNN2xjKZgVRJuhyyOcC8rWZeR6Icsfv4jbXN5KZV4CToQN1A=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://secure.meetupstatic.com/photos/event/8/c/e/c/highres_450636076.jpeg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/pxc0aijcphxChOyZdK9iviEn40g\"",
+   "title": "New Content Strategy Singapore meetup:\nDefining Content Workflows\nJoin us on April 27, 7pm.",
+   "published": "2017-04-17T13:35:11.871Z",
+   "updated": "2017-04-17T13:35:11.871Z",
+   "id": "z12bhplb1sryexnxn04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/X3YHymBBFLR",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "New Content Strategy Singapore meetup:\u003cbr /\u003eDefining Content Workflows\u003cbr /\u003eJoin us on April 27, 7pm.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/X3YHymBBFLR",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bhplb1sryexnxn04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bhplb1sryexnxn04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12bhplb1sryexnxn04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Defining content workflows",
+      "content": "A content workflow establishes the process for requesting, creating, reviewing and publishing specific types of content. It is the key to sustaining your content strategy. Without it, we soon descend into content chaos – reactive publishing, late delivery, endless review cycles and broken user experiences. How do we steer content through the multiple people and systems involved? And how do we ensure that what we publish is timely, useful, clear, ...",
+      "url": "http://buff.ly/2pq4zZ5",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/Hg2LNpHdwKsuFe6-i00vBi_YEZiMUmU5I_qvU3SKH4npBPSV_comBX2MExPFFn8G5soAEgkWBsR-zwXuCYzsIIcNpiHvD7XI2BHCMSzv4Etyjr_Bhhvbyfdhr93M_rSUxvkHlDmMmTnGsQ=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://secure.meetupstatic.com/s/img/786824251364989575000/logo/swarm/m_swarm_630x630.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/gwqd27UuAve_LFMd2MfoQesGM-0\"",
+   "title": "ISKO SG Event: Predicting crowds in the Shanghai metro",
+   "published": "2017-04-17T04:17:32.115Z",
+   "updated": "2017-04-17T04:17:32.115Z",
+   "id": "z13fyzvqazikwjvxq04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/Xb5pAMwHGez",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "ISKO SG Event: Predicting crowds in the Shanghai metro",
+    "url": "https://plus.google.com/+PebbleRoad/posts/Xb5pAMwHGez",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fyzvqazikwjvxq04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fyzvqazikwjvxq04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fyzvqazikwjvxq04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Predicting_Crowds",
+      "content": "If you'd been able to predict how crowded the metro was going to be, you might have decided to go get a latte and read your email before heading underground! To empower passengers to make such...",
+      "url": "http://buff.ly/2pohoDv",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/5oOu8lT9acX2WUvHQ4X57YICoJO-Q-CMve_yb_oPuSwL2kFP-vAHhDNvXF-ZE0zwZbKfu9KyNaucbk9hZ6L01Pz9GJTzIU7tzEFA03Q=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://www.iskosg.org/uploads/3/8/2/6/38261647/1443436482.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/WUURHR_LTE18tJA7OKjXvuobB1c\"",
+   "title": "Google has released a resource kit for running design sprints.",
+   "published": "2017-04-16T22:27:44.671Z",
+   "updated": "2017-04-16T22:27:44.671Z",
+   "id": "z13hs1e4yq2ztzapz04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/YyvrP3ctS2v",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Google has released a resource kit for running design sprints.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/YyvrP3ctS2v",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hs1e4yq2ztzapz04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hs1e4yq2ztzapz04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hs1e4yq2ztzapz04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Design Sprint Kit",
+      "url": "http://buff.ly/2pnnCU7",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/AvvizhvjeqLtXloD1aKDR0cQptFTx4lSwgC2oL7vy3WZhtm-9HqaPOttd9Vu3WV4ihqOPayYcGGnWTUZVXFEjgEe84iVNMIQL5dvXD0adjPGmwA=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://designsprintkit.storage.googleapis.com/media/heros/HOME.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/GCQd_f25ayB9fhs0602gX70gn6U\"",
+   "title": "Machine learning for deigners",
+   "published": "2017-04-11T22:01:10.223Z",
+   "updated": "2017-04-11T22:01:10.223Z",
+   "id": "z133gpgxemayjbh1j23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/8vyAdbLyxyj",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Machine learning for deigners",
+    "url": "https://plus.google.com/+PebbleRoad/posts/8vyAdbLyxyj",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133gpgxemayjbh1j23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133gpgxemayjbh1j23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133gpgxemayjbh1j23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Machine Learning for Designers - O'Reilly Media",
+      "url": "http://buff.ly/2o27x1v",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/uY1GsSTx6tCK1Q2hZ4u2zjPdu9iQpcJmRR7-fbxDUJOu9F3Kcpw7qJMCfkvmpVXa1AJQfnP4pC-dUNVHgDMg6R57JPP0O9oo3940vNBUO1UA5ghn_qq9=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/PY35LTpezEAmqK61dX4NqTm9gwY\"",
+   "title": "11 Amazing Facts You Might Not Know About Chatbots",
+   "published": "2017-04-06T23:52:27.436Z",
+   "updated": "2017-04-06T23:52:27.436Z",
+   "id": "z13hybb4etjqz5uro04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/hxD33iWGnQA",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "11 Amazing Facts You Might Not Know About Chatbots",
+    "url": "https://plus.google.com/+PebbleRoad/posts/hxD33iWGnQA",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hybb4etjqz5uro04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hybb4etjqz5uro04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hybb4etjqz5uro04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "11 Amazing Facts You Might Not Know About Chatbots – The Mission – Medium",
+      "content": "What is a chatbot? They come in two flavors:",
+      "url": "http://buff.ly/2oGbr4y",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/wpFG4AUf84GsNo9o1z0OdtA_ySWDI8dmQHlOOHUE2QBuQ0AY2TebSVeK4FcCkpa7Cwlzh4rNiwsspac4Ecm8bh5NTtZrde1chiJXH7nhl7nlJswL854=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://cdn-images-1.medium.com/max/1200/1*RmORFHP6VDVjm5Z9frQq-Q.jpeg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/9gMVs5o90AJiBwnFZvwC_pr_4Rs\"",
+   "title": "\"And if you skip the map phase and go right to the interface, I guarantee you it's going to be a mess...",
+   "published": "2017-04-04T22:01:28.719Z",
+   "updated": "2017-04-04T22:01:28.719Z",
+   "id": "z12fs5kpionfypbmr23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/FbM4YKwqzMk",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "&quot;And if you skip the map phase and go right to the interface, I guarantee you it&#39;s going to be a mess.&quot;",
+    "url": "https://plus.google.com/+PebbleRoad/posts/FbM4YKwqzMk",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fs5kpionfypbmr23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fs5kpionfypbmr23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fs5kpionfypbmr23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Noah Iliinsky on design at Amazon - O'Reilly Media",
+      "url": "http://buff.ly/2oFLPld",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/qwDaXH1RDBojxEs7bPMtmnKIADPC_8wDFIG55GBA5CwG9JaAEdFdMTPlWNyO32TvdkVcO5GX_Cw7rM3TFgsRH5mz00GqBN5muD4_d6Fw-6x7b7L3ocsyWQ69-fMScLx8mf48vP3cXoBBIpF68fTmiwXJTuiqpVyZh5iHW_jjpxs=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://d3tdunqjn7n0wj.cloudfront.net/1400x933/6894587439_974ab704d5_o_crop-7abf5d851f7926e9dcc6bb7f30d0a3a7.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/oOpHsxKp4NyVBW5FcJTnZLyEPqQ\"",
+   "title": "How to Break into UX Writing\nhttp://buff.ly/2oVBFfH\nNice list of resources.",
+   "published": "2017-04-04T15:06:05.562Z",
+   "updated": "2017-04-04T15:06:05.562Z",
+   "id": "z13xcvfw0zb0jlzmw23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/GZ8uQiUAwkm",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "How to Break into UX Writing\u003cbr /\u003e\u003ca href=\"http://buff.ly/2oVBFfH\" class=\"ot-anchor\"\u003ehttp://buff.ly/2oVBFfH\u003c/a\u003e\u003cbr /\u003eNice list of resources.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/GZ8uQiUAwkm",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xcvfw0zb0jlzmw23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xcvfw0zb0jlzmw23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xcvfw0zb0jlzmw23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "How to Break into UX Writing | UX Booth",
+      "content": "This week, author, editor, and content strategist Kristina Bjoran tells us how to get into UX Writing.",
+      "url": "http://buff.ly/2oVBFfH",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/EqkAx5eY0iiPWGlGNGMDH-AXK_f5xuof7e2G0UpiYSke0DwRaibnztA0phpNDRRjGqjPsMtvLb8YkiQXGM02VUAJXUD1l342XOHXcg=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://assets.uxbooth.com/uploads/2017/04/pexels-photo-1.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/00XeX2XkdfFpheb-kf4467TpHQM\"",
+   "title": "“Stop talking about digital when online is the default” by Fanny Carlsson",
+   "published": "2017-04-04T00:54:46.510Z",
+   "updated": "2017-04-04T00:54:46.510Z",
+   "id": "z13wjtubrka5dvvq304cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/Zm6iMGfNLB1",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "“Stop talking about digital when online is the default” by Fanny Carlsson",
+    "url": "https://plus.google.com/+PebbleRoad/posts/Zm6iMGfNLB1",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wjtubrka5dvvq304cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wjtubrka5dvvq304cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wjtubrka5dvvq304cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Stop talking about digital when online is the default – Daytona",
+      "content": "The number one problem with digitalisation is that many organisations STILL consider digital as an add-on to their operations, when in fact…",
+      "url": "http://buff.ly/2oSxpgW",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/NijjrBtJp6WJmolTKbAoQ1EkDnqJlUCViGaSoNuXBKN159wobErfMUoqYSENqIp1kdiw3b0GMdtUMH06P1YSCzmFEnbFCMJqtOBkzaRSJWIkuOOwoPg=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://cdn-images-1.medium.com/max/1200/1*BoQiEFUfOwWgsiTU1LUWaA.jpeg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/c6n1yx00rKVtZgDxoB_4z1G_M_U\"",
+   "title": "Creating Usability with Motion: The UX in Motion Manifesto",
+   "published": "2017-04-03T23:41:20.322Z",
+   "updated": "2017-04-03T23:41:20.322Z",
+   "id": "z13ld5zwuznuzxuaq04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/cw2UjwFL8ph",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Creating Usability with Motion: The UX in Motion Manifesto",
+    "url": "https://plus.google.com/+PebbleRoad/posts/cw2UjwFL8ph",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ld5zwuznuzxuaq04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ld5zwuznuzxuaq04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ld5zwuznuzxuaq04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Creating Usability with Motion: The UX in Motion Manifesto",
+      "content": "The following manifesto represents my answer to the question — “As a UX or UI, designer, how do I know when and where to implement motion…",
+      "url": "http://buff.ly/2oSqdRP",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/Kqnx-WiNkSvOZFBC1XRBy-T9USNXTzNRjAR9UThjZemvq9xsEAfWqMap4GM-5SbONbCgFS7OJfH4X2oNMBqXrua4RazrlMM_dDTmcwo_aaq7cOq0ehs=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://cdn-images-1.medium.com/max/1000/1*FQwVeyJ8pxngEGAxruGW-A.jpeg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/R1XQY-F1GJXD5TDXE_hhSqN9bLo\"",
+   "title": "This is the Year of Voice UI\nIn-depth insights on the current state of VUI and what to expect in the...",
+   "published": "2017-04-02T13:34:31.661Z",
+   "updated": "2017-04-02T13:34:31.661Z",
+   "id": "z132ejgjlrz2zdowi04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/QrwNtDkx7kf",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "This is the Year of Voice UI\u003cbr /\u003eIn-depth insights on the current state of VUI and what to expect in the near future.\u003cbr /\u003e\u003ca href=\"http://buff.ly/2opIskY\" class=\"ot-anchor\"\u003ehttp://buff.ly/2opIskY\u003c/a\u003e?",
+    "url": "https://plus.google.com/+PebbleRoad/posts/QrwNtDkx7kf",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z132ejgjlrz2zdowi04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z132ejgjlrz2zdowi04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z132ejgjlrz2zdowi04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "This is the Year of Voice UI | Cooper",
+      "content": "Talking to machines is primitive and frustrating, but it's gonna be huge. At Cooper, we care a lot about how to make technology work for humans. For much of our history, that has meant figuring out how to help people design great products for mice and keyboards, and then touch devices, and then for ...",
+      "url": "http://buff.ly/2opIskY",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/L2EQ7JxvCfEZyJDmzesgH_fMWIXiq3m9HYDjgAMMS18rqba5f5jLmpeR52hau0LkHaOUZ1NcFLafPiVoXMnhR5b_3zHjWm7IJZAStcOg5TB4djDnA5TL=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "https://www.cooper.com/uploads/c/2/58d97c9d73593c478f12b7d2-image03.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/mFe0hpzb-S2yfuOtusq4JrHxRsI\"",
+   "title": "PebbleRoad is hiring! We are looking for a senior interaction designer to lead #enterpriseUX projects...",
+   "published": "2017-02-16T13:21:53.407Z",
+   "updated": "2017-02-16T13:21:53.407Z",
+   "id": "z13nuxnpcmyryhcju04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/irsk6pDQEr2",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "PebbleRoad is hiring! We are looking for a senior interaction designer to lead \u003ca rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23enterpriseUX\"\u003e#enterpriseUX\u003c/a\u003e projects. \u003ca href=\"http://buff.ly/2ktubmd%0A#uxjobs\" class=\"ot-anchor\"\u003ehttp://buff.ly/2ktubmd\n#uxjobs\u003c/a\u003e",
+    "url": "https://plus.google.com/+PebbleRoad/posts/irsk6pDQEr2",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nuxnpcmyryhcju04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nuxnpcmyryhcju04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nuxnpcmyryhcju04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "PebbleRoad Pte Ltd",
+      "content": "We are an enterprise UX design consultancy. We help organisations realise their digital ambitions.",
+      "url": "http://buff.ly/2ktubmd",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/geX_bOjmqsLomZtuYz0Vx5EIfRJQLvGW_kIGp_uVBuLiYXRk0a04q2kcX6rALiXYG31xkSI9=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://www.pebbleroad.com/fb-share.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/nGxLRDzOfqu2RhPS7LUyleen2XA\"",
+   "title": "PebbleRoad is proud to sponsor the 2017 World IA Day in Singapore.\n#wiadsingapore",
+   "published": "2017-02-08T05:25:43.152Z",
+   "updated": "2017-02-08T05:25:43.152Z",
+   "id": "z125iv0hzrymvbq0n23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/4J2P1MKzhwf",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "PebbleRoad is proud to sponsor the 2017 World IA Day in Singapore. \u003cbr /\u003e\u003ca rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23wiadsingapore\"\u003e#wiadsingapore\u003c/a\u003e",
+    "url": "https://plus.google.com/+PebbleRoad/posts/4J2P1MKzhwf",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125iv0hzrymvbq0n23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125iv0hzrymvbq0n23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z125iv0hzrymvbq0n23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Singapore | World Information Architecture Day 2017",
+      "content": "We are planning our celebration! If you would like to volunteer or sponsor please get in touch at: singapore@worldiaday.org. If you would like to attend our celebration, please bookmark this page and check back soon. We will be updating our content in the upcoming months. We look forward to seeing ...",
+      "url": "http://buff.ly/2k0RIpD",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/LXhYzUHW5CUdz2wg7AFd0IerHiKcbBQIvZnmtga_uY4Wtg9FJUKQFserTFQonzXALZQBA00g5q-ip7-yFzyBFdwpltbLOsupLaRZGwnjGmlUbZKw1KnNFhJBiHZS7zHjP1w1wm-zq6iveCNZI0-uwkE=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://2017.worldiaday.org/sites/default/files/styles/organiser_portrait/public/pictures/vasu.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/GlkS0OVonFpytiMINQJF68vLE8g\"",
+   "title": "Maish Nichani will be presenting on #EnterpriseUX at UX NXT Conference in Dubai, the region’s first ...",
+   "published": "2017-02-05T07:10:27.929Z",
+   "updated": "2017-02-05T07:10:27.929Z",
+   "id": "z12de35yikqeevwt523rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/7LgxyxCLxru",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Maish Nichani will be presenting on \u003ca rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23EnterpriseUX\"\u003e#EnterpriseUX\u003c/a\u003e at UX NXT Conference in Dubai, the region’s first \u003ca rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23UX\"\u003e#UX\u003c/a\u003e conference.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/7LgxyxCLxru",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12de35yikqeevwt523rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12de35yikqeevwt523rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12de35yikqeevwt523rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "UX NXT : Dubai's 2-day dedicated conference – Meet, learn & get inspired at the region's first UX conference.",
+      "content": "Join us for these 2 days to welcome best professionals from the industry sharing their experience and knowledge about UX, Service Design, Usability and Accessibility. We have chosen these 'never seen in the region' experts from across the world with topics to elevate the knowledge across the breadth ...",
+      "url": "http://buff.ly/2jQkSrr",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/dbF3iPYoPfSLIv-5TLtV6ckVUAsokF0vB825g8ALsA6rcDqUwVOOfmAed3rIPKyRCCVRjGBjjkaRR02OK1kzro_ZSGZMeFFzKHE=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://uxnxt.me/wp-content/uploads/2016/11/header-logo.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/V71QUAcqi-qgL0iZxmrMeBDJM4w\"",
+   "title": "Wishing everyone a happy, healthy and prosperous year of the Fire Rooster!\n#2017cny",
+   "published": "2017-01-28T06:59:31.106Z",
+   "updated": "2017-01-28T06:59:31.106Z",
+   "id": "z13lfb0inmj5jv31w23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/B44RWQPuGjb",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Wishing everyone a happy, healthy and prosperous year of the Fire Rooster!\u003cbr /\u003e\u003ca rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%232017cny\"\u003e#2017cny\u003c/a\u003e",
+    "url": "https://plus.google.com/+PebbleRoad/posts/B44RWQPuGjb",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lfb0inmj5jv31w23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lfb0inmj5jv31w23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lfb0inmj5jv31w23rg1iwdtrujp20a/people/resharers"
+    }
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/xowsmmGmFQ_ay9TalLIrzMwBl1k\"",
+   "title": "A cardboard model for a service design project to improve operational efficiency at a support centre...",
+   "published": "2017-01-26T05:55:49.009Z",
+   "updated": "2017-01-26T05:55:49.009Z",
+   "id": "z124szzhnsbkftugc04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/PtN8pR5sUG8",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "A cardboard model for a service design project to improve operational efficiency at a support centre.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/PtN8pR5sUG8",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124szzhnsbkftugc04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124szzhnsbkftugc04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124szzhnsbkftugc04cixk5vlbazdyoc0s/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "photo",
+      "displayName": "A cardboard model for a service design project to improve operational efficiency at a support centre.",
+      "id": "116500201979181780899.6379788008993272162",
+      "content": "5b711435-88f3-47d2-9396-2ca10315ba14",
+      "url": "https://plus.google.com/photos/116500201979181780899/albums/6379788011097226257/6379788008993272162",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/-VqIgDopL5sw/WImPZIJXMWI/AAAAAAAAAbU/DWwv8QNhbPkSsZEQh6hRgJg8qqoRYnc1QCJoC/w506-h750/5b711435-88f3-47d2-9396-2ca10315ba14",
+       "type": "image/jpeg"
+      },
+      "fullImage": {
+       "url": "https://lh3.googleusercontent.com/-VqIgDopL5sw/WImPZIJXMWI/AAAAAAAAAbU/DWwv8QNhbPkSsZEQh6hRgJg8qqoRYnc1QCJoC/w3024-h4032/5b711435-88f3-47d2-9396-2ca10315ba14",
+       "type": "image/jpeg",
+       "height": 4032,
+       "width": 3024
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/5OqUDFYWcFZBQQAA5d9N4VbsG3A\"",
+   "title": "Wishing all our friends a Happy, Healthy and Prosperous 2017. Thank you for all the support.",
+   "published": "2016-12-31T08:45:07.604Z",
+   "updated": "2016-12-31T08:45:07.604Z",
+   "id": "z130ilohpme1gjaaj04cixk5vlbazdyoc0s",
+   "url": "https://plus.google.com/+PebbleRoad/posts/bf2BQP7AoLs",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Wishing all our friends a Happy, Healthy and Prosperous 2017. Thank you for all the support.",
+    "url": "https://plus.google.com/+PebbleRoad/posts/bf2BQP7AoLs",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130ilohpme1gjaaj04cixk5vlbazdyoc0s/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130ilohpme1gjaaj04cixk5vlbazdyoc0s/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130ilohpme1gjaaj04cixk5vlbazdyoc0s/people/resharers"
+    }
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"ucaTEV-ZanNH5M3SCxYRM0QRw2Y/hwYeHz-AQ8R7OHWqy335LlgsqVg\"",
+   "title": "Using Lego models in user research - a case study via @PebbleRoadhq",
+   "published": "2016-12-06T09:07:42.618Z",
+   "updated": "2016-12-06T09:07:42.618Z",
+   "id": "z12qu5k4gxmvtpdvl23rg1iwdtrujp20a",
+   "url": "https://plus.google.com/+PebbleRoad/posts/KxDMiGSGYnQ",
+   "actor": {
+    "id": "116500201979181780899",
+    "displayName": "PebbleRoad",
+    "url": "https://plus.google.com/116500201979181780899",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-0a-cUpeyM1k/AAAAAAAAAAI/AAAAAAAAAWo/uLCt7fnUJXQ/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Using Lego models in user research - a case study  via @PebbleRoadhq",
+    "url": "https://plus.google.com/+PebbleRoad/posts/KxDMiGSGYnQ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qu5k4gxmvtpdvl23rg1iwdtrujp20a/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qu5k4gxmvtpdvl23rg1iwdtrujp20a/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qu5k4gxmvtpdvl23rg1iwdtrujp20a/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Using Lego models in user research - a case study - PebbleRoad",
+      "content": "We know that playing with Lego bricks can unleash creativity. But can it also help officers look for ways to solve thorny issues at their service centre? We had an opportunity to find out.",
+      "url": "http://buff.ly/2gy5eQG",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/geX_bOjmqsLomZtuYz0Vx5EIfRJQLvGW_kIGp_uVBuLiYXRk0a04q2kcX6rALiXYG31xkSI9=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://www.pebbleroad.com/fb-share.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  }
+ ]
+}

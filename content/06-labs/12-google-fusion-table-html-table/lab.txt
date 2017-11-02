@@ -1,0 +1,32 @@
+Title: Google Fusion Tables to HTML tables app
+----
+Summary: An app to display data from Google Fusion Tables in responsive, searchable HTML table or card format.
+----
+Github: https://github.com/PebbleRoad/fusion-table-app
+----
+Tags: Google, Tables, PDF, HTML, CSS, JavaScript
+----
+Demo: http://pebbleroad.github.io/fusion-table-app/
+----
+License: MIT
+----
+Features: 
+
+* Beautiful table design
+* Multiple formats - card or table
+* Searchable
+* Responsive
+* Pagination
+
+----
+Body: 
+
+## What it is
+A free app to display data in Google Fusion Tables in HTML table format.
+
+## Why use it
+This may be part of a workflow to take [data tables stuck in PDF files to the web](http://www.pebbleroad.com/perspectives/move-data-tables-from-pdf-to-web). The first part is to move the data tables in PDF format to Google Fusion Tables. Then, this app can help in taking the the table in Google Fusion Tables to the web.
+
+## How to use it
+
+[View instructions on Github](https://github.com/PebbleRoad/fusion-table-app)
